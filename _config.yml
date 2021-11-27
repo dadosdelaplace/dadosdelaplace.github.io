@@ -141,8 +141,8 @@ googlefonts:
 chulapa-skin: 
   highlight     :  perldoc
   skin          :  chulapa
-  autothemer    :  # true # Bool: Use autotheming
-  vars          :   
+  autothemer    :  #true # Bool: Use autotheming
+  vars  :
     primary: "#2F414A"
     secondary: "#F47B53"
     success: "#420084"
@@ -152,7 +152,7 @@ chulapa-skin:
     light: "#eef0f2"
     dark: "#000633"
     headings-font-family: Voltaire
-    enable-responsive-font-sizes: true
+    # enable-responsive-font-sizes: true
     # body-color                  : black
     # primary                     : lightskyblue #default ["#007bff"] - Bootstrap blue
     
