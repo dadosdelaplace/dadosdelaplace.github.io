@@ -1,6 +1,7 @@
 remote_theme: dieghernan/chulapa
 repository: dadosdelaplace/dadosdelaplace.github.io
 url: https://dadosdelaplace.github.io
+favicon: ./assets/img/site/favicon.ico
 baseurl: ""
 
 # Find errors on this file with http://www.yamllint.com/
@@ -23,7 +24,7 @@ og_image                : #./assets/img/site/banner.png
 twitter_site            : dadosdelaplace
 author:
   name                  :  Javier Álvarez Liébana
-  avatar                :  #./assets/img/site/avatar.png
+  avatar                :  ./assets/img/site/logo_navegador.png
   location              :  "Madrid, Spain"
   links:     
     - url: https://twitter.com/dadosdelaplace
@@ -96,9 +97,10 @@ navbar:
   style     : dual #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
   expand    : xl # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
-    title   : Javier Álvarez Liébana - Dados de Laplace # Title in navbar
+    title   : Javier Álvarez Liébana # Title in navbar
+    subtitle: Dados de Laplace
     url     :  # default["url/baseurl"]
-    img     :  # An small image, try 30x30px
+    img     :  https://dadosdelaplace.github.io/assets/img/site/logo_navegador.png
   nav:
   - title   : Blog # Label
     url     : /blog/ # url	
@@ -129,7 +131,7 @@ footer:
   links:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+      url   : https://github.com/dadosdelaplace/dadosdelaplace.github.io # A link or email: https://twitter.com/jack, mail@example.com
     - label: "RSS"
       icon: "fa fa-rss"
       url:  "./atom.xml"
