@@ -122,7 +122,7 @@ navbar:
   - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github repo'
     url     : https://github.com/dieghernan/dieghernan.github.io
   - title   : Social networks
-      child:		
+    child   :		
      - title   : '<i class="fa fa-twitter" aria-hidden="true"></i> Twitter'
        url     : https://twitter.com/dadosdelaplace
      - title   : '<i class="fa fa-instagram" aria-hidden="true"></i> Instagram'
