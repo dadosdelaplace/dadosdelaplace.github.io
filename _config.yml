@@ -134,7 +134,8 @@ footer:
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
 googlefonts:
- - url : 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap'
+ - url : "https://fonts.googleapis.com/css?family=Voltaire:200,300,400,700"
+ - url : "https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"
 
 # Theme and colors
 chulapa-skin: 
@@ -142,8 +143,17 @@ chulapa-skin:
   skin          :  chulapa
   autothemer    :  # true # Bool: Use autotheming
   vars          :   
+    primary: "#2F414A"
+    secondary: "#F47B53"
+    success: "#420084"
+    danger: "#f2460d"
+    info: "#7ebcfa"
+    warning: "#ff9933"
+    light: "#eef0f2"
+    dark: "#000633"
+    headings-font-family: Voltaire
     enable-responsive-font-sizes: true
-    body-color                  : black
+    # body-color                  : black
     # primary                     : lightskyblue #default ["#007bff"] - Bootstrap blue
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
