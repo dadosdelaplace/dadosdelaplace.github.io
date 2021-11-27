@@ -1,21 +1,22 @@
 remote_theme: dieghernan/chulapa
+repository: dadosdelaplace/dadosdelaplace.github.io
+url: https://dadosdelaplace.github.io
+baseurl: ""
 
 # Find errors on this file with http://www.yamllint.com/
-
 # Chulapa docs: https://dieghernan.github.io/chulapa/docs/02-config
 
 # A. Site Settings /SEO options
 # Overall options for your site, would affect your site SEO
-# Default values are explained
-locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : Chulapa 101    #default["repository_name"]
-title_separator         :     #default [" | "]
-subtitle                : Chulapa Jekyll Theme starter pack    #default [your-repository-tagline]  
-description             : Chulapa Jekyll Theme starter pack #default [your-repository-tagline]
-url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
-baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
-words_per_minute        :     #default[200]
-timezone                :     #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Site settings
+locale                  : #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
+title                   : Javier Álvarez Liébana
+title_separator         : #default [" | "]
+subtitle                : Dados de Laplace
+description             : Mathematician, PhD Stats, Assistant Professor and scicomm (Matemático, doctor en estadística, investigador y divulgador científico)
+words_per_minute        : #default[200]
+timezone                : "Europe/Madrid"
 
 # SEO
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
