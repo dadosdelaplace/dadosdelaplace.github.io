@@ -97,8 +97,7 @@ navbar:
   style     : dual #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
   expand    : xl # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
-    title   : Javier Álvarez Liébana # Title in navbar
-    subtitle: Dados de Laplace
+    title   : Javier Álvarez Liébana - Dados de Laplace# Title in navbar
     url     :  # default["url/baseurl"]
     img     :  https://dadosdelaplace.github.io/assets/img/site/logo_navegador.png
   nav:
@@ -129,12 +128,21 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Repo on Github # Label
-      icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dadosdelaplace/dadosdelaplace.github.io # A link or email: https://twitter.com/jack, mail@example.com
     - label: "RSS"
       icon: "fa fa-rss"
       url:  "./atom.xml"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/dadosdelaplace"
+    - label: "Twitter"
+      icon: "fa fa-twitter"
+      url: "https://twitter.com/dadosdelaplace"
+    - label: "Instagram"
+      icon: "fa fa-instagram"
+      url: "https://instagram.com/javieralvarezliebana"
+    - label: "Newsletter"
+      icon: "fas fa-envelope"
+      url: "https://cartasdelaplace.substack.com"
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
