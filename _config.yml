@@ -94,10 +94,10 @@ comments:
 #   "nav" would be set on the right side. Two-level nav links available
 # B. Navigation
 navbar:
-  style     : dual #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
+  style     : dual # default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
   expand    : xl # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
-    title   : Javier Álvarez Liébana - Dados de Laplace# Title in navbar
+    title   : Javier Álvarez Liébana - Dados de Laplace # Title in navbar
     url     :  # default["url/baseurl"]
     img     :  https://dadosdelaplace.github.io/assets/img/site/logo_navegador.png
   nav:
@@ -117,15 +117,17 @@ navbar:
         url   : /current-skin
   - title   : Docs
     url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
-#  - title   : # Label submenu
-#    child:		
-#    - title: # Child label		
-#      url  : # child url	
-#    - title: # Child label		
-#      url  : # child url	
-#Social links to be placed on your site footer
+  - title   : '<i class="fas fa-envelope" aria-hidden="true"></i> Newsletter'
+    url     : https://cartasdelaplace.substack.com
+  - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github repo'
+    url     : https://github.com/dieghernan/dieghernan.github.io
+  - title   : Social networks
+      child:		
+     - title   : '<i class="fa fa-twitter" aria-hidden="true"></i> Twitter'
+       url     : https://twitter.com/dadosdelaplace
+     - title   : '<i class="fa fa-instagram" aria-hidden="true"></i> Instagram'
+       url     : https://instagram.com/javieralvarezliebana
+# Social links to be placed on your site footer
 footer:
   links:
     - label: "RSS"
@@ -173,19 +175,15 @@ chulapa-skin:
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
-paginate: 4
+paginate: 5
 paginate_path: "/blog/page:num/"
-paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
-
-# Collections https://jekyllrb.com/docs/step-by-step/09-collections/
+paginator_maxnum: 3  
+collections_dir     : collections
 collections:
-  cheatsheet:
+  projects:
     output: true
-    permalink: /cheatsheets/:name
-collections_dir     : 
-permalink           : /:year:month:day_:title/
-
-
+    permalink: /projects/:name/
+permalink: /:year:month_:title/
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
   -
