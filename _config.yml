@@ -99,12 +99,14 @@ navbar:
   brand:
     title   : Javier Álvarez Liébana - Dados de Laplace # Title in navbar
     url     :  # default["url/baseurl"]
-    img     :  https://dadosdelaplace.github.io/assets/img/site/logo_navegador.png
+    img     :  # https://dadosdelaplace.github.io/assets/img/site/logo_navegador.png
   nav:
   - title   : Blog # Label
     url     : /blog/ # url	
   - title   : Cheatsheets
     url     : /cheatsheets
+  - title   : CV
+    url     : /cv
   - title   : Extras
     child   :
       - title : Tags
@@ -119,9 +121,9 @@ navbar:
     url     : https://dieghernan.github.io/chulapa/docs/01-install
   - title   : '<i class="fas fa-envelope" aria-hidden="true"></i> Newsletter'
     url     : https://cartasdelaplace.substack.com
-  - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github repo'
+  - title   : '<i class="fab fa-github" aria-hidden="true"></i> Githu'
     url     : https://github.com/dieghernan/dieghernan.github.io
-  - title   : Social networks
+  - title   : Social
     child   :		
      - title   : '<i class="fa fa-twitter" aria-hidden="true"></i> Twitter'
        url     : https://twitter.com/dadosdelaplace
