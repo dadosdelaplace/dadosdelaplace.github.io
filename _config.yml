@@ -103,10 +103,12 @@ navbar:
   nav:
   - title   : About me # Label
     child   :
-      - title   : About me
-        url     : /about
-      - title   : Media
-        url     : /media
+      - title   : About me (Sobre mí)
+        url     : https://dadosdelaplace.github.io/#about
+      - title   : Scicomm projects (divulgación)
+        url     : https://dadosdelaplace.github.io/#scicomm-projects-divulgaci%C3%B3n
+      - title   : Media (apariciones en medios)
+        url     : https://dadosdelaplace.github.io/#media-apariciones-en-medios
   - title   : Blog
     child   :
       - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
