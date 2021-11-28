@@ -18,7 +18,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 
 **Welcome to my personal website!**{:.chulapa}
 
-My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Madrid in 1989, and currently, I'm working as **Assistant Professor** at **Universidad Complutense** (Madrid, Spain). As researcher, I achieved a **PhD in Statistics at University of Granada**, with stages at Universitè Pierre et Marie Curie. I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark :.text-light}, **Functional Data Analysis**{:.text-dark}, **Time Series**{:.text-dark} and **Dataviz**{:.text-dark}. I also have some experience making **software and courses in R language**.
+My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Madrid in 1989, and currently, I'm working as **Assistant Professor** at **Universidad Complutense** (Madrid, Spain). As researcher, I achieved a **PhD in Statistics at University of Granada**, with stages at Universitè Pierre et Marie Curie. I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark :.text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I also have some experience making **software and courses in R language**.
 
 My research can be found in [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es). I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research (SEIO), and a member of Spanish Research Project [<mark><b>Dinámica compleja e inferencia no paramétrica (PID2020-116587GB-I0)</b></mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353).
 
@@ -27,24 +27,3 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 * Newsletter: https://cartasdelaplace.substack.com
 * Twitter: https://twitter.com/dadosdelaplace
 * Instagram: https://instagram.com/javieralvarezliebana
-
-
-
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
-
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
-
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
-
