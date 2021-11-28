@@ -101,22 +101,22 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # https://dadosdelaplace.github.io/assets/img/site/logo_navegador.png
   nav:
-  - title   : Blog # Label
+  - title   : About me # Label
     url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
   - title   : CV
     url     : /cv
-  - title   : Extras
+  - title   : Blog
     child   :
-      - title : Tags
+      - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
         url   : /tags
-      - title : Categories
+      - title : Stats (estadística)
         url   : /categories
       - title : Archive
         url   : /archive
       - title : Current skin
         url   : /current-skin
+  - title   : Courses
+    url     : /courses
   - title   : Teaching (docencia)
     url     : /teaching
   - title   : Media
