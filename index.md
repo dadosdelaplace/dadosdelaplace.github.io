@@ -36,7 +36,7 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
 
 * **Newsletter**{:.display-5 .mb-5 .bg-success}
-  - «CARTA #4: correlación no implica causalidad…pero sí un Nobel» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
+  - **«Correlación no implica causalidad…pero sí un Nobel»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
   - «CARTA #3: ¿qué sucedió en Alemania? 🗳🇩🇪 Dataviz de las elecciones alemanas» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
   - «CARTA #2: la importancia de visualizar datos» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-2)
 
