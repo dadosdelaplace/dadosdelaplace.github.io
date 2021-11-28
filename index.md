@@ -17,7 +17,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 {: .display-3 .mb-5}
 -->
 
-**Welcome to my personal website!**{:.chulapa}
+<a name="about"></a>**Welcome to my personal website!**{:.chulapa}
 
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
@@ -35,7 +35,7 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 
 &nbsp;  
 
-## **Scicomm projects (divulgación)**{:.display-5 .mb-5 .bg-danger .text-light}
+<a name="scicomm"></a> ## **Scicomm projects (divulgación)**{:.display-5 .mb-5 .bg-danger .text-light}
 
 &nbsp;
 
@@ -79,7 +79,7 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 &nbsp;
 
-## **Media (apariciones en medios)**{:.display-5 .mb-5 .bg-danger .text-light}
+<a name="media"></a> ## **Media (apariciones en medios)**{:.display-5 .mb-5 .bg-danger .text-light}
 
 &nbsp;
 
@@ -96,7 +96,7 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 &nbsp;
 
-## **Scientific articles, conferences and software**{:.display-5 .mb-5 .bg-danger .text-light}
+<a name="CV"></a> ## **Scientific articles, conferences and software**{:.display-5 .mb-5 .bg-danger .text-light}
 
 &nbsp;
 
@@ -132,7 +132,7 @@ Some of my main research contributions are now detailed:
   
 &nbsp;
   
-## **Experience**{:.display-5 .mb-5 .bg-danger .text-light}
+<a name="experience"></a> ## **Experience**{:.display-5 .mb-5 .bg-danger .text-light}
 
 &nbsp;
 
@@ -153,7 +153,7 @@ Some of my main research contributions are now detailed:
 
 &nbsp;
 
-## **Education**{:.display-5 .mb-5 .bg-danger .text-light}
+<a name="education"></a> ## **Education**{:.display-5 .mb-5 .bg-danger .text-light}
 
 &nbsp;
 
