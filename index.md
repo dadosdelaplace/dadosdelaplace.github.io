@@ -29,7 +29,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
   </div>
 </div>
 
-I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research Spanish Society (SEIO), and a member of Spanish Research Project [<mark>Dinámica compleja e inferencia no paramétrica</mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) (PID2020-116587GB-I0). 
+I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research Spanish Society (SEIO).
 
 ### **Scicomm projects**{: .display-3 .mb-5 .bg-danger}
 
