@@ -104,7 +104,7 @@ navbar:
   - title   : About me # Label
     child   :
       - title   : About me
-        url     : /blog
+        url     : /about
       - title   : Media
         url     : /media
   - title   : CV
