@@ -18,7 +18,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 -->
 
 <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-  <span class="profile-img" style="background-image: url(/assets/img/me_photo.jpeg)"></span>
+  <span class="profile-img" style="background-image: url(/assets/img/site/me_photo.jpeg)"></span>
 </div> 
 
 <div class="col-xs-12 col-sm-8 col-md-9 col-print-12" markdown="1">
