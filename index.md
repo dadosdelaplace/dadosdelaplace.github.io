@@ -33,9 +33,9 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 
 &nbsp;  
 
-&nbsp;
-
 ## **Scicomm projects (divulgación)**{:.display-5 .mb-5 .bg-danger .text-light}
+
+&nbsp;
 
 As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
 
@@ -61,12 +61,15 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 ## **Courses and teaching materials**{:.display-5 .mb-5 .bg-danger .text-light}
 
-&nbsp;
+* **Course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://aprendiendo-r-intro.netlify.app/)
+* **Course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
+* **Course**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
 
+* **Tutorial**{:.bg-info .text-light} «🗳🇩🇪 Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
 
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Mesa redonda: R e COVID» organised (online) by Usuarios de Software Libre da Terra de Melide (MeLiSA) (Galicia, Spain). **2021*{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Ciencia de Datos y COVID19» organised (online) by DASCI (Andalucía, Spain). Ciclo «Ada Lovelace» **2021*{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Estadística en la guerra, tanto en Pearl Harbor como en el desembarco de Normandía» at XXII ENEM (Murcia, Spain), organised (online) by ANEM (Maths Students Spanish Association) **2021*{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Mesa redonda: R e COVID» organised (online) by Usuarios de Software Libre da Terra de Melide (MeLiSA) (Galicia, Spain). **2021**{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Ciencia de Datos y COVID19» organised (online) by DASCI (Andalucía, Spain). Ciclo «Ada Lovelace» **2021**{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Estadística en la guerra, tanto en Pearl Harbor como en el desembarco de Normandía» at XXII ENEM (Murcia, Spain), organised (online) by ANEM (Maths Students Spanish Association) **2021**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «A journey through Functional Data Analysis» organised by ICMAT (CSIC, Madrid, Spain) **2019**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «Un paseo por las series temporales funcionales» organised by University of Oviedo (Oviedo, Spain) **2018**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «Breve introducción a las series temporales aplicadas a los datos funcionales» organised by University of Santiago de Compostela (Santiago de Compostela, Spain) **2018**{:.bg-dark .text-light}
