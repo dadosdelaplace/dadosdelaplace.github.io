@@ -11,7 +11,7 @@ show_breadcrumb   : false
 ## <a href="./about" class="text-dark">About me</a>
 {: .display-3 .mb-5 }
 
-Welcome to my personal website!
+**Welcome to my personal website!**{:.chulapa}
 
 My name is **Javier Álvarez Liébana** ([**@dadosdelaplace**](https://twitter.com/dadosdelaplace) as scicomm), born in Madrid in 1989, and currently, I'm working as **Assistant Professor** at **Universidad Complutense** (Madrid, Spain). As researcher, I achieved a **PhD in Statistics at University of Granada**, with stages at Universitè Pierre et Marie Curie. I'm most skilled in <mark>Statistics</mark>, <mark>Data Science</mark>, <mark>Functional Data Analysis</mark>, <mark>Time Series</mark> and <mark>Dataviz</mark>. I also have some experience making **software and courses in R language**.
 
