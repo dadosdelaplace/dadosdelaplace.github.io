@@ -163,7 +163,7 @@ chulapa-skin:
     danger: "#dc4462" # rojo. antes --> "#f2460d"
     info: "#3a81b9" # azul. antes --> "#7ebcfa"
     warning: "#ff9933" # naranja
-    light: "#ffffff" # blanco/claro. antes --> "eef0f2"
+    light: "#fefcfb" # blanco/claro. antes --> "eef0f2"
     dark: "#30414a" # color de navbar. antes --> "#000633"
     headings-font-family: Voltaire
     enable-responsive-font-sizes: true
