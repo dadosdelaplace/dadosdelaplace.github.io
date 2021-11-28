@@ -35,21 +35,19 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 
 As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
 
-* <a href="https://cartasdelaplace.substack.com" class="bg-success">Newsletter</a> **«Correlación no implica causalidad…pero sí un Nobel»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
-* <a href="https://cartasdelaplace.substack.com" class="bg-success">Newsletter</a> **«¿Qué sucedió en Alemania? 🗳🇩🇪 Dataviz de las elecciones alemanas»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
-* <a href="https://cartasdelaplace.substack.com" class="bg-success">Newsletter</a> **«La importancia de visualizar datos»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-2)
+* <a href="https://cartasdelaplace.substack.com" class="bg-success"><b>Newsletter</b></a> **«Correlación no implica causalidad…pero sí un Nobel»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
+* <a href="https://cartasdelaplace.substack.com" class="bg-success"><b>Newsletter</b></a> **«¿Qué sucedió en Alemania? 🗳🇩🇪 Dataviz de las elecciones alemanas»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
+* <a href="https://cartasdelaplace.substack.com" class="bg-success"><b>Newsletter</b></a> **«La importancia de visualizar datos»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-2)
 
-* <a href="https://twitter.com/dadosdelaplace" class="bg-info">Twitter</a> **Threads (hilos de divulgación)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
+* <a href="https://twitter.com/dadosdelaplace" class="bg-info"><b>Twitter</b></a> **Threads (hilos de divulgación)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
 
-* <a href="https://instagram.com/javieralvarezliebana" class=".bg-danger">Instagram</a> **«La historia de Sophie Germain»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CO02oxanalP/)
-* <a href="https://instagram.com/javieralvarezliebana" class=".bg-danger">Instagram</a> **«Las 3M de la estadística: media, moda y mediana»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CQvsOmMFkmA/)
-* <a href="https://instagram.com/javieralvarezliebana" class=".bg-danger">Instagram</a> **«¿Qué tienen en común las cigarras y los cubos de cerveza?»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CP8JJXKlI2T/)
-* <a href="https://instagram.com/javieralvarezliebana" class=".bg-danger">Instagram</a> **«Sesgo del superviviente»** **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CGz1O7DFP8Q/)
-* <a href="https://instagram.com/javieralvarezliebana" class=".bg-danger">Instagram</a> **«Ley de Benford»** **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CHF5SW3lwpl/)
+* <a href="https://instagram.com/javieralvarezliebana" class="bg-danger"><b>Instagram</b></a> **«La historia de Sophie Germain»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CO02oxanalP/)
+* <a href="https://instagram.com/javieralvarezliebana" class="bg-danger"><b>Instagram</b></a> **«Las 3M de la estadística: media, moda y mediana»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CQvsOmMFkmA/)
+* <a href="https://instagram.com/javieralvarezliebana" class="bg-danger"><b>Instagram</b></a> **«¿Qué tienen en común las cigarras y los cubos de cerveza?»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CP8JJXKlI2T/)
+* <a href="https://instagram.com/javieralvarezliebana" class="bg-danger"><b>Instagram</b></a> **«Sesgo del superviviente»** **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CGz1O7DFP8Q/)
+* <a href="https://instagram.com/javieralvarezliebana" class="bg-danger"><b>Instagram</b></a> **«Ley de Benford»** **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CHF5SW3lwpl/)
 
-* Newsletter: 
-* Twitter: https://twitter.com/dadosdelaplace
-* Instagram: https://instagram.com/javieralvarezliebana
+
 
 
 ## **Courses and teaching materials**{:.display-5 .mb-5 .bg-danger .text-light}
