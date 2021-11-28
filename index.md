@@ -17,11 +17,11 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 {: .display-3 .mb-5}
 -->
 
-<div class="row" markdown="1">
+<div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
     <span class="profile-img" style="background-image: url(/assets/img/site/me_photo.jpg)"></span>
   </div> 
-  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12" markdown="1">
+  <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   **Welcome to my personal website!**{:.chulapa}
 
   My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Madrid in 1989, and currently, I'm working as **Assistant Professor** at **Universidad Complutense** (Madrid, Spain). As researcher, I achieved a **PhD in Statistics at University of Granada**, with stages at Universitè Pierre et Marie Curie. I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I also have some experience making **software and courses in R language**.
