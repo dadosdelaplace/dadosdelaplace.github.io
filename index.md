@@ -23,3 +23,4 @@ Contains basic configuration to get you a site with:
 On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
 
 [Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+
