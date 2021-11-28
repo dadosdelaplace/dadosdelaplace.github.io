@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Javier Álvarez Liébana (Dados de Laplace)
 header_type: hero
-subtitle: Starter pack
+subtitle: Mathematician, PhD Stats, Assistant Professor and scicomm (matemático, doctor en estadística, investigador y divulgador científico)
 ---
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
