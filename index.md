@@ -35,11 +35,11 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 
 As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
 
-* <a href="https://cartasdelaplace.substack.com" class=".bg-success">Newsletter</a> **«Correlación no implica causalidad…pero sí un Nobel»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
-* <a href="https://cartasdelaplace.substack.com" class=".bg-success">Newsletter</a> **«¿Qué sucedió en Alemania? 🗳🇩🇪 Dataviz de las elecciones alemanas»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
-* <a href="https://cartasdelaplace.substack.com" class=".bg-success">Newsletter</a> **«La importancia de visualizar datos»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-2)
+* <a href="https://cartasdelaplace.substack.com" class="bg-success">Newsletter</a> **«Correlación no implica causalidad…pero sí un Nobel»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
+* <a href="https://cartasdelaplace.substack.com" class="bg-success">Newsletter</a> **«¿Qué sucedió en Alemania? 🗳🇩🇪 Dataviz de las elecciones alemanas»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
+* <a href="https://cartasdelaplace.substack.com" class="bg-success">Newsletter</a> **«La importancia de visualizar datos»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-2)
 
-* <a href="https://twitter.com/dadosdelaplace" class=".bg-info">Twitter</a> **Threads (hilos de divulgación)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
+* <a href="https://twitter.com/dadosdelaplace" class="bg-info">Twitter</a> **Threads (hilos de divulgación)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
 
 * <a href="https://instagram.com/javieralvarezliebana" class=".bg-danger">Instagram</a> **«La historia de Sophie Germain»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CO02oxanalP/)
 * <a href="https://instagram.com/javieralvarezliebana" class=".bg-danger">Instagram</a> **«Las 3M de la estadística: media, moda y mediana»** **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CQvsOmMFkmA/)
