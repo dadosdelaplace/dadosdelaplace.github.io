@@ -38,8 +38,6 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 ## <a name="scicomm"></a>**Scicomm projects (divulgación)**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-&nbsp;
-
 As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
 
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> Correlación no implica causalidad…pero sí un Nobel **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
