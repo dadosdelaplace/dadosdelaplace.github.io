@@ -33,6 +33,8 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 
 &nbsp;  
 
+&nbsp;
+
 ## **Scicomm projects (divulgación)**{:.display-5 .mb-5 .bg-danger .text-light}
 
 As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
@@ -55,9 +57,17 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 * <a href="https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/" class="bg-primary text-light"><b>Radio</b></a> Modelos matemáticos sobre el coronavirus. RNE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/)
 
+&nbsp;
+
+&nbsp;
+
 ## **Courses and teaching materials**{:.display-5 .mb-5 .bg-danger .text-light}
 
 a
+
+&nbsp;
+
+&nbsp;
 
 ## **Media (apariciones en medios)**{:.display-5 .mb-5 .bg-danger .text-light}
 
@@ -71,6 +81,10 @@ a
 
 * <a href="https://www.youtube.com/watch?v=LRC2PN2Wido" class="bg-info text-light"><b>TV</b></a> **«En Europa las alertas frente al COVID-19 son mucho más exigentes que en España»**. RTVE **2020**{:.bg-dark .text-light}
 
+
+&nbsp;
+
+&nbsp;
 
 
 ## **Scientific articles, conferences and software**{:.display-5 .mb-5 .bg-danger .text-light}
@@ -88,7 +102,6 @@ Some of my main research contributions are now detailed:
 
 * **Software**{:.bg-warning} goffda: Goodness-of-Fit Tests for Functional Data. **R package**{:.bg-dark .text-light} E. García-Portugués and J. Álvarez-Liébana **2021{:.bg-dark .text-light}. [<mark><b>CRAN</b></mark>](https://CRAN.R-project.org/package=goffda). [<mark><b>GITHUB</b></mark>]((https://github.com/egarpor/goffda)
 
-
 * **Book Chapter**{:.bg-info .text-light} Goodness-of-fit tests for functional linear models based on integrated projections. Authors: E. García-Portugués, J. Álvarez-Liébana, G. Álvarez-Pérez and W. González-Manteiga. Book chapter In Aneiros, G., Horová, I., Hušková, M., and Vieu, P. (Eds.), Functional and High-Dimensional Statistics and Related Fields, 107–114 **2020**{:.bg-dark .text-light}. Springer, Cham. doi: 10.1007/978-3-030-47756-1_15. [<mark><b>PDF</b></mark>](https://arxiv.org/pdf/2008.09885.pdf)
 * **Book Chapter**{:.bg-info .text-light} A diagonal componentwise approach for ARB(1) prediction. Authors: J. Álvarez-Liébana and M. D. Ruiz-Medina. Book chapter In G. Aneiros, E. G. Bongiorno, R. Cao and P. Vieu (Eds.), Functional and High-Dimensional Statistics and Related Fields, 23–32 **2017**{:.bg-dark .text-light}. Springer, Cham. doi: 10.1007/978-3-319-55846-2. [<mark><b>PDF</b></mark>](https://sci-hub.st/10.1007/978-3-319-55846-2)
 * **PhD Thesis**{:.bg-info .text-light} Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data. Authors: J. Álvarez-Liébana. Supervisor: M. D. Ruiz-Medina. Institution: University of Granada **2018**{:.bg-dark .text-light}. [<mark><b>PDF</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
@@ -105,8 +118,11 @@ Some of my main research contributions are now detailed:
 * **Organizing Committee**{:.bg-secondary .text-light} of «IX Jornadas de R». November 17th-18th **2017**{:.bg-dark .text-light}  – University of Granada (Granada, Spain).
 * **Organizing Committee**{:.bg-secondary .text-light} of «I Jornadas de Investigadores en Formación: fomentando la interdisciplinariedad». May 20th **2016**{:.bg-dark .text-light} – University of Granada (Granada, Spain).
 * **Scientific Committee**{:.bg-secondary .text-light} of «I Jornadas de Investigadores en Formación: fomentando la interdisciplinariedad». May 20th **2016**{:.bg-dark .text-light} – University of Granada (Granada, Spain).
-        
   
+  
+&nbsp;
+
+&nbsp;
   
 ## **Experience**{:.display-5 .mb-5 .bg-danger .text-light}
 
@@ -125,6 +141,10 @@ Some of my main research contributions are now detailed:
 * **Collaboration Grant (Beca de colaboración)**{:.bg-dark .text-light} (November 2012 - July 2012). I was working at Department of Astronomy and Geodesy.
 * **Everis (Insurance company)**{:.bg-dark .text-light} (October 2012 - November 2012). I was working at the Department of Software.
 
+&nbsp;
+
+&nbsp;
+
 
 ## **Education**{:.display-5 .mb-5 .bg-danger .text-light}
 
@@ -133,6 +153,11 @@ Some of my main research contributions are now detailed:
 * **MSc Maths Engineering**{:.bg-dark .text-light} (2013 - 2014) at Complutense University (Madrid, Spain). 8.75 out of 10. Main subjects: predictive models, scientific programming, stochastic simulation, finance, differential equations, parallel computing, data mining and Machine Learning
 
 * **BSc Mathematics**{:.bg-dark .text-light} (2007 - 2013) at Complutense University (Madrid, Spain). 7.15 out of 10, with the speciality of **Astronomy and Geodesy**{:.bg-dark .text-light}. I was studied in Bologna (Italy) as an Erasmus student.
+
+&nbsp;
+
+&nbsp;
+
 
 ## **Awards**{:.display-5 .mb-5 .bg-danger .text-light}
 
