@@ -75,8 +75,37 @@ a
 
 ## **Experience**{:.display-5 .mb-5 .bg-danger .text-light}
 
+* **Assistant Professor (October 2021 - Present)**{:.bg-dark .text-light} at Complutense University (Madrid, Spain). **Faculty of Statistics, Department of Statistics and Data Science**. I am a member of the **working group** **Data science and soft computing for social analytics and decision aid**{:.bg-dark .text-light}
+* **Biostatistician and adviser (October 2020 - September 2021)**{:.bg-dark .text-light} Regional Ministry of Health of Asturias (Spain). I was worked as **biostatistician and data analyst during the COVID-19 pandemic**. My work was the design of a predictive regional model for COVID-19 data, and their on-stream visualization developed with R and Shiny.
+* **Assistant Professor (September 2020 - September 2021)**{:.bg-dark .text-light} at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
+* **Contract Teacher (October 2018 - August 2020)**{:.bg-dark .text-light} at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
+
+University of Granada (Granada)
+PhD Student in Statistics
+
+September 2014 - July 2018
+
+PhD Thesis
+I have presented my thesis dissertation on 24th July 2018, awarded with Cum Laude, and entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. I stayed at Universitè Pierre et Marie Curie (Paris) under the supervision of D. Bosq.
+
+Línea Directa
+Insurance company
+
+March 2014 - August 2014
+
+I was working at Línea Directa at department of Big Data and and pricing, developed with R, Hadoop, SQL and PIG
+
 ## **Education**{:.display-5 .mb-5 .bg-danger .text-light}
+
+* **PhD Thesis (2014 - 2018)**{:.bg-dark .text-light} at University of Granada (Granada, Spain). Cum Laude and International Mention. PhD Thesis dissertation entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. [<mark><b>LINK</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
+
+* **MSc Maths Engineering (2013 - 2014)**{:.bg-dark .text-light} at Complutense University (Madrid, Spain). 8.75 out of 10. Main subjects: predictive models, scientific programming, stochastic simulation, finance, differential equations, parallel computing, data mining and Machine Learning
+
+* **BSc Mathematics (2007 - 2013)**{:.bg-dark .text-light} at Complutense University (Madrid, Spain). 7.15 out of 10. During my time at BSc Mathematics I was studied in Bologna (Italy) as an Erasmus student.
 
 ## **Awards**{:.display-5 .mb-5 .bg-danger .text-light}
 
-
+* Grant **Juan de la Cierva - Formación**{:.bg-dark .text-light}, granted by Science Ministery of Spain (Ministerio de Ciencia e Innovación).
+* **Awarded by the Spanish Statistics and O.R. Society (SEIO)**{:.bg-dark .text-light} in 2019 as participant for the «21th European Young Statisticians Meetings» (Belgrade, Serbia).
+* **PhD Thesis with honors (Cum Laude)**{:.bg-dark .text-light} and International Mention in 2018.
+* **Awarded by the Spanish Statistics and O.R. Society (SEIO)**{:.bg-dark .text-light} in 2018 as participant for the «Regional workshop European Young Researchs» (París).
