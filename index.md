@@ -59,17 +59,24 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 &nbsp;
 
-&nbsp;
-
 ## **Courses and teaching materials**{:.display-5 .mb-5 .bg-danger .text-light}
 
-a
-
 &nbsp;
+
+
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Mesa redonda: R e COVID» organised (online) by Usuarios de Software Libre da Terra de Melide (MeLiSA) (Galicia, Spain). **2021*{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Ciencia de Datos y COVID19» organised (online) by DASCI (Andalucía, Spain). Ciclo «Ada Lovelace» **2021*{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Estadística en la guerra, tanto en Pearl Harbor como en el desembarco de Normandía» at XXII ENEM (Murcia, Spain), organised (online) by ANEM (Maths Students Spanish Association) **2021*{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «A journey through Functional Data Analysis» organised by ICMAT (CSIC, Madrid, Spain) **2019**{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Un paseo por las series temporales funcionales» organised by University of Oviedo (Oviedo, Spain) **2018**{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Breve introducción a las series temporales aplicadas a los datos funcionales» organised by University of Santiago de Compostela (Santiago de Compostela, Spain) **2018**{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Machine Learning: supervised and non supervised learning» organised by IEMATH-GR (University of Granada, Spain) **2016**{:.bg-dark .text-light}
 
 &nbsp;
 
 ## **Media (apariciones en medios)**{:.display-5 .mb-5 .bg-danger .text-light}
+
+&nbsp;
 
 * <a href="List of mentions, colaborations and interviews" class="bg-primary text-light"><b>Notion</b></a> **List of mentions, colaborations and interviews** [<mark><b>LINK</b></mark>](https://dadosdelaplace.notion.site/e19a48b8f988404590a2a49e21dd7893?v=2a43e759ceb24c8bba12eb7613d8e680)
 
@@ -84,10 +91,9 @@ a
 
 &nbsp;
 
-&nbsp;
-
-
 ## **Scientific articles, conferences and software**{:.display-5 .mb-5 .bg-danger .text-light}
+
+&nbsp;
 
 Some of my main research contributions are now detailed:
 
@@ -119,12 +125,11 @@ Some of my main research contributions are now detailed:
 * **Organizing Committee**{:.bg-secondary .text-light} of «I Jornadas de Investigadores en Formación: fomentando la interdisciplinariedad». May 20th **2016**{:.bg-dark .text-light} – University of Granada (Granada, Spain).
 * **Scientific Committee**{:.bg-secondary .text-light} of «I Jornadas de Investigadores en Formación: fomentando la interdisciplinariedad». May 20th **2016**{:.bg-dark .text-light} – University of Granada (Granada, Spain).
   
-  
-&nbsp;
-
 &nbsp;
   
 ## **Experience**{:.display-5 .mb-5 .bg-danger .text-light}
+
+&nbsp;
 
 * **Assistant Professor**{:.bg-dark .text-light} (October 2021 - Present) at Complutense University (Madrid, Spain). **Faculty of Statistics, Department of Statistics and Data Science**. I am a member of the **working group** **Data science and soft computing for social analytics and decision aid**{:.bg-dark .text-light}
 
@@ -143,10 +148,9 @@ Some of my main research contributions are now detailed:
 
 &nbsp;
 
-&nbsp;
-
-
 ## **Education**{:.display-5 .mb-5 .bg-danger .text-light}
+
+&nbsp;
 
 * **PhD Thesis**{:.bg-dark .text-light} (2014 - 2018) at University of Granada (Granada, Spain). Cum Laude and International Mention. PhD Thesis dissertation entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. [<mark><b>LINK</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
 
@@ -156,10 +160,9 @@ Some of my main research contributions are now detailed:
 
 &nbsp;
 
-&nbsp;
-
-
 ## **Awards**{:.display-5 .mb-5 .bg-danger .text-light}
+
+&nbsp;
 
 * Grant **Juan de la Cierva - Formación**{:.bg-dark .text-light}, granted by Science Ministery of Spain (Ministerio de Ciencia e Innovación).
 * **Awarded by the Spanish Statistics and O.R. Society (SEIO)**{:.bg-dark .text-light} in 2019 as participant for the «21th European Young Statisticians Meetings» (Belgrade, Serbia).
