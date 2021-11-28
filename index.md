@@ -6,6 +6,11 @@ subtitle: Mathematician, PhD Stats, Assistant Professor and scicomm (Dados de La
 header_img: /assets/img/site/banner.webp
 ---
 
+## <a href="./about" class="text-dark">About me</a>
+{: .display-3 .mb-5 }
+
+Hi, my name's <b>Javier Álvarez Liébana (@dadosdelaplace as scicomm)</b>, and I'm working as Assistant Professor at <b>Universidad Complutense (Madrid, Spain)</b>. As well as researcher (PhD in Statistics at University of Granada, with stages at Universitè Pierre et Marie Curie), I also have some experience making <b>software and courses in R language</b>. Currently, I'm a member of Spanish Research Project «Dinámica compleja e inferencia no paramétrica» (PID2020-116587GB-I0). I am most skilled in <mark>Statistics</mark>, <mark>data science</mark>, <mark>Functional Data</mark>, <mark>time series</mark> and <mark>dataviz</mark>. My research can be found in [Google Scholar](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es)
+
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
 Contains basic configuration to get you a site with:
