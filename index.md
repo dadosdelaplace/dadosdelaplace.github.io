@@ -29,7 +29,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
   </div>
 </div>
 
-I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research Spanish Society (SEIO).
+I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research Spanish Society (SEIO), a member of Spanish Research Project [<mark><b>Dinámica compleja e inferencia no paramétrica</b></mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) (PID2020-116587GB-I0) and a member of Complutense University research group [<mark><b>Data science and soft computing for social analytics and decision aid</b></mark>](https://edoctorado.ucm.es/grupos/grupo/509)
 
 ## **Scicomm projects (divulgación)**{:.display-5 .mb-5 .bg-danger .text-light}
 
@@ -83,7 +83,7 @@ a
 
 * **Contract Teacher**{:.bg-dark .text-light} (October 2018 - August 2020) at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
 
-* **PhD Student in Statistics**{:.bg-dark .text-light} (September 2014 - July 2018) at University of Granada (Andalucía, Spain). **Faculty of Sciences, Department of Statistics and Operations Research**. I have presented my thesis dissertation on 24th July 2018, awarded with Cum Laude, and entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. I stayed at **Universitè Pierre et Marie Curie (Paris) under the supervision of D. Bosq**{:.bg-dark .text-light}.
+* **PhD Student in Statistics**{:.bg-dark .text-light} (September 2014 - July 2018) at University of Granada (Andalucía, Spain). **Faculty of Sciences, Department of Statistics and Operations Research**. I have presented my thesis dissertation on 24th July 2018. I stayed at **Universitè Pierre et Marie Curie (Paris)**{:.bg-dark .text-light} under the supervision of D. Bosq.
 
 * **Línea Directa (Insurance company)**{:.bg-dark .text-light} (March 2014 - August 2014). I was working at the Department of Big Data and Pricing, as developer with R, Hadoop, SQL and PIG.
 * **ShowLeap (start-up)**{:.bg-dark .text-light} (January 2014 - August 2014). I was working at start-up ShowLeap, as developer with Python, working in the development of a LSE app translator.
