@@ -9,7 +9,6 @@ show_breadcrumb   : false
 ---
 
 ## <a href="./about" class="text-dark">About me</a>
-{: .display-3 .mb-5 }
 
 Welcome to my personal website!
 
