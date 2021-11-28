@@ -26,7 +26,7 @@ My research can be found in [**Google Scholar**](https://scholar.google.es/citat
 
 ## License
 
-[**GNU General Public License v3.0**](https://raw.githubusercontent.com/dadosdelaplace/dadosdelaplace.github.io/main/LICENSE)
+[**The MIT license**](https://raw.githubusercontent.com/dadosdelaplace/dadosdelaplace.github.io/main/LICENSE)
 
 ## Attributions
 
