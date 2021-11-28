@@ -59,7 +59,7 @@ a
 
 ## **Media (apariciones en medios)**{:.display-5 .mb-5 .bg-danger .text-light}
 
-* <a href="List of mentions, colaborations and interviews" class="bg-primary text-light"><b>Notion</b></a> **List of mentions, colaborations and interviews** {:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.notion.site/e19a48b8f988404590a2a49e21dd7893?v=2a43e759ceb24c8bba12eb7613d8e680)
+* <a href="List of mentions, colaborations and interviews" class="bg-primary text-light"><b>Notion</b></a> **List of mentions, colaborations and interviews** [<mark><b>LINK</b></mark>](https://dadosdelaplace.notion.site/e19a48b8f988404590a2a49e21dd7893?v=2a43e759ceb24c8bba12eb7613d8e680)
 
 * <a href="https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html" class="bg-success text-light"><b>Written Press</b></a> **«Ni gatos ni pasteles: el anestesista y el matemático que arrasan en redes porque ayudan a entender la pandemia»**, Isabel Valdés. El País **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html)
 * <a href="https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html" class="bg-success text-light"><b>Written Press</b></a> **«El nuevo modelo para aplicar cierres busca anticiparse y evitar la saturación hospitalaria. Javier Álvarez Liébana, matemático, colabora con la Consejería de Salud de Asturias»**, Laura Mayordomo. El Comercio **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html)
@@ -75,33 +75,29 @@ a
 
 ## **Experience**{:.display-5 .mb-5 .bg-danger .text-light}
 
-* **Assistant Professor (October 2021 - Present)**{:.bg-dark .text-light} at Complutense University (Madrid, Spain). **Faculty of Statistics, Department of Statistics and Data Science**. I am a member of the **working group** **Data science and soft computing for social analytics and decision aid**{:.bg-dark .text-light}
-* **Biostatistician and adviser (October 2020 - September 2021)**{:.bg-dark .text-light} Regional Ministry of Health of Asturias (Spain). I was worked as **biostatistician and data analyst during the COVID-19 pandemic**. My work was the design of a predictive regional model for COVID-19 data, and their on-stream visualization developed with R and Shiny.
-* **Assistant Professor (September 2020 - September 2021)**{:.bg-dark .text-light} at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
-* **Contract Teacher (October 2018 - August 2020)**{:.bg-dark .text-light} at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
+* **Assistant Professor**{:.bg-dark .text-light} (October 2021 - Present) at Complutense University (Madrid, Spain). **Faculty of Statistics, Department of Statistics and Data Science**. I am a member of the **working group** **Data science and soft computing for social analytics and decision aid**{:.bg-dark .text-light}
 
-University of Granada (Granada)
-PhD Student in Statistics
+* **Biostatistician and adviser**{:.bg-dark .text-light} (October 2020 - September 2021) at Regional Ministry of Health of Asturias (Spain). I was worked as **biostatistician and data analyst during the COVID-19 pandemic**. My work was the design of a predictive regional model for COVID-19 data, and their on-stream visualization developed with R and Shiny.
 
-September 2014 - July 2018
+* **Assistant Professor**{:.bg-dark .text-light} (September 2020 - September 2021) at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
 
-PhD Thesis
-I have presented my thesis dissertation on 24th July 2018, awarded with Cum Laude, and entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. I stayed at Universitè Pierre et Marie Curie (Paris) under the supervision of D. Bosq.
+* **Contract Teacher**{:.bg-dark .text-light} (October 2018 - August 2020) at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
 
-Línea Directa
-Insurance company
+* **PhD Student in Statistics**{:.bg-dark .text-light} (September 2014 - July 2018) at University of Granada (Andalucía, Spain). **Faculty of Sciences, Department of Statistics and Operations Research**. I have presented my thesis dissertation on 24th July 2018, awarded with Cum Laude, and entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. I stayed at **Universitè Pierre et Marie Curie (Paris) under the supervision of D. Bosq**{:.bg-dark .text-light}.
 
-March 2014 - August 2014
+* **Línea Directa (Insurance company)**{:.bg-dark .text-light} (March 2014 - August 2014). I was working at the Department of Big Data and Pricing, as developer with R, Hadoop, SQL and PIG.
+* **ShowLeap (start-up)**{:.bg-dark .text-light} (January 2014 - August 2014). I was working at start-up ShowLeap, as developer with Python, working in the development of a LSE app translator.
+* **Collaboration Grant (Beca de colaboración)**{:.bg-dark .text-light} (November 2012 - July 2012). I was working at Department of Astronomy and Geodesy.
+* **Everis (Insurance company)**{:.bg-dark .text-light} (October 2012 - November 2012). I was working at the Department of Software.
 
-I was working at Línea Directa at department of Big Data and and pricing, developed with R, Hadoop, SQL and PIG
 
 ## **Education**{:.display-5 .mb-5 .bg-danger .text-light}
 
-* **PhD Thesis (2014 - 2018)**{:.bg-dark .text-light} at University of Granada (Granada, Spain). Cum Laude and International Mention. PhD Thesis dissertation entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. [<mark><b>LINK</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
+* **PhD Thesis**{:.bg-dark .text-light} (2014 - 2018) at University of Granada (Granada, Spain). Cum Laude and International Mention. PhD Thesis dissertation entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. [<mark><b>LINK</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
 
-* **MSc Maths Engineering (2013 - 2014)**{:.bg-dark .text-light} at Complutense University (Madrid, Spain). 8.75 out of 10. Main subjects: predictive models, scientific programming, stochastic simulation, finance, differential equations, parallel computing, data mining and Machine Learning
+* **MSc Maths Engineering**{:.bg-dark .text-light} (2013 - 2014) at Complutense University (Madrid, Spain). 8.75 out of 10. Main subjects: predictive models, scientific programming, stochastic simulation, finance, differential equations, parallel computing, data mining and Machine Learning
 
-* **BSc Mathematics (2007 - 2013)**{:.bg-dark .text-light} at Complutense University (Madrid, Spain). 7.15 out of 10. During my time at BSc Mathematics I was studied in Bologna (Italy) as an Erasmus student.
+* **BSc Mathematics**{:.bg-dark .text-light} (2007 - 2013) at Complutense University (Madrid, Spain). 7.15 out of 10, with the speciality of **Astronomy and Geodesy**{:.bg-dark .text-light}. I was studied in Bologna (Italy) as an Erasmus student.
 
 ## **Awards**{:.display-5 .mb-5 .bg-danger .text-light}
 
