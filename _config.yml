@@ -107,8 +107,6 @@ navbar:
         url     : /about
       - title   : Media
         url     : /media
-  - title   : CV
-    url     : /cv
   - title   : Blog
     child   :
       - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
@@ -125,6 +123,8 @@ navbar:
     url     : https://github.com/dadosdelaplace/dadosdelaplace.github.io
   - title   : Social (redes)
     child   :		
+     - title   : '<i class="fab fa-telegram" aria-hidden="true"></i> Telegram'
+       url     : https://t.me/dadosdelaplace
      - title   : '<i class="fa fa-twitter" aria-hidden="true"></i> Twitter'
        url     : https://twitter.com/dadosdelaplace
      - title   : '<i class="fa fa-instagram" aria-hidden="true"></i> Instagram'
