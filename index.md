@@ -31,10 +31,31 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 
 I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research Spanish Society (SEIO).
 
-## **Scicomm projects**{:.display-5 .mb-5 .bg-danger .text-light}
+## **Scicomm projects (divulgación)**{:.display-5 .mb-5 .bg-danger .text-light}
 
-As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as the importance of **R programming and dataviz**:
+As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
 
-* Newsletter: https://cartasdelaplace.substack.com
+* **Newsletter**{:.display-5 .mb-5 .bg-success}
+  - «CARTA #4: correlación no implica causalidad…pero sí un Nobel» **2021**{:.bg-dark .text-light} <a href="https://cartasdelaplace.substack.com/p/carta-4" class="bg-info"><b>LINK</b></a>
+  - «CARTA #2: la importancia de visualizar datos» **2021**{:.bg-dark .text-light} <a href="https://cartasdelaplace.substack.com/p/carta-3" class="bg-info"><b>LINK</b></a>
+
+* **Twitter**{:.display-5 .mb-5 .bg-success}
+
+* **Instagram**{:.display-5 .mb-5 .bg-success}
+
+* Newsletter: 
 * Twitter: https://twitter.com/dadosdelaplace
 * Instagram: https://instagram.com/javieralvarezliebana
+
+
+## **Seminars, courses and teaching materials (cursos, seminarios impartidos y material docente)**{:.display-5 .mb-5 .bg-danger .text-light}
+
+## **Scientific articles, conferences and software (artículos y contribuciones)**{:.display-5 .mb-5 .bg-danger .text-light}
+
+## **Experience (experiencia académica/laboral)**{:.display-5 .mb-5 .bg-danger .text-light}
+
+## **Education (educación reglada)**{:.display-5 .mb-5 .bg-danger .text-light}
+
+## **Awards (premios/reconocimientos)**{:.display-5 .mb-5 .bg-danger .text-light}
+
+
