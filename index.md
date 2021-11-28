@@ -35,7 +35,8 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 
 &nbsp;  
 
-## <a name="scicomm"></a>**Scicomm projects (divulgación)**{:.display-5 .mb-5 .bg-danger .text-light}
+## <a name="scicomm"></a>**Scicomm projects (divulgación)**
+{:.display-5 .mb-5 .bg-danger .text-light}
 
 &nbsp;
 
