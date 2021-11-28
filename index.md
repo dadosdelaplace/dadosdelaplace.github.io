@@ -9,7 +9,19 @@ header_img: /assets/img/site/banner.webp
 ## <a href="./about" class="text-dark">About me</a>
 {: .display-3 .mb-5 }
 
-Hi, my name's <b>Javier Álvarez Liébana (@dadosdelaplace as scicomm)</b>, and I'm working as Assistant Professor at <b>Universidad Complutense (Madrid, Spain)</b>. As well as researcher (PhD in Statistics at University of Granada, with stages at Universitè Pierre et Marie Curie), I also have some experience making <b>software and courses in R language</b>. Currently, I'm a member of Spanish Research Project «Dinámica compleja e inferencia no paramétrica» (PID2020-116587GB-I0). I am most skilled in <mark>Statistics</mark>, <mark>data science</mark>, <mark>Functional Data</mark>, <mark>time series</mark> and <mark>dataviz</mark>. My research can be found in [Google Scholar](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es)
+Welcome to my personal website!
+
+My name is **Javier Álvarez Liébana** ([**@dadosdelaplace**](https://twitter.com/dadosdelaplace) as scicomm), born in Madrid in 1989, and currently, I'm working as **Assistant Professor** at **Universidad Complutense** (Madrid, Spain). As researcher, I achieved a **PhD in Statistics at University of Granada**, with stages at Universitè Pierre et Marie Curie. I'm most skilled in <mark>Statistics</mark>, <mark>Data Science</mark>, <mark>Functional Data Analysis</mark>, <mark>Time Series</mark> and <mark>Dataviz</mark>. I also have some experience making **software and courses in R language**.
+
+My research can be found in [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es). I'm also a member of [Functional Data Analysis](http://fda.seio.es/) and [Nonparametric Statistics](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research (SEIO), and a member of Spanish Research Project [Dinámica compleja e inferencia no paramétrica (PID2020-116587GB-I0)](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353).
+
+As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as the importance of **R programming and dataviz**:
+
+* Newsletter: https://cartasdelaplace.substack.com
+* Twitter: https://twitter.com/dadosdelaplace
+* Instagram: https://instagram.com/javieralvarezliebana
+
+
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
