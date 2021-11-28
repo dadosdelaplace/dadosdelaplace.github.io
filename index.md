@@ -17,7 +17,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 {: .display-3 .mb-5}
 -->
 
-**Welcome to my personal website!**{:.chulapa .bg-success}
+**Welcome to my personal website!**{:.chulapa}
 
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
