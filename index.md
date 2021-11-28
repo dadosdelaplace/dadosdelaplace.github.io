@@ -31,7 +31,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 
 I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research Spanish Society (SEIO), a member of Spanish Research Project [<mark><b>Dinámica compleja e inferencia no paramétrica</b></mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) (PID2020-116587GB-I0) and a member of Complutense University research group [<mark><b>Data science and soft computing for social analytics and decision aid</b></mark>](https://edoctorado.ucm.es/grupos/grupo/509)
 
-[CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
+[<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
 
 &nbsp;  
 
