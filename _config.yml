@@ -20,7 +20,7 @@ words_per_minute        : #default[200]
 timezone                : "Europe/Madrid"
 
 # SEO
-og_image                : ./assets/img/site/banner.png
+og_image                : ./assets/img/site/banner.jpg
 twitter_site            : dadosdelaplace
 author:
   name                  :  Javier Álvarez Liébana
