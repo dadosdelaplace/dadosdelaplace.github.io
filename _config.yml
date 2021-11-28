@@ -164,7 +164,7 @@ chulapa-skin:
     info: "3a81b9" # azul. antes --> "#7ebcfa"
     warning: "#ff9933" # naranja
     light: "#ffffff" # blanco/claro. antes --> "eef0f2"
-    dark: "#2f414a" # primary oscuro. antes --> "#000633"
+    dark: "#213139" # primary oscuro. antes --> "#000633"
     headings-font-family: Voltaire
     enable-responsive-font-sizes: true
     # body-color                  : black
