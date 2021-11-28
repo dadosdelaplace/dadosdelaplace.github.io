@@ -102,7 +102,11 @@ navbar:
     img     :  # https://dadosdelaplace.github.io/assets/img/site/logo_navegador.png
   nav:
   - title   : About me # Label
-    url     : /blog/ # url	
+    child   :
+      - title   : About me
+        url     : /blog
+      - title   : Media
+        url     : /media
   - title   : CV
     url     : /cv
   - title   : Blog
@@ -111,16 +115,10 @@ navbar:
         url   : /tags
       - title : Stats (estadística)
         url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
   - title   : Courses
     url     : /courses
   - title   : Teaching (docencia)
     url     : /teaching
-  - title   : Media
-    url     : /media
   - title   : '<i class="fas fa-envelope" aria-hidden="true"></i> Newsletter'
     url     : https://cartasdelaplace.substack.com
   - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github'
