@@ -57,6 +57,6 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 ## **Education**{:.display-5 .mb-5 .bg-danger .text-light}
 
-## **Awards (premios/reconocimientos)**{:.display-5 .mb-5 .bg-danger .text-light}
+## **Awards**{:.display-5 .mb-5 .bg-danger .text-light}
 
 
