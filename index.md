@@ -3,6 +3,7 @@ layout: default
 title: Javier Álvarez Liébana
 header_type: hero
 subtitle: Mathematician, PhD Stats, Assistant Professor and scicomm (Dados de Laplace) <br> Matemático, doctor en estadística, investigador y divulgador científico (Dados de Laplace)
+header_img: /assets/img/site/banner.jpg
 ---
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
