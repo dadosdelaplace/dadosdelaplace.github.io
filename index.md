@@ -8,6 +8,11 @@ tags: [about]
 show_breadcrumb   : false
 ---
 
+<!---
+https://getbootstrap.com/docs/4.5/utilities/colors/
+-->
+
+
 ## <a href="./about" class="text-dark">About me</a>
 {: .display-3 .mb-5}
 
