@@ -17,7 +17,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 {: .display-3 .mb-5}
 -->
 
-**Welcome to my personal website!**{:.chulapa}
+**Welcome to my personal website!**{:.chulapa .bg-success}
 
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
@@ -31,7 +31,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 
 I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research Spanish Society (SEIO).
 
-### **Scicomm projects**{: .display-5 .mb-5 .bg-danger}
+## **Scicomm projects**{:.display-5 .mb-5 .bg-danger}
 
 As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as the importance of **R programming and dataviz**:
 
