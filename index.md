@@ -4,6 +4,9 @@ title: Javier Álvarez Liébana
 header_type: hero
 subtitle: Mathematician, PhD Stats, Assistant Professor and scicomm (Dados de Laplace) <br> Matemático, doctor en estadística, investigador y divulgador científico (Dados de Laplace)
 header_img: /assets/img/site/banner.webp
+permalink: /about
+tags: [about]
+show_breadcrumb   : true
 ---
 
 ## <a href="./about" class="text-dark">About me</a>
