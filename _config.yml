@@ -160,7 +160,7 @@ chulapa-skin:
     primary: "#2F414A" # azul oscuro
     secondary: "#F47B53" # naranja-rojo
     success: "#93D8B0" # "#3d7e58" # ahora verde. antes morado --> "#420084" 
-    danger: "#F38492" # "#EC7383" # "#e15d6f" # "#dc4462" # rojo. antes --> "#f2460d"
+    danger: "#EC7383" # "#e15d6f" # "#dc4462" # rojo. antes --> "#f2460d"
     info: "#3a81b9" # azul. antes --> "#7ebcfa"
     warning: "#ff9933" # naranja
     light: "#fefcfb" # blanco/claro. antes --> "eef0f2"
