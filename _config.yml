@@ -117,11 +117,13 @@ navbar:
         url   : /archive
       - title : Current skin
         url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
+  - title   : Teaching (docencia)
+    url     : /teaching
+  - title   : Media
+    url     : /media
   - title   : '<i class="fas fa-envelope" aria-hidden="true"></i> Newsletter'
     url     : https://cartasdelaplace.substack.com
-  - title   : '<i class="fab fa-github" aria-hidden="true"></i> Githu'
+  - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github'
     url     : https://github.com/dieghernan/dieghernan.github.io
   - title   : Social
     child   :		
@@ -129,6 +131,8 @@ navbar:
        url     : https://twitter.com/dadosdelaplace
      - title   : '<i class="fa fa-instagram" aria-hidden="true"></i> Instagram'
        url     : https://instagram.com/javieralvarezliebana
+     - title   : '<i class="fa fa-spotify" aria-hidden="true"></i> Spotify'
+       url     : https://open.spotify.com/playlist/7aIqHopSvoJ4JsFXzNttZH?si=791ed1d8648a440e
 # Social links to be placed on your site footer
 footer:
   links:
