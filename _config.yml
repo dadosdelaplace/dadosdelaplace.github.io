@@ -157,14 +157,14 @@ chulapa-skin:
   skin          :  chulapa
   autothemer    :  #true # Bool: Use autotheming
   vars  :
-    primary: "#2F414A"
-    secondary: "#F47B53"
-    success: "#420084"
-    danger: "#f2460d"
-    info: "#7ebcfa"
-    warning: "#ff9933"
-    light: "#eef0f2"
-    dark: "#000633"
+    primary: "#2F414A" # azul oscuro
+    secondary: "#F47B53" # naranja-rojo
+    success: "3d7e58" # ahora verde. antes morado --> "#420084" 
+    danger: "#dc4462" # rojo. antes --> "#f2460d"
+    info: "3a81b9" # azul. antes --> "#7ebcfa"
+    warning: "#ff9933" # naranja
+    light: "#ffffff" # blanco/claro. antes --> "eef0f2"
+    dark: "#2f414a" # primary oscuro. antes --> "#000633"
     headings-font-family: Voltaire
     # enable-responsive-font-sizes: true
     # body-color                  : black
