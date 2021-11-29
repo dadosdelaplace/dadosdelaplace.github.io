@@ -1,8 +1,10 @@
 remote_theme: dieghernan/chulapa
 repository: dadosdelaplace/dadosdelaplace.github.io
 url: https://dadosdelaplace.github.io
-favicon: ./assets/img/site/favicon.ico
+favicon: https://raw.githubusercontent.com/dadosdelaplace/dadosdelaplace.github.io/master/assets/img/site/favicon.ico
 baseurl: ""
+
+
 
 # Find errors on this file with http://www.yamllint.com/
 # Chulapa docs: https://dieghernan.github.io/chulapa/docs/02-config
