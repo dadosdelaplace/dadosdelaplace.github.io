@@ -33,3 +33,9 @@ pre code {
     background-repeat: repeat, no-repeat;
     box-shadow: inset 0 0 15px #636161;
 }
+
+@font-face {
+  font-family: voltaire;
+  src: url(https://fonts.gstatic.com/s/voltaire/v10/1Pttg8PcRfSblAvGvTovaqRFB_ie.woff2) format('woff');
+  font-display: fallback;
+}
