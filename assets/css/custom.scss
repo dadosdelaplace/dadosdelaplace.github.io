@@ -35,7 +35,9 @@ pre code {
 }
 
 @font-face {
-  font-family: voltaire;
+  font-family: 'Voltaire';
   src: url(https://fonts.gstatic.com/s/voltaire/v10/1Pttg8PcRfSblAvGvTovaqRFB_ie.woff2) format('woff');
-  font-display: fallback;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
 }
