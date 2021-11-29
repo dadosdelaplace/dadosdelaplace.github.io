@@ -3,7 +3,7 @@ repository: dadosdelaplace/dadosdelaplace.github.io
 url: https://dadosdelaplace.github.io
 baseurl: ""
 avatar: "/assets/img/site/logo_navegador.png"
-
+icon: "/assets/img/site/logo_navegador.png"
 
 
 # Find errors on this file with http://www.yamllint.com/
