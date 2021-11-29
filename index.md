@@ -78,9 +78,8 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 &nbsp;
 
-<a name="media"></a> ## **Media (apariciones en medios)**{:.display-5 .mb-5 .bg-danger .text-light}
-
-&nbsp;
+## <a name="media"></a>**Media (apariciones en medios)**
+{:.display-5 .mb-5 .bg-danger .text-light}
 
 * <a href="List of mentions, colaborations and interviews" class="bg-primary text-light"><b>Notion</b></a> **List of mentions, colaborations and interviews** [<mark><b>LINK</b></mark>](https://dadosdelaplace.notion.site/e19a48b8f988404590a2a49e21dd7893?v=2a43e759ceb24c8bba12eb7613d8e680)
 
@@ -95,9 +94,8 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 &nbsp;
 
-<a name="CV"></a> ## **Scientific articles, conferences and software**{:.display-5 .mb-5 .bg-danger .text-light}
-
-&nbsp;
+## <a name="CV"></a>**Research Merits (investigación)**
+{:.display-5 .mb-5 .bg-danger .text-light}
 
 Some of my main research contributions are now detailed:
 
@@ -131,9 +129,8 @@ Some of my main research contributions are now detailed:
   
 &nbsp;
   
-<a name="experience"></a> ## **Experience**{:.display-5 .mb-5 .bg-danger .text-light}
-
-&nbsp;
+## <a name="experience"></a>**Experience**
+{:.display-5 .mb-5 .bg-danger .text-light}
 
 * **Assistant Professor**{:.bg-dark .text-light} (October 2021 - Present) at Complutense University (Madrid, Spain). **Faculty of Statistics, Department of Statistics and Data Science**. I am a member of the **working group** **Data science and soft computing for social analytics and decision aid**{:.bg-dark .text-light}
 
@@ -152,9 +149,8 @@ Some of my main research contributions are now detailed:
 
 &nbsp;
 
-<a name="education"></a> ## **Education**{:.display-5 .mb-5 .bg-danger .text-light}
-
-&nbsp;
+## <a name="education"></a>**Education**
+{:.display-5 .mb-5 .bg-danger .text-light}
 
 * **PhD Thesis**{:.bg-dark .text-light} (2014 - 2018) at University of Granada (Granada, Spain). Cum Laude and International Mention. PhD Thesis dissertation entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. [<mark><b>LINK</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
 
@@ -164,9 +160,8 @@ Some of my main research contributions are now detailed:
 
 &nbsp;
 
-## **Awards**{:.display-5 .mb-5 .bg-danger .text-light}
-
-&nbsp;
+## <a name="awards"></a>**Awards (premios)**
+{:.display-5 .mb-5 .bg-danger .text-light}
 
 * Grant **Juan de la Cierva - Formación**{:.bg-dark .text-light}, granted by Science Ministery of Spain (Ministerio de Ciencia e Innovación).
 * **Awarded by the Spanish Statistics and O.R. Society (SEIO)**{:.bg-dark .text-light} in 2019 as participant for the «21th European Young Statisticians Meetings» (Belgrade, Serbia).
