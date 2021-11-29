@@ -21,7 +21,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-    <span class="profile-img" style="background-image: url(/assets/img/site/me_photo.jpg)"></span>
+    <span class="profile-img" style="background-image: url(/assets/img/site/me_photo.webp)"></span>
   </div> 
   <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   
