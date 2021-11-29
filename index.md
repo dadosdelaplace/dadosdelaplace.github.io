@@ -141,12 +141,12 @@ Some of my main research contributions are now detailed:
 
 * **Contract Teacher**{:.bg-dark .text-light} (October 2018 - August 2020) at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
 
-* **PhD Student in Statistics**{:.bg-dark .text-light} (September 2014 - July 2018) at University of Granada (Andalucía, Spain). **Faculty of Sciences, Department of Statistics and O.R.**. I presented my dissertation on 24th July 2018. I stayed at **Universitè Pierre et Marie Curie (Paris)**{:.bg-dark .text-light} under the supervision of D. Bosq.
+* **PhD Student in Statistics**{:.bg-dark .text-light} (September 2014 - July 2018) at University of Granada (Andalucía, Spain). **Faculty of Sciences, Department of Statistics and O.R.**. I presented my dissertation on 24th July 2018. I stayed at Universitè Pierre et Marie Curie (Paris) under the supervision of D. Bosq.
 
-* **Línea Directa (Insurance company)**{:.bg-dark .text-light} (March 2014 - August 2014). I was working at the Department of Big Data and Pricing, as developer with R, Hadoop, SQL and PIG.
-* **ShowLeap (start-up)**{:.bg-dark .text-light} (January 2014 - August 2014). I was working at start-up ShowLeap, as developer with Python, working in the development of a LSE app translator.
-* **Collaboration Grant (Beca de colaboración)**{:.bg-dark .text-light} (November 2012 - July 2012). I was working at Department of Astronomy and Geodesy.
-* **Everis (Insurance company)**{:.bg-dark .text-light} (October 2012 - November 2012). I was working at the Department of Software.
+* **Línea Directa**{:.bg-dark .text-light} (March 2014 - August 2014). I was working in the insurance company Línea Directa, at the Department of Big Data and Pricing, as developer with R, Hadoop, SQL and PIG.
+* **ShowLeap**{:.bg-dark .text-light} (January 2014 - August 2014). I was working at start-up ShowLeap, as developer with Python, working in the development of a LSE app translator.
+* **Collaboration Grant**{:.bg-dark .text-light} (November 2012 - July 2012). I was working at Department of Astronomy and Geodesy.
+* **Everis**{:.bg-dark .text-light} (October 2012 - November 2012). I was working at the Department of Software.
 
 &nbsp;
 
