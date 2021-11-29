@@ -100,7 +100,7 @@ navbar:
   brand:
     title   : Javier Álvarez Liébana<br>Dados de Laplace # Title in navbar
     url     :  # default["url/baseurl"]
-    img     :  # https://dadosdelaplace.github.io/assets/img/site/logo_navegador.png
+    img     :  ./assets/img/site/logo_navegador.png
   nav:
   - title   : About me # Label
     child   :
