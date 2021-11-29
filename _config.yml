@@ -1,7 +1,6 @@
 remote_theme: dieghernan/chulapa
 repository: dadosdelaplace/dadosdelaplace.github.io
 url: https://dadosdelaplace.github.io
-favicon: https://raw.githubusercontent.com/dadosdelaplace/dadosdelaplace.github.io/master/assets/img/site/favicon.ico
 baseurl: ""
 
 
