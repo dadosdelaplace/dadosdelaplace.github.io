@@ -60,7 +60,8 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 &nbsp;
 
-## **Courses and teaching materials**{:.display-5 .mb-5 .bg-danger .text-light}
+## <a name="courses-teaching"></a>**Courses and teaching materials**
+{:.display-5 .mb-5 .bg-danger .text-light}
 
 * **Course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://aprendiendo-r-intro.netlify.app/)
 * **Course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
