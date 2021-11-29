@@ -109,6 +109,15 @@ navbar:
         url     : https://dadosdelaplace.github.io/#scicomm-projects-divulgaci%C3%B3n
       - title   : Media (apariciones en medios)
         url     : https://dadosdelaplace.github.io/#media-apariciones-en-medios
+      - title   : Research (investigación)
+        url     : https://dadosdelaplace.github.io/#research-merits-investigaci%C3%B3n
+      - title   : Experience
+        url     : https://dadosdelaplace.github.io/#experience
+      - title   : Education
+        url     : https://dadosdelaplace.github.io/#education
+      - title   : Awards (premios)
+        url     : https://dadosdelaplace.github.io/#awards-premios
+        
   - title   : Blog
     child   :
       - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
