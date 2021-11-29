@@ -2,7 +2,7 @@ remote_theme: dieghernan/chulapa
 repository: dadosdelaplace/dadosdelaplace.github.io
 url: https://dadosdelaplace.github.io
 baseurl: ""
-favicon: ./assets/img/site/logo_navegador.png
+avatar: "/assets/img/site/logo_navegador.png"
 
 
 
@@ -26,7 +26,7 @@ og_image                : ./assets/img/site/banner.webp
 twitter_site            : dadosdelaplace
 author:
   name                  :  Javier Álvarez Liébana
-  avatar                :  ./assets/img/site/logo_navegador.png
+  avatar                :  "/assets/img/site/logo_navegador.png"
   location              :  "Madrid, Spain"
   links:     
     - url: https://twitter.com/dadosdelaplace
