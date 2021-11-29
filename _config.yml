@@ -2,6 +2,7 @@ remote_theme: dieghernan/chulapa
 repository: dadosdelaplace/dadosdelaplace.github.io
 url: https://dadosdelaplace.github.io
 baseurl: ""
+favicon: ./assets/img/site/favicon.ico
 
 
 
@@ -100,7 +101,7 @@ navbar:
   brand:
     title   : Javier Álvarez Liébana<br>Dados de Laplace # Title in navbar
     url     :  # default["url/baseurl"]
-    img     :  ./assets/img/site/logo_navegador.png
+    img     :  # ./assets/img/site/logo_navegador.png
   nav:
   - title   : About me # Label
     child   :
