@@ -123,9 +123,9 @@ navbar:
   - title   : Blog
     child   :
       - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
-        url   : /tags
+        url   : /blog/R
       - title : Stats (estadística)
-        url   : /categories
+        url   : /blog/stat
   - title   : Courses (cursos)
     url     : /courses
   - title   : Teaching (docencia)
