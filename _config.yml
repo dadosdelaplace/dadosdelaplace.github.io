@@ -126,6 +126,8 @@ navbar:
         url   : /blog/R
       - title : Stats (estadística)
         url   : /blog/stat
+      - title : ☕️ Café y Teoremas
+        url   : /blog/cafe-y-teoremas
   - title   : Courses (cursos)
     url     : /courses
   - title   : Teaching (docencia)
