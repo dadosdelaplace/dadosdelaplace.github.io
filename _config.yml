@@ -138,11 +138,11 @@ navbar:
     child   :		
      - title   : '<i class="fab fa-telegram" aria-hidden="true"></i> Telegram'
        url     : https://t.me/dadosdelaplace
-     - title   : '<i class="fa fa-twitter" aria-hidden="true"></i> Twitter'
+     - title   : '🐦 Twitter'
        url     : https://twitter.com/dadosdelaplace
-     - title   : '<i class="fa fa-instagram" aria-hidden="true"></i> Instagram'
+     - title   : '📸 Instagram'
        url     : https://instagram.com/javieralvarezliebana
-     - title   : '<i class="fa fa-spotify" aria-hidden="true"></i> Spotify'
+     - title   : '🥁 Spotify'
        url     : https://open.spotify.com/playlist/7aIqHopSvoJ4JsFXzNttZH?si=791ed1d8648a440e
 # Social links to be placed on your site footer
 footer:
