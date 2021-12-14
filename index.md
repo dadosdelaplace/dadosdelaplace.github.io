@@ -17,7 +17,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 {: .display-3 .mb-5}
 -->
 
-#### <a name="about"></a>**Welcome to my personal website!**{:.chulapa}
+#### <a name="about"></a>**Bienvenido/a, welcome to my personal website!**{:.chulapa}
 
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
@@ -25,7 +25,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
   </div> 
   <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   
-  My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Carabanchel (Madrid) in 1989, and currently, I am working as **Assistant Professor** at **Universidad Complutense** (Madrid, Spain). As researcher (**PhD in Statistics** at University of Granada, with stages at Universitè Pierre et Marie Curie), I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I have some experience making **software and courses in R language**. My research can be found in [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es), [<mark><b>ORCID</b></mark>](https://orcid.org/0000-0003-0671-3856) and [<mark><b>SCOPUS</b></mark>](https://www.scopus.com/authid/detail.uri?authorId=56584449600).
+My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Carabanchel (Madrid) in 1989, and currently, I am working as **Assistant Professor** at **Universidad Complutense** (Madrid, Spain). As researcher (**PhD in Statistics** at University of Granada, with stages at Universitè Pierre et Marie Curie), I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I have some experience making **software and courses in R language**. My research can be found in [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es), [<mark><b>ORCID</b></mark>](https://orcid.org/0000-0003-0671-3856) and [<mark><b>SCOPUS</b></mark>](https://www.scopus.com/authid/detail.uri?authorId=56584449600).
   </div>
 </div>
 
@@ -46,6 +46,9 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 * <a href="https://twitter.com/dadosdelaplace" class="bg-warning"><b>Twitter</b></a> **Threads (hilos de divulgación)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
 
+* <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-primary text-light"><b>Press</b></a> Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
+* <a href="https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/" class="bg-primary text-light"><b>Radio</b></a> Modelos matemáticos sobre el coronavirus. RNE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/)
+
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> La historia de Sophie Germain **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CO02oxanalP/)
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> Las 3M de la estadística: media, moda y mediana **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CQvsOmMFkmA/)
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> ¿Qué tienen en común las cigarras y los cubos de cerveza? **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CP8JJXKlI2T/)
@@ -56,15 +59,13 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 * <a href="https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s" class="bg-secondary text-light"><b>Youtube/talks</b></a> Matemáticos, científicos, os necesitamos. Matemáticas contra el coronavirus **2020**{:.bg-dark .text-light}
 * <a href="https://www.youtube.com/watch?v=0IMB72QmXRs" class="bg-secondary text-light"><b>Youtube/talks</b></a> Todas las matemáticas detrás del COVID-19, con Javier Álvarez Liébana **2020**{:.bg-dark .text-light}
 
-* <a href="https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/" class="bg-primary text-light"><b>Radio</b></a> Modelos matemáticos sobre el coronavirus. RNE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/)
-
 &nbsp;
 
 ## <a name="courses-teaching"></a>**Courses and teaching materials**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* **Course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://aprendiendo-r-intro.netlify.app/)
-* **Course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
+* **Online course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://aprendiendo-r-intro.netlify.app/)
+* **Online course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
 * **Course**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
 
 * **Tutorial**{:.bg-info .text-light} «🗳🇩🇪 Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
@@ -84,13 +85,16 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 * <a href="List of mentions, colaborations and interviews" class="bg-primary text-light"><b>Notion</b></a> **List of mentions, colaborations and interviews** [<mark><b>LINK</b></mark>](https://dadosdelaplace.notion.site/e19a48b8f988404590a2a49e21dd7893?v=2a43e759ceb24c8bba12eb7613d8e680)
 
+* <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-success text-light"><b>Written Press</b></a> Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
 * <a href="https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html" class="bg-success text-light"><b>Written Press</b></a> **«Ni gatos ni pasteles: el anestesista y el matemático que arrasan en redes porque ayudan a entender la pandemia»**, Isabel Valdés. El País **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html)
 * <a href="https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html" class="bg-success text-light"><b>Written Press</b></a> **«El nuevo modelo para aplicar cierres busca anticiparse y evitar la saturación hospitalaria»**, Laura Mayordomo. El Comercio **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html)
 * <a href="https://www.eldiario.es/sociedad/cinco-indicadores-permiten-vislumbrar-cautela-final-pandemia-espana_1_7966297.html" class="bg-success text-light"><b>Written Press</b></a> **«Cinco indicadores que permiten vislumbrar (con cautela) el final de la pandemia en España»**, Mónica Zas. eldiario.es **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.eldiario.es/sociedad/cinco-indicadores-permiten-vislumbrar-cautela-final-pandemia-espana_1_7966297.html)
 * <a href="https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/" class="bg-success text-light"><b>Written Press</b></a> **«Enganchados al Excel: cómo su (mal) uso está alimentando el caos en los datos del covid»**, Guillermo Cid. El Confidencial **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/)
 * <a href="**https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/**" class="bg-success text-light"><b>Written Press</b></a> **«James Rhodes se convierte en el amigo invisible de un 'científico precario' madrileño»**, Héctor Llanos. El País (Verne) **2019**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://verne.elpais.com/verne/2019/12/20/articulo/1576858095_240776.html)
 
-* <a href="https://www.youtube.com/watch?v=LRC2PN2Wido" class="bg-info text-light"><b>TV</b></a> **«En Europa las alertas frente al COVID-19 son mucho más exigentes que en España»**. RTVE **2020**{:.bg-dark .text-light}
+
+* <a href="https://www.youtube.com/watch?v=LRC2PN2Wido" class="bg-info text-light"><b>TV</b></a> **«En Europa las alertas frente al COVID-19 son mucho más exigentes que en España»**. RTVE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=LRC2PN2Wido)
+* <a href="https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/" class="bg-info text-light"><b>Radio</b></a> **«Modelos matemáticos sobre el coronavirus»**. RNE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/)
 
 
 &nbsp;
@@ -133,7 +137,7 @@ Some of my main research contributions are now detailed:
 ## <a name="experience"></a>**Experience**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* **Assistant Professor**{:.bg-dark .text-light} (October 2021 - Present) at Complutense University (Madrid, Spain). **Faculty of Statistics, Department of Statistics and Data Science**. I am a member of the **working group** **Data science and soft computing for social analytics and decision aid**{:.bg-dark .text-light}
+* **Assistant Professor**{:.bg-dark .text-light} (October 2021 - Present) at Complutense University (Madrid, Spain). **Faculty of Statistics, Department of Statistics and Data Science**. I am a member of the **working group** «Data science and soft computing for social analytics and decision aid».
 
 * **Biostatistician and adviser**{:.bg-dark .text-light} (October 2020 - September 2021) at Regional Ministry of Health of Asturias (Spain). I was worked as **biostatistician and data analyst during the COVID-19 pandemic**. My work was the design of a predictive regional model for COVID-19 data, and their on-stream visualization developed with R and Shiny.
 
