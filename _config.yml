@@ -32,7 +32,7 @@ author:
     - url: https://twitter.com/dadosdelaplace
       icon: fab fa-twitter
     - url: https://instagram.com/javieralvarezliebana
-      icon: fa fa-instagram
+      icon: <i class="fa fa-instagram" aria-hidden="true"></i>
     - url: https://cartasdelaplace.substack.com
       icon: fas fa-envelope
     - url: https://github.com/dadosdelaplace/
