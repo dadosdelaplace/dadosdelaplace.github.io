@@ -41,7 +41,7 @@ I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.s
 As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
 
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> Correlación no implica causalidad…pero sí un Nobel **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
-* <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> ¿Qué sucedió en Alemania? 🗳🇩🇪 Dataviz de las elecciones alemanas **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
+* <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> ¿Qué sucedió en Alemania? Dataviz de las elecciones alemanas **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> La importancia de visualizar datos **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-2)
 
 * <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-primary text-light"><b>Press</b></a> «Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas», con Joaquín Minaya. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
@@ -70,7 +70,7 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 * **Online course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
 * **Course**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
 
-* **Tutorial**{:.bg-info .text-light} «🗳🇩🇪 Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
+* **Tutorial**{:.bg-info .text-light} «Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
 
 * **Invited Seminar/Talk**{:.bg-success .text-light} «Mesa redonda: R e COVID» organised (online) by Usuarios de Software Libre da Terra de Melide (MeLiSA) (Galicia, Spain). **2021**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «Ciencia de Datos y COVID19» organised (online) by DASCI (Andalucía, Spain). Ciclo «Ada Lovelace» **2021**{:.bg-dark .text-light}
