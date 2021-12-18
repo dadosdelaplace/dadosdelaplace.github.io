@@ -127,7 +127,7 @@ navbar:
       - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
         url   : /blog/
       - title : Stats (estadística)
-        url   : /projects
+        url   : /blog-stats
       - title : ☕️ Café y Teoremas
         url   : /blog/cafe-y-teoremas
   - title   : Courses (cursos)
