@@ -1,9 +1,9 @@
 ---
 layout: indexcategory
-title: "☕️ Café y Teoremas"
-subtitle: "Colaboraciones en la sección «Café y Teoremas» de El País"
+title: "Divulgación escrita en medios"
+subtitle: "Colaboraciones en «☕️ Café y Teoremas» de El País y en la Unidad de Cultura Científica de la UCM"
 include_collection: cheatsheet
-permalink: /cafe-teoremas
+permalink: /cafe-teoremas-ucc
 index_sort: date
 excerpt: Project portfolio
 header_type: hero
