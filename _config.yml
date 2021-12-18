@@ -227,25 +227,7 @@ defaults:
       breadcrumb_list   :
         - label: Blog
           url: /blog-R/
-  -
-    scope:
-      path: ""
-      type: "cafe"
-    values:
-      header_type       : "post"
-      include_on_search : true
-      include_on_feed   : true
-      show_date         : true
-      show_bottomnavs   : true
-      show_sociallinks  : true
-      show_comments     : true
-      show_tags         : true
-      show_categories   : true
-      show_author       : true
-      show_breadcrumb   : true
-      breadcrumb_list   :
-        - label: Café y Teoremas
-          url: /cafe-y-teoremas/
+
   -
     scope:
       path: ""
