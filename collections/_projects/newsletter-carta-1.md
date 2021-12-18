@@ -42,4 +42,4 @@ Tras empaparse (de forma autodidacta) de sus «Disquisitiones Arithmeticae» (tr
 Puedes leer la historia de Sophie Germain en la newsletter «Cartas de Laplace» en el siguiente [vídeo de Instagram](https://www.instagram.com/p/CO02oxanalP/)
 {: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
-<mark><b>LINK</b></mark>: https://cartasdelaplace.substack.com/p/carta-1
+[<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-1): https://cartasdelaplace.substack.com/p/carta-1
