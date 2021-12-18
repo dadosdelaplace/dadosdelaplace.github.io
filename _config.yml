@@ -123,7 +123,7 @@ navbar:
   - title   : Blog
     child   :
       - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
-        url   : /blog
+        url   : /blog/
       - title : Stats (estadística)
         url   : /projects
       - title : ☕️ Café y Teoremas
@@ -241,7 +241,7 @@ defaults:
       include_on_feed   : true
       breadcrumb_list   :
         - label: Projects
-          url: /projects/
+          url: /projects
 
 
 
