@@ -185,16 +185,17 @@ chulapa-skin:
     # body-color                  : black
     # primary                     : lightskyblue #default ["#007bff"] - Bootstrap blue
     
+    
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog-R/page:num/"
 paginator_maxnum: 3
 collections_dir     : collections
 collections:
   projects:
     output: true
-    permalink: /blog-stat/:name/
+    permalink: "/blog-stat/:name/"
 permalink: /:year:month_:title/
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
@@ -207,25 +208,10 @@ defaults:
       include_on_search   : false
       cloudtag_url        : /tags #This is where the link on tags would redirect
       cloudcategory_url   : /categories #This is where the link on categories would redirect
-          
   -
     scope:
       path: ""
-      type: "cheatsheet"
-    values:
-      header_type       : "hero"
-      show_bottomnavs   : true
-      show_sociallinks  : true
-      include_on_search : true
-      show_breadcrumb   : true
-      breadcrumb_list   :
-        - label: Cheatsheets
-          url: /cheatsheets
-
-  -
-    scope:
-      path: ""
-      type: "R"
+      type: "posts"
     values:
       header_type       : "post"
       include_on_search : true
@@ -244,7 +230,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "stat"
+      type: "projects"
     values:
       header_type       : "hero"
       show_bottomnavs   : true
@@ -254,8 +240,8 @@ defaults:
       show_breadcrumb   : true
       include_on_feed   : true
       breadcrumb_list   :
-        - label: Statistics
-          url: /blog-stat
+        - label: Projects
+          url: /blog-stat/
 
 
 
