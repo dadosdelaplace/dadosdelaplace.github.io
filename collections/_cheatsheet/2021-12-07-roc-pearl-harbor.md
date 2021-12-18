@@ -16,5 +16,4 @@ author:
 
 Hace 80 años, un **7 de diciembre de 1941**, el otrora «Gran Imperio del Japón» atacaba, sin previo aviso y en mitad de una negociación, la base naval más importante de Estados Unidos en el Pacífico: **Pearl Harbor**. Un día más tarde el presidente Roosevelt declaraba la guerra contra el imperio nipón. Esta humillación no solo cambió el curso de la guerra sino también el de las pruebas diagnósticas.
 
-[**Leer el artículo en «Café y Teoremas» en El País**](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
-{:.display-5 .mb-5 .bg-danger .text-light}
+[<mark><b>LINK al artículo en «Café y Teoremas» en El País</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
