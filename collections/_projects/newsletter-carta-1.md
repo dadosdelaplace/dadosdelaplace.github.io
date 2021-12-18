@@ -17,9 +17,7 @@ author:
 
 ¿Por qué «Cartas de Laplace»? La historia de Sophie Germain y Laplace
 
-«Cómo describirte mi admiración y asombro al ver que mi estimado corresponsal, el M. Le Blanc, se metamorfosea en este personaje ilustre que me ofrece un ejemplo tan brillante»
-
-Carl Friedrich Gauss (1807, misiva a M. Le Blanc)
+«Cómo describirte mi admiración y asombro al ver que mi estimado corresponsal, el M. Le Blanc, se metamorfosea en este personaje ilustre que me ofrece un ejemplo tan brillante». Carl Friedrich Gauss (1807, misiva a M. Le Blanc)
 {: #myid .alert .alert-info .p-3 .mx-2 mb-3}
 
 Hay muchas formas de concebir la divulgación, pero para mí, la divulgación, de una manera u otra, radica en contar historias. **¿Qué mejor que contar una en el propio título del proyecto?**
@@ -41,5 +39,5 @@ Durante años, **Sophie Germain, matemática francesa**, que nunca pudo cursar u
 Tras empaparse (de forma autodidacta) de sus «Disquisitiones Arithmeticae» (trabajo donde Gauss dio origen a una nueva disciplina: la teoría de números, la parte de las matemáticas que estudia sus propiedades), en 1804, Sophie Germain decidió enviarle la **primera masiva de una correspondencia que duró hasta 1809**.
 ![image](https://user-images.githubusercontent.com/26646492/146650181-e55e5e72-9557-4ac1-a507-11f18e7eb23a.png)
 
-Puedes leer la historia de [Sophie Germain en la newsletter «Cartas de Laplace»](https://cartasdelaplace.substack.com/p/carta-1) o en el siguiente [vídeo de Instagram](https://www.instagram.com/p/CO02oxanalP/)
+Puedes leer la historia de **Sophie Germain en la newsletter «Cartas de Laplace»** <https://cartasdelaplace.substack.com/p/carta-1> o en el siguiente [vídeo de Instagram](https://www.instagram.com/p/CO02oxanalP/)
 {: #myid .alert .alert-info .p-3 .mx-2 mb-3}
