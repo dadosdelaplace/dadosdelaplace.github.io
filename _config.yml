@@ -128,8 +128,8 @@ navbar:
         url   : /blog-R/
       - title : Stats (estadística)
         url   : /blog-stats
-      - title : ☕️ Café y Teoremas
-        url   : /cafe-teoremas
+      - title : 📰 Divulgación escrita
+        url   : /cafe-teoremas-ucc
   - title   : Courses (cursos)
     url     : /courses
   - title   : Teaching (docencia)
@@ -200,7 +200,7 @@ collections:
     permalink: /blog-stats/:name/
   cheatsheet:
     output: true
-    permalink: /cafe-teoremas/:name
+    permalink: /cafe-teoremas-ucc/:name
 permalink: /:year:month_:title/
 
 defaults:
@@ -263,7 +263,7 @@ defaults:
       show_breadcrumb   : true
       breadcrumb_list   :
         - label: Cheatsheets
-          url: /cafe-teoremas
+          url: /cafe-teoremas-ucc
           
   -
     scope:
