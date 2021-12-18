@@ -4,13 +4,12 @@ subtitle: "Carta #1 de la newsletter: la historia de Sophie Germain y Laplace"
 header_type: splash
 header_img: "http://mujeresconciencia.com/app/uploads/2017/09/sello_germain.jpg"
 categories: [newsletter]
-tags: [sophie germain, laplace, estadística, probabilidad]
+tags: [Sophie Germain, Laplace, estadística, probabilidad]
 project_links:
   - url: https://cartasdelaplace.substack.com/p/carta-1
     icon: "fas fa-envelope-open-text"
-    label: Leer la newsletter
-author:
-  location: "Cartas de Laplace"
+    label: "Leer la newsletter"
+last_modified_at: 2021-12-16
 ---
 
 # Carta #1: perderlo todo, volver a empezar
