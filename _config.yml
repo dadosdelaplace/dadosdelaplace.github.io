@@ -193,15 +193,16 @@ chulapa-skin:
 paginate: 5
 paginate_path: "/blog-R/page:num/"
 paginator_maxnum: 3  
-collections_dir     : collections
+collections_dir: collections
 collections:
   projects:
     output: true
     permalink: /blog-stats/:name/
   cafeteoremas:
     output: true
-    permalink: /cafeteoremas/:name/
+    permalink: /cafe-teoremas/:name/
 permalink: /:year:month_:title/
+
 defaults:
   -
     scope:
@@ -236,13 +237,17 @@ defaults:
       path: ""
       type: "projects"
     values:
-      header_type       : "hero"
+      header_type       : "post"
+      include_on_search : true
+      include_on_feed   : true
+      show_date         : true
       show_bottomnavs   : true
       show_sociallinks  : true
-      include_on_search : true
+      show_comments     : true
       show_tags         : true
+      show_categories   : true
+      show_author       : true
       show_breadcrumb   : true
-      include_on_feed   : true
       breadcrumb_list   :
         - label: Projects
           url: /blog-stats
@@ -251,16 +256,21 @@ defaults:
       path: ""
       type: "cafeteoremas"
     values:
-      header_type       : "hero"
+      header_type       : "post"
+      include_on_search : true
+      include_on_feed   : true
+      show_date         : true
       show_bottomnavs   : true
       show_sociallinks  : true
-      include_on_search : true
+      show_comments     : true
       show_tags         : true
+      show_categories   : true
+      show_author       : true
       show_breadcrumb   : true
-      include_on_feed   : true
       breadcrumb_list   :
-        - label: Cafeteoremas
-          url: /cafeteoremas
+        - label: cafe
+          url: /cafe-teoremas
+          
   -
     scope:
       path: "assets/img/blog"
