@@ -1,0 +1,12 @@
+---
+layout: indexcategory
+title: '☕️ Café y Teoremas'
+subtitle: 'Colaboraciones en «Café y Teoremas» de El País'
+permalink: /cafe-y-teoremas
+include_collection: cafe-teoremas
+index_sort: date
+excerpt: Project portfolio
+header_type: hero
+header_img: /assets/img/site/banner.webp
+show_breadcrumb   : true
+---
