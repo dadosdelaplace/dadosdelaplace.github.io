@@ -67,6 +67,8 @@ algolia:
   files_to_exclude:         #Optional
     - _layouts/*.html
     - _includes/*.html
+    - oldcontent/*.html
+    - oldcontent/*.md
   extensions_to_index:      #Optional
     - html
     - md
@@ -187,17 +189,16 @@ chulapa-skin:
     
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
-# Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
+
 paginate: 5
 paginate_path: "/blog/page:num/"
-paginator_maxnum: 3
+paginator_maxnum: 3  
 collections_dir     : collections
 collections:
   projects:
     output: true
-    permalink: "/projects/:name/"
+    permalink: /projects/:name/
 permalink: /:year:month_:title/
-# Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
   -
     scope:
@@ -206,8 +207,8 @@ defaults:
       layout: "default"
       header_type: "base"
       include_on_search   : false
-      cloudtag_url        : /tags #This is where the link on tags would redirect
-      cloudcategory_url   : /categories #This is where the link on categories would redirect
+      cloudtag_url        : /tags 
+      cloudcategory_url   : /categories 
   -
     scope:
       path: ""
@@ -242,12 +243,13 @@ defaults:
       breadcrumb_list   :
         - label: Projects
           url: /projects
-
-
+  -
+    scope:
+      path: "assets/img/blog"
+    values:
+      image_col         : imgblog
 
 # XX. Other settings - no need to modify
-# HTML Compression
-# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   blanklines: true
@@ -278,6 +280,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+
 # Markdown Processing
 kramdown:
   input: GFM
@@ -290,10 +293,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-
