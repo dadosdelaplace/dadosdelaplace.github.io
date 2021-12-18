@@ -123,7 +123,7 @@ navbar:
   - title   : Blog
     child   :
       - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
-        url   : /blog
+        url   : /blog-R
       - title : Stats (estadística)
         url   : /blog/stat
       - title : ☕️ Café y Teoremas
