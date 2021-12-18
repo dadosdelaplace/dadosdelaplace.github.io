@@ -198,9 +198,9 @@ collections:
   projects:
     output: true
     permalink: /blog-stats/:name/
-  cafeteoremas:
+  cheatsheet:
     output: true
-    permalink: /cafe-teoremas/:name/
+    permalink: /cafe-teoremas/:name
 permalink: /:year:month_:title/
 
 defaults:
@@ -254,18 +254,12 @@ defaults:
   -
     scope:
       path: ""
-      type: "cafeteoremas"
+      type: "cheatsheet"
     values:
-      header_type       : "post"
-      include_on_search : true
-      include_on_feed   : true
-      show_date         : true
+      header_type       : "hero"
       show_bottomnavs   : true
       show_sociallinks  : true
-      show_comments     : true
-      show_tags         : true
-      show_categories   : true
-      show_author       : true
+      include_on_search : true
       show_breadcrumb   : true
       breadcrumb_list   :
         - label: cafe
