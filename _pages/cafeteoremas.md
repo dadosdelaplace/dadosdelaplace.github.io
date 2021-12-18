@@ -1,6 +1,6 @@
 ---
 layout: indexcategory
-title: "Café y Teoremas"
+title: "☕️ Café y Teoremas"
 subtitle: "Colaboraciones en «Café y Teoremas» de El País"
 permalink: /cafeteoremas
 include_collection: cafeteoremas
