@@ -197,7 +197,7 @@ collections_dir     : collections
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
+    permalink: /blog-stats/:name/
 permalink: /:year:month_:title/
 defaults:
   -
@@ -242,7 +242,7 @@ defaults:
       include_on_feed   : true
       breadcrumb_list   :
         - label: Projects
-          url: /projects
+          url: /blog-stats
   -
     scope:
       path: "assets/img/blog"
