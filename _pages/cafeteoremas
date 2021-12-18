@@ -2,8 +2,8 @@
 layout: indexcategory
 title: '☕️ Café y Teoremas'
 subtitle: 'Colaboraciones en «Café y Teoremas» de El País'
-permalink: /cafe-teoremas
-include_collection: cafe-teoremas
+permalink: /cafeteoremas
+include_collection: cafeteoremas
 index_sort: date
 excerpt: Project portfolio
 header_type: hero
