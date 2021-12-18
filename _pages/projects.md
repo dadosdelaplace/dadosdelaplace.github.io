@@ -1,8 +1,8 @@
 ---
 layout: indexcategory
-title: 'Projects'
-subtitle: 'Some random pieces of work'
-permalink: /projects
+title: 'Stats (estadística)'
+subtitle: 'Blog de divulgación estadística y matemática'
+permalink: /blog-stats
 include_collection: projects
 index_sort: date
 excerpt: Project portfolio
