@@ -198,9 +198,9 @@ collections:
   projects:
     output: true
     permalink: /blog-stats/:name/
-  cafe-teoremas:
+  cafeteoremas:
     output: true
-    permalink: /cafe-teoremas/:name/
+    permalink: /cafeteoremas/:name/
 permalink: /:year:month_:title/
 defaults:
   -
@@ -249,7 +249,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "cafe-teoremas"
+      type: "cafeteoremas"
     values:
       header_type       : "hero"
       show_bottomnavs   : true
@@ -259,8 +259,8 @@ defaults:
       show_breadcrumb   : true
       include_on_feed   : true
       breadcrumb_list   :
-        - label: Cafe
-          url: /cafe-teoremas
+        - label: Cafeteoremas
+          url: /cafeteoremas
   -
     scope:
       path: "assets/img/blog"
