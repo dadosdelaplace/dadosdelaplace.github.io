@@ -123,9 +123,9 @@ navbar:
   - title   : Blog
     child   :
       - title : '<i class="fab fa-r-project" aria-hidden="true"></i> Learning R (aprendiendo R)'
-        url   : /blog-R
+        url   : /blog
       - title : Stats (estadística)
-        url   : /blog-stat
+        url   : /projects
       - title : ☕️ Café y Teoremas
         url   : /blog/cafe-y-teoremas
   - title   : Courses (cursos)
@@ -189,13 +189,13 @@ chulapa-skin:
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
 paginate: 5
-paginate_path: "/blog-R/page:num/"
+paginate_path: "/blog/page:num/"
 paginator_maxnum: 3
 collections_dir     : collections
 collections:
   projects:
     output: true
-    permalink: "/blog-stat/:name/"
+    permalink: "/projects/:name/"
 permalink: /:year:month_:title/
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
@@ -226,7 +226,7 @@ defaults:
       show_breadcrumb   : true
       breadcrumb_list   :
         - label: Blog
-          url: /blog-R/
+          url: /blog/
   -
     scope:
       path: ""
@@ -241,7 +241,7 @@ defaults:
       include_on_feed   : true
       breadcrumb_list   :
         - label: Projects
-          url: /blog-stat/
+          url: /projects/
 
 
 
