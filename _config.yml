@@ -129,7 +129,7 @@ navbar:
       - title : Stats (estadística)
         url   : /blog-stats
       - title : ☕️ Café y Teoremas
-        url   : /blog/cafe-y-teoremas
+        url   : /cafe-teoremas
   - title   : Courses (cursos)
     url     : /courses
   - title   : Teaching (docencia)
@@ -198,6 +198,9 @@ collections:
   projects:
     output: true
     permalink: /blog-stats/:name/
+  cafe-teoremas:
+    output: true
+    permalink: /cafe-teoremas/:name/
 permalink: /:year:month_:title/
 defaults:
   -
@@ -243,6 +246,21 @@ defaults:
       breadcrumb_list   :
         - label: Projects
           url: /blog-stats
+  -
+    scope:
+      path: ""
+      type: "cafe-teoremas"
+    values:
+      header_type       : "hero"
+      show_bottomnavs   : true
+      show_sociallinks  : true
+      include_on_search : true
+      show_tags         : true
+      show_breadcrumb   : true
+      include_on_feed   : true
+      breadcrumb_list   :
+        - label: Cafe
+          url: /cafe-teoremas
   -
     scope:
       path: "assets/img/blog"
