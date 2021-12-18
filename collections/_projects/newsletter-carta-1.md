@@ -3,12 +3,12 @@ title: "Newsletter carta #1"
 subtitle: "perderlo todo, volver a empezar"
 header_type: splash
 header_img: "https://feelthebrain.files.wordpress.com/2020/08/sello-sophie-germain.jpeg"
-categories: [newsletter]
+categories: [Cartas de Laplace (newsletter)]
 tags: [probabilidad, Sophie Germain, Laplace, historia]
 project_links:
   - url: https://cartasdelaplace.substack.com/p/carta-1
     icon: "fas fa-envelope-open-text"
-    label: Leer en la newsletter
+    label: Leer la newsletter
 author:
 ---
 
@@ -41,5 +41,5 @@ Durante años, **Sophie Germain, matemática francesa**, que nunca pudo cursar u
 Tras empaparse (de forma autodidacta) de sus «Disquisitiones Arithmeticae» (trabajo donde Gauss dio origen a una nueva disciplina: la teoría de números, la parte de las matemáticas que estudia sus propiedades), en 1804, Sophie Germain decidió enviarle la **primera masiva de una correspondencia que duró hasta 1809**.
 ![image](https://user-images.githubusercontent.com/26646492/146650181-e55e5e72-9557-4ac1-a507-11f18e7eb23a.png)
 
-Puedes leer la historia de [Sophie Germain en la newsletter](https://cartasdelaplace.substack.com/p/carta-1) o en el siguiente [vídeo de Instagram](https://www.instagram.com/p/CO02oxanalP/)
+Puedes leer la historia de [Sophie Germain en la newsletter «Cartas de Laplace»](https://cartasdelaplace.substack.com/p/carta-1) o en el siguiente [vídeo de Instagram](https://www.instagram.com/p/CO02oxanalP/)
 {: #myid .alert .alert-info .p-3 .mx-2 mb-3}
