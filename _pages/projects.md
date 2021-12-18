@@ -7,6 +7,6 @@ include_collection: projects
 index_sort: date
 excerpt: Project portfolio
 header_type: hero
-header_img: /assets/img/site/banner.png
+header_img: /assets/img/site/banner.webp
 show_breadcrumb   : true
 ---
