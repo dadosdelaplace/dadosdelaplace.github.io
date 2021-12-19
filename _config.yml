@@ -131,7 +131,7 @@ navbar:
       - title : 📰 Divulgación escrita
         url   : /cafe-teoremas-ucc
   - title   : Courses (cursos)
-    url     : /courses
+    url     : /courses/
   - title   : Teaching (docencia)
     url     : /teaching
   - title   : '<i class="fas fa-envelope" aria-hidden="true"></i> Newsletter'
