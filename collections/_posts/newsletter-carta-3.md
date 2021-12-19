@@ -1,15 +1,11 @@
 ---
+header_type: "hero"
+header_img : "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbadf91fb-91d3-4896-9ba5-75b853eff6e7_2186x1226.png"
 title: "Newsletter carta #3"
 subtitle: "¿qué sucedió en las elecciones de Alemania? 🗳"
-header_type: splash
-header_img: "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbadf91fb-91d3-4896-9ba5-75b853eff6e7_2186x1226.png"
-categories: [Cartas de Laplace (newsletter)]
+last_modified_at: 2021-12-18
 tags: [dataviz, datos electorales, mapas]
-project_links:
-  - url: https://cartasdelaplace.substack.com/p/carta-3
-    icon: "fas fa-envelope-open-text"
-    label: Leer la newsletter
-author:
+categories: [Cartas de Laplace (newsletter)]
 ---
 
 
