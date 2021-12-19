@@ -138,7 +138,7 @@ navbar:
     url     : https://cartasdelaplace.substack.com
   - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github'
     url     : https://github.com/dadosdelaplace/dadosdelaplace.github.io
-  - title   : Archive (archivo)
+  - title   : Archive
     child   :
       - title : Tags
         url   : /tags
