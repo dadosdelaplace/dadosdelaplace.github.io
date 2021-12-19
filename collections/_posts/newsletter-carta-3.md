@@ -2,12 +2,11 @@
 header_type: "hero"
 header_img : "http://c.files.bbci.co.uk/8E58/production/_120704463_gettyimages-1342849829-1.jpg"
 title: "Newsletter carta #3"
-subtitle: "¿qué sucedió en las elecciones de Alemania? 🗳"
+subtitle: "¿qué sucedió en las elecciones de Alemania?"
 last_modified_at: 2021-12-18
 tags: [dataviz, datos electorales, mapas]
 categories: [Cartas de Laplace (newsletter)]
 ---
-
 
 # Carta #3: ¿qué sucedió en Alemania? 🗳🇩🇪 Elecciones alemanas. Cambia, todo cambia...¿o no?
 
