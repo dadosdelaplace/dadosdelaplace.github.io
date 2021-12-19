@@ -1,6 +1,6 @@
 ---
 header_type: "hero"
-header_img : "https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbadf91fb-91d3-4896-9ba5-75b853eff6e7_2186x1226.png"
+header_img : "http://c.files.bbci.co.uk/8E58/production/_120704463_gettyimages-1342849829-1.jpg"
 title: "Newsletter carta #3"
 subtitle: "¿qué sucedió en las elecciones de Alemania? 🗳"
 last_modified_at: 2021-12-18
