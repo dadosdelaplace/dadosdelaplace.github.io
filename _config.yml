@@ -130,15 +130,21 @@ navbar:
         url   : /blog-stats
       - title : 📰 Divulgación escrita
         url   : /cafe-teoremas-ucc
-  - title   : Courses (cursos)
+  - title   : Courses
     url     : /courses
-  - title   : Teaching (docencia)
+  - title   : Teaching
     url     : /teaching
   - title   : '<i class="fas fa-envelope" aria-hidden="true"></i> Newsletter'
     url     : https://cartasdelaplace.substack.com
   - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github'
     url     : https://github.com/dadosdelaplace/dadosdelaplace.github.io
-  - title   : Social (redes)
+  - title   : Archive
+    child   :
+      - title : Tags
+        url   : /tags
+      - title : Categories
+        url   : /categories
+  - title   : Social
     child   :		
      - title   : '<i class="fab fa-telegram" aria-hidden="true"></i> Telegram'
        url     : https://t.me/dadosdelaplace
