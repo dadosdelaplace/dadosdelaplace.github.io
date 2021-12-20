@@ -9,7 +9,7 @@ show_breadcrumb   : true
 
 # Courses (cursos)
 
-### **Aprendiendo R sin morir en el intento (introductory course)**
+#### **Aprendiendo R sin morir en el intento (introductory course)**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
 [<mark><b>LINK al curso gratuito</b></mark>](https://dadosdelaplace.github.io/courses-intro-R/)
