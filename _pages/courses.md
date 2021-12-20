@@ -1,5 +1,4 @@
 ---
-layout: indexcategory
 title: "Courses"
 subtitle: "cursos y tutoriales"
 permalink: /courses
@@ -10,4 +9,8 @@ show_breadcrumb   : true
 
 # Courses (cursos)
 
-* «Aprendiendo R sin morir en el intento» (introductory course): [https://dadosdelaplace.github.io/courses-intro-R/](https://dadosdelaplace.github.io/courses-intro-R/)
+### **Aprendiendo R sin morir en el intento (introductory course)**
+{:.display-5 .mb-5 .bg-danger .text-light}
+
+[<mark><b>LINK al curso gratuito</b></mark>](https://dadosdelaplace.github.io/courses-intro-R/)
+
