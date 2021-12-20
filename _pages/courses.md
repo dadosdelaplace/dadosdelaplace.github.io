@@ -14,3 +14,4 @@ show_breadcrumb   : true
 
 [<mark><b>LINK al curso gratuito</b></mark>](https://dadosdelaplace.github.io/courses-intro-R/)
 
+![image](https://user-images.githubusercontent.com/26646492/146846850-846ce11f-2dbe-46a9-92bf-74278f94a5ee.png)
