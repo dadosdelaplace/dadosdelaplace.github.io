@@ -1,16 +1,17 @@
 ---
-header_type: "hero"
-header_img : "https://as01.epimg.net/diarioas/imagenes/2021/09/26/actualidad/1632652327_985785_1632686173_noticia_normal.jpg"
-title: "Newsletter carta #3: ¿qué sucedió en Alemania?"
-subtitle: "Elecciones alemanas. Cambia, todo cambia...¿o no?"
-last_modified_at: 2021-12-18
-tags: [dataviz, R, datos electorales, mapas]
+title: "Newsletter carta #3"
+subtitle: "¿Qué sucedió en las elecciones de Alemania?"
+header_type: splash
+header_img: "https://as01.epimg.net/diarioas/imagenes/2021/09/26/actualidad/1632652327_985785_1632686173_noticia_normal.jpg"
 categories: [Cartas de Laplace (newsletter)]
+tags: [dataviz, R, datos electorales, mapas]
 project_links:
   - url: https://cartasdelaplace.substack.com/p/carta-3
     icon: "fas fa-envelope-open-text"
     label: Leer la newsletter
+author:
 ---
+
 
 
 # Carta #3: ¿qué sucedió en Alemania? 
