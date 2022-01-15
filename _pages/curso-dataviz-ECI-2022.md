@@ -1,7 +1,7 @@
 ---
 title: "Analizando datos, visualizando información, contando historias"
 subtitle: "Curso de dataviz en R de la Escuela de Invierno 2022 de la UCM"
-permalink: /courses/curso-dataviz-ECI-2022
+permalink: /curso-dataviz-ECI-2022
 header_type: hero
 header_img: "https://raw.githubusercontent.com/dadosdelaplace/slides-ECI-2022/main/img/imagen_curso.jpeg"
 show_breadcrumb   : true
