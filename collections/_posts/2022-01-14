@@ -1,0 +1,26 @@
+---
+header_type: "hero"
+header_img : "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2022/01/15/61e29e10f27aa.r_d.676-158-5846.jpeg"
+title: "WORDLE: el juego de moda"
+subtitle: "¿Cómo crear una estrategia para encontrar la palabra?"
+last_modified_at: 2022-01-14
+tags: [dataviz, R, probabilidad, análisis de textos]
+categories: [R]
+project_links:
+  - url: https://dadosdelaplace.github.io/blog-R-repo/wordle/
+    icon: "fas fa-envelope-open-text"
+    label: Leer la entrada
+---
+
+
+# WORDLE: el juego de moda
+
+
+¿Se puede adivinar más del 97% de las veces?
+¿Cómo se distribuyen las letras y palabras en el castellano? ¿Cómo usarlo a nuestro favor?
+
+Puedes leer la metodología completa y el código aquí
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
+
+[<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/blog-R-repo/wordle/
+
