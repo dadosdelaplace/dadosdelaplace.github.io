@@ -136,7 +136,7 @@ navbar:
       - title: Aprendiendo R sin morir en el intento
         url: /courses-intro-R
       - title: Analizando datos, visualizando información, contando historias
-        url: /courses/curso-dataviz-ECI-2022
+        url: /curso-dataviz-ECI-2022
   - title   : Teaching (docencia)
     url     : /teaching
   - title   : '<i class="fas fa-envelope" aria-hidden="true"></i> Newsletter'
