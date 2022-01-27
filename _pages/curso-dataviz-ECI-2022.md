@@ -13,6 +13,7 @@ show_breadcrumb   : true
 [<mark><b>Manual</b></mark>](https://dadosdelaplace.github.io/courses-ECI-2022/index.html)
 [<mark><b>Diapositivas</b></mark>](https://dadosdelaplace.github.io/slides-ECI-2022/#1)
 [<mark><b>Scripts del curso</b></mark>](https://github.com/dadosdelaplace/courses-ECI-2022/tree/main/scripts)
+[<mark><b>Evaluaciones del curso</b></mark>](https://github.com/dadosdelaplace/courses-ECI-2022/tree/main/EVALUACI%C3%93N)
 
 [<mark><b>Código del manual</b></mark>](https://github.com/dadosdelaplace/courses-ECI-2022)
 [<mark><b>Código de las diapositivas</b></mark>](https://github.com/dadosdelaplace/slides-ECI-2022)
