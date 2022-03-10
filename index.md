@@ -25,13 +25,26 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
   </div> 
   <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   
-My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Carabanchel (Madrid) in 1989, and currently, I am working as **Assistant Professor** (Ayudante Doctor) at **Universidad Complutense** (Madrid). As researcher (**PhD in Statistics** at University of Granada), I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I have some experience making **software and courses in R language**. My research can be found in [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es), [<mark><b>ORCID</b></mark>](https://orcid.org/0000-0003-0671-3856) and [<mark><b>SCOPUS</b></mark>](https://www.scopus.com/authid/detail.uri?authorId=56584449600). I am member of [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO</b></mark>](http://www.seio.es/) and [<mark><b>RSME</b></mark>](https://www.rsme.es/)
+My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Carabanchel (Madrid) in 1989, and currently, I am working as **Assistant Professor** at **Universidad Complutense** (Madrid). As researcher (**PhD in Statistics** at University of Granada), I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I have some experience making **software and courses in R language**. My research can be found in [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es) and [<mark><b>SCOPUS</b></mark>](https://www.scopus.com/authid/detail.uri?authorId=56584449600).
   </div>
 </div>
 
-I'm also a member of [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of Statistics and Operations Research Spanish Society (SEIO), a member of Spanish Research Project [<mark><b>Dinámica compleja e inferencia no paramétrica</b></mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) (PID2020-116587GB-I0) and a member of Complutense University research group [<mark><b>Data science and soft computing for social analytics and decision aid</b></mark>](https://edoctorado.ucm.es/grupos/grupo/509)
+I am also a member of  [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>Statistics and Operations Research Spanish Society (SEIO)</b></mark>](http://www.seio.es/) and [<mark><b>RSME</b></mark>](https://www.rsme.es/), [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of SEIO, a member of Spanish Research Project [<mark><b>Dinámica compleja e inferencia no paramétrica</b></mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) (PID2020-116587GB-I0) and a member of Complutense University research group [<mark><b>Data science and soft computing for social analytics and decision aid</b></mark>](https://edoctorado.ucm.es/grupos/grupo/509)
 
 [<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
+
+&nbsp;  
+
+## <a name="courses-teaching"></a>**Courses, tutorials and teaching materials**
+{:.display-5 .mb-5 .bg-danger .text-light}
+
+* **R course**{:.bg-warning} «Analizando datos, visualizando información, contando historias» **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
+* **Online R course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://aprendiendo-r-intro.netlify.app/)
+* **Online R course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
+* **Latex course**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
+
+* **R Tutorial**{:.bg-info .text-light} «WORDLE: el juego de moda. ¿Cómo crear una estrategia para encontrar la palabra?» **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/202201_wordle/)
+* **R Tutorial**{:.bg-info .text-light} «Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
 
 &nbsp;  
 
@@ -46,7 +59,7 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 * <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-primary text-light"><b>Press</b></a> «Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas», con Joaquín Minaya. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
 * <a href="https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/" class="bg-primary text-light"><b>Radio</b></a> Modelos matemáticos sobre el coronavirus. RNE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/)
-
+* 
 
 * <a href="https://twitter.com/dadosdelaplace" class="bg-warning"><b>Twitter</b></a> **Threads (hilos de divulgación)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
 
@@ -61,22 +74,11 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 * <a href="https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s" class="bg-secondary text-light"><b>Youtube/talks</b></a> Matemáticos, científicos, os necesitamos. Matemáticas contra el coronavirus **2020**{:.bg-dark .text-light}
 * <a href="https://www.youtube.com/watch?v=0IMB72QmXRs" class="bg-secondary text-light"><b>Youtube/talks</b></a> Todas las matemáticas detrás del COVID-19, con Javier Álvarez Liébana **2020**{:.bg-dark .text-light}
 
-&nbsp;
-
-## <a name="courses-teaching"></a>**Courses, tutorials and teaching materials**
-{:.display-5 .mb-5 .bg-danger .text-light}
-
-* **R course**{:.bg-warning} «Analizando datos, visualizando información, contando historias» **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
-* **Online R course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://aprendiendo-r-intro.netlify.app/)
-* **Online R course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
-* **Latex course**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
-
-* **R Tutorial**{:.bg-info .text-light} «Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
 
 * **Invited Seminar/Talk**{:.bg-success .text-light} «¿Qué hace un matemático como yo en un sitio como este?» organised by University of Extremadura (Cáceres, Spain). **2022**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «Mesa redonda: la divulgación en matemáticas» organised by RSME (Ciudad Real, Spain). **2022**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «Mesa redonda: R e COVID» organised (online) by Usuarios de Software Libre da Terra de Melide (MeLiSA) (Galicia, Spain). **2021**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Ciencia de Datos y COVID19» organised (online) by DASCI (Andalucía, Spain). Ciclo «Ada Lovelace» **2021**{:.bg-dark .text-light}
+* **Invited Seminar/Talk**{:.bg-success .text-light} «Ciencia de Datos y COVID-19» organised (online) by DASCI (Andalucía, Spain). Ciclo «Ada Lovelace» **2021**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «Estadística en la guerra, tanto en Pearl Harbor como en el desembarco de Normandía» at XXII ENEM (Murcia, Spain), organised (online) by ANEM (Maths Students Spanish Association) **2021**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «A journey through Functional Data Analysis» organised by ICMAT (CSIC, Madrid, Spain) **2019**{:.bg-dark .text-light}
 * **Invited Seminar/Talk**{:.bg-success .text-light} «Un paseo por las series temporales funcionales» organised by University of Oviedo (Oviedo, Spain) **2018**{:.bg-dark .text-light}
