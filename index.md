@@ -35,7 +35,7 @@ I am also a member of  [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark
 
 &nbsp;  
 
-## <a name="courses-teaching"></a>**Courses, tutorials and teaching materials**
+## <a name="courses-teaching"></a>**Courses and teaching materials**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
 * **R course**{:.bg-warning} «Analizando datos, visualizando información, contando historias» **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
