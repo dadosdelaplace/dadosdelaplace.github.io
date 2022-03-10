@@ -133,7 +133,7 @@ navbar:
       - title : 📰 Divulgación escrita
         url   : /cafe-teoremas-ucc
   - title   : Courses (cursos)
-    url     : /courses
+    url     : /courses/
     child   :
       - title: Aprendiendo R sin morir en el intento
         url: /courses-intro-R
