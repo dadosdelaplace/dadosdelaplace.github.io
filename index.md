@@ -25,7 +25,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
   </div> 
   <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   
-My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Carabanchel (Madrid) in 1989, and currently, I am working as **Assistant Professor** at **Universidad Complutense** (Madrid). As researcher (**PhD in Statistics** at University of Granada), I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I have some experience making **software and courses in R language**. My research can be found in [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es) and [<mark><b>SCOPUS</b></mark>](https://www.scopus.com/authid/detail.uri?authorId=56584449600).
+My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Carabanchel (Madrid) in 1989, and currently, I am working as **Assistant Professor** at **Universidad Complutense** (Madrid). As researcher (**PhD in Statistics** at University of Granada), I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I have some experience making **software and courses in R language**. My research can be found in [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es).
   </div>
 </div>
 
