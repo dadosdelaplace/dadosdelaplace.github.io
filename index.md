@@ -38,8 +38,8 @@ I am also a member of  [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark
 ## <a name="courses-teaching"></a>**Courses and teaching materials**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* **R course**{:.bg-warning} «Analizando datos, visualizando información, contando historias» **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
-* **Online R course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://aprendiendo-r-intro.netlify.app/)
+* **R course**{:.bg-warning} «Analizando datos, visualizando información, contando historias». Escuela de Invierno UCM **2022**{:.bg-dark .text-light} [<mark><b>MATERIALS</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
+* **Online R course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>MATERIALS</b></mark>](https://aprendiendo-r-intro.netlify.app/)
 * **Online R course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
 * **Latex course**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
 
@@ -57,9 +57,8 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> ¿Qué sucedió en Alemania? Dataviz de las elecciones alemanas **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> La importancia de visualizar datos **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-2)
 
+* <a href="https://theconversation.com/los-matematicos-tambien-jugamos-a-la-loteria-aunque-no-deberiamos-174108" class="bg-primary text-light"><b>Press</b></a> «Los matemáticos también jugamos a la lotería». The Conversation **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://theconversation.com/los-matematicos-tambien-jugamos-a-la-loteria-aunque-no-deberiamos-174108)
 * <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-primary text-light"><b>Press</b></a> «Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas», con Joaquín Minaya. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
-* <a href="https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/" class="bg-primary text-light"><b>Radio</b></a> Modelos matemáticos sobre el coronavirus. RNE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/)
-* 
 
 * <a href="https://twitter.com/dadosdelaplace" class="bg-warning"><b>Twitter</b></a> **Threads (hilos de divulgación)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
 
@@ -70,9 +69,9 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> Sesgo del superviviente **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CGz1O7DFP8Q/)
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> Ley de Benford **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CHF5SW3lwpl/)
 
-* <a href="https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s" class="bg-secondary text-light"><b>Youtube/talks</b></a> Contando taxis, ganando guerras **2020**{:.bg-dark .text-light}
-* <a href="https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s" class="bg-secondary text-light"><b>Youtube/talks</b></a> Matemáticos, científicos, os necesitamos. Matemáticas contra el coronavirus **2020**{:.bg-dark .text-light}
-* <a href="https://www.youtube.com/watch?v=0IMB72QmXRs" class="bg-secondary text-light"><b>Youtube/talks</b></a> Todas las matemáticas detrás del COVID-19, con Javier Álvarez Liébana **2020**{:.bg-dark .text-light}
+* <a href="https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s" class="bg-secondary text-light"><b>Youtube/talks</b></a> Contando taxis, ganando guerras **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s)
+* <a href="https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s" class="bg-secondary text-light"><b>Youtube/talks</b></a> Matemáticos, científicos, os necesitamos. Matemáticas contra el coronavirus **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s)
+* <a href="https://www.youtube.com/watch?v=0IMB72QmXRs" class="bg-secondary text-light"><b>Youtube/talks</b></a> Todas las matemáticas detrás del COVID-19, con Javier Álvarez Liébana **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=0IMB72QmXRs)
 
 
 * **Invited Seminar/Talk**{:.bg-success .text-light} «¿Qué hace un matemático como yo en un sitio como este?» organised by University of Extremadura (Cáceres, Spain). **2022**{:.bg-dark .text-light}
