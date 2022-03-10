@@ -109,9 +109,9 @@ navbar:
     child   :
       - title   : About me
         url     : https://dadosdelaplace.github.io/#about
-      - title   : Courses and teaching (cursos y docencia)
+      - title   : Courses (cursos y docencia)
         url     : https://dadosdelaplace.github.io/#courses-teaching
-      - title   : Scicomm projects (divulgación)
+      - title   : Scicomm (divulgación)
         url     : https://dadosdelaplace.github.io/#scicomm-projects-divulgaci%C3%B3n
       - title   : Media (apariciones en medios)
         url     : https://dadosdelaplace.github.io/#media-apariciones-en-medios
