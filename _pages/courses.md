@@ -9,6 +9,14 @@ show_breadcrumb   : true
 
 # Courses (cursos)
 
+#### **Analizando datos, visualizando información, contando historias (dataviz course)**
+{:.display-5 .mb-5 .bg-danger .text-light}
+
+[<mark><b>MATERIAL al curso gratuito</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
+
+![image](https://user-images.githubusercontent.com/26646492/149635159-5d800b13-feaa-4a1e-90c4-c79e2694a7cd.png)
+
+
 #### **Aprendiendo R sin morir en el intento (introductory course)**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
