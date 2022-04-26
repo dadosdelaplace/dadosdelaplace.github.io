@@ -2,7 +2,7 @@
 layout: default
 title: Javier Álvarez Liébana
 header_type: hero
-subtitle:  Matemático (PhD Estadística). Investigador (ayudante doctor) en UCM y divulgador (@dadosdelaplace)
+subtitle:  Matemático (PhD Estadística). Investigador (ayudante doctor) en UCM y divulgador (@DadosDeLaplace)
 header_img: /assets/img/site/banner.webp
 tags: [about]
 show_breadcrumb   : false
@@ -25,11 +25,11 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
   </div> 
   <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   
-My name is **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) as scicomm), born in Carabanchel (Madrid) in 1989, and currently, I am working as **Assistant Professor** at **Universidad Complutense** (Madrid). As researcher (**PhD in Statistics** at University of Granada), I'm most skilled in **Statistics**{:.bg-dark .text-light}, **Data Science**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Time Series**{:.bg-dark .text-light} and **Dataviz**{:.bg-dark .text-light}. I have some experience making **software and courses in R language**. My research can be found in [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es).
+Me presento: **Javier Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace) en redes), nacido en Carabanchel (Madrid) en 1989, matemático y **doctor en Estadística** (Universidad de Granada), y actualmente trabajo como **investigador y docente (ayudante doctor)** en la **Universidad Complutense** (Madrid). Mis campos de investigación son la **estadística**{:.bg-dark .text-light}, **ciencia de datos**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **series temporales**{:.bg-dark .text-light}. Imparto además **cursos** de **análisis y visualización de datos en R**{:.bg-dark .text-light}. Puedes encontrar parte de mi investigación en [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es).
   </div>
 </div>
 
-I am also a member of  [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO</b></mark>](http://www.seio.es/) and [<mark><b>RSME</b></mark>](https://www.rsme.es/), [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) and [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) Working Groups of SEIO, a member of Spanish Research Project [<mark><b>Dinámica compleja e inferencia no paramétrica</b></mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) (PID2020-116587GB-I0) and a member of Complutense University research group [<mark><b>Data science and soft computing for social analytics and decision aid</b></mark>](https://edoctorado.ucm.es/grupos/grupo/509)
+Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO</b></mark>](http://www.seio.es/), [<mark><b>RSME</b></mark>](https://www.rsme.es/), y de los grupos de trabajo de [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) y [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) de la SEIO. También soy miembro del proyecto de investigación nacional [<mark><b>Dinámica compleja e inferencia no paramétrica</b></mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) (PID2020-116587GB-I0) y del grupo de trabajo [<mark><b>Data science and soft computing for social analytics and decision aid</b></mark>](https://edoctorado.ucm.es/grupos/grupo/509)
 
 [<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
 
