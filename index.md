@@ -2,7 +2,7 @@
 layout: default
 title: Javier Álvarez Liébana
 header_type: hero
-subtitle:  Mathematician and PhD Stats. Assistant Professor and scicomm (Dados de Laplace)
+subtitle:  Matemático (PhD Estadística). Investigador (ayudante doctor) en UCM y divulgador (@dadosdelaplace)
 header_img: /assets/img/site/banner.webp
 tags: [about]
 show_breadcrumb   : false
@@ -17,7 +17,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 {: .display-3 .mb-5}
 -->
 
-#### <a name="about"></a>**Bienvenido/a, welcome to my personal website!**{:.chulapa}
+#### <a name="about"></a>**¡Bienvenido/a, adelante!**{:.chulapa}
 
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
