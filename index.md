@@ -2,7 +2,7 @@
 layout: default
 title: Javier Álvarez Liébana
 header_type: hero
-subtitle:  Matemático (PhD Estadística). Investigador (ayudante doctor) en UCM y divulgador (@DadosDeLaplace)
+subtitle:  Matemático (PhD Estadística). Investigador en UCM y divulgador
 header_img: /assets/img/site/banner.webp
 tags: [about]
 show_breadcrumb   : false
