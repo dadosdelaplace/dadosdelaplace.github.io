@@ -21,20 +21,18 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-  
-    [<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
-    
     <span class="profile-img" style="background-image: url(/assets/img/site/me_photo.webp)"></span>
   </div> 
   <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   
 **Javi(er) Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace)), nacido en Carabanchel (Madrid) en 1989, matemático y **doctor en Estadística** (UGR), y actualmente soy <mark><b>investigador y docente (ayudante doctor)</b></mark> en la **Universidad Complutense** (Madrid). Mis campos de investigación son la **ciencia de datos**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Goodness-of-Fit**{:.bg-dark .text-light} y **series temporales**{:.bg-dark .text-light}. Imparto además **cursos** de **análisis y visualización de datos en R**{:.bg-dark .text-light}. Puedes encontrar parte de mi investigación en [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es).
+
+[<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
+
   </div>
 </div>
 
 Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO</b></mark>](http://www.seio.es/), [<mark><b>RSME</b></mark>](https://www.rsme.es/), y de los grupos de trabajo de [<mark><b>Functional Data Analysis</b></mark>](http://fda.seio.es/) y [<mark><b>Nonparametric Statistics</b></mark>](https://npseio.netlify.app/) de la SEIO. También soy miembro del proyecto de investigación nacional [<mark><b>Dinámica compleja e inferencia no paramétrica</b></mark>](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) (PID2020-116587GB-I0) y del grupo de trabajo [<mark><b>Data science and soft computing for social analytics and decision aid</b></mark>](https://edoctorado.ucm.es/grupos/grupo/509)
-
-[<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
 
 &nbsp;  
 
