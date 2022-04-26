@@ -21,11 +21,11 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-    <span class="profile-img" style="background-image: url(/assets/img/site/me_photo.webp)"></span>
-    
-  </div> 
-  [<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
   
+    [<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
+    
+    <span class="profile-img" style="background-image: url(/assets/img/site/me_photo.webp)"></span>
+  </div> 
   <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   
 **Javi(er) Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace)), nacido en Carabanchel (Madrid) en 1989, matemático y **doctor en Estadística** (UGR), y actualmente soy <mark><b>investigador y docente (ayudante doctor)</b></mark> en la **Universidad Complutense** (Madrid). Mis campos de investigación son la **ciencia de datos**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Goodness-of-Fit**{:.bg-dark .text-light} y **series temporales**{:.bg-dark .text-light}. Imparto además **cursos** de **análisis y visualización de datos en R**{:.bg-dark .text-light}. Puedes encontrar parte de mi investigación en [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es).
@@ -38,32 +38,30 @@ Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO
 
 &nbsp;  
 
-## <a name="courses-teaching"></a>**Courses and teaching materials**
+## <a name="courses-teaching"></a>**Cursos, tutoriales y materiales docentes**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* **R course**{:.bg-warning} «Analizando datos, visualizando información, contando historias». Escuela de Invierno UCM **2022**{:.bg-dark .text-light} [<mark><b>MATERIALS</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
+* **Curso de R**{:.bg-warning} «Analizando datos, visualizando información, contando historias». Escuela de Invierno UCM **2022**{:.bg-dark .text-light} [<mark><b>MATERIALS</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
 * **Online R course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>MATERIALS</b></mark>](https://aprendiendo-r-intro.netlify.app/)
 * **Online R course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
-* **Latex course**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
+* **Curso de Latex**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
 
 * **R Tutorial**{:.bg-info .text-light} «WORDLE: el juego de moda. ¿Cómo crear una estrategia para encontrar la palabra?» **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/202201_wordle/)
 * **R Tutorial**{:.bg-info .text-light} «Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
 
 &nbsp;  
 
-## <a name="scicomm"></a>**Scicomm projects (divulgación)**
+## <a name="scicomm"></a>**Divulgación**
 {:.display-5 .mb-5 .bg-danger .text-light}
-
-As a scicomm, I have created or participated in some **projects devoted to popularizing and disseminating mathematics and statistics**, as well as revealing the importance of **R programming and dataviz**.
 
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> Correlación no implica causalidad…pero sí un Nobel **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> ¿Qué sucedió en Alemania? Dataviz de las elecciones alemanas **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-3)
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> La importancia de visualizar datos **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-2)
 
-* <a href="https://theconversation.com/los-matematicos-tambien-jugamos-a-la-loteria-aunque-no-deberiamos-174108" class="bg-primary text-light"><b>Press</b></a> «Los matemáticos también jugamos a la lotería». The Conversation **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://theconversation.com/los-matematicos-tambien-jugamos-a-la-loteria-aunque-no-deberiamos-174108)
-* <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-primary text-light"><b>Press</b></a> «Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas», con Joaquín Minaya. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
+* <a href="https://theconversation.com/los-matematicos-tambien-jugamos-a-la-loteria-aunque-no-deberiamos-174108" class="bg-primary text-light"><b>Prensa escrita</b></a> «Los matemáticos también jugamos a la lotería». The Conversation **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://theconversation.com/los-matematicos-tambien-jugamos-a-la-loteria-aunque-no-deberiamos-174108)
+* <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-primary text-light"><b>Prensa escrita</b></a> «Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas», con Joaquín Minaya. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
 
-* <a href="https://twitter.com/dadosdelaplace" class="bg-warning"><b>Twitter</b></a> **Threads (hilos de divulgación)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
+* <a href="https://twitter.com/dadosdelaplace" class="bg-warning"><b>Twitter</b></a> **Hilos de divulgación (Twitter)** [<mark><b>LINK</b></mark>](https://twitter.com/i/moment_maker/preview/1398580673221378049)
 
 
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> La historia de Sophie Germain **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CO02oxanalP/)
@@ -72,36 +70,33 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> Sesgo del superviviente **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CGz1O7DFP8Q/)
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> Ley de Benford **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CHF5SW3lwpl/)
 
-* <a href="https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s" class="bg-secondary text-light"><b>Youtube/talks</b></a> Contando taxis, ganando guerras **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s)
-* <a href="https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s" class="bg-secondary text-light"><b>Youtube/talks</b></a> Matemáticos, científicos, os necesitamos. Matemáticas contra el coronavirus **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s)
-* <a href="https://www.youtube.com/watch?v=0IMB72QmXRs" class="bg-secondary text-light"><b>Youtube/talks</b></a> Todas las matemáticas detrás del COVID-19, con Javier Álvarez Liébana **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=0IMB72QmXRs)
+* <a href="https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s" class="bg-secondary text-light"><b>Youtube/charlas</b></a> Contando taxis, ganando guerras **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s)
+* <a href="https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s" class="bg-secondary text-light"><b>Youtube/charlas</b></a> Matemáticos, científicos, os necesitamos. Matemáticas contra el coronavirus **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s)
+* <a href="https://www.youtube.com/watch?v=0IMB72QmXRs" class="bg-secondary text-light"><b>Youtube/charlas</b></a> Todas las matemáticas detrás del COVID-19, con Javier Álvarez Liébana **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=0IMB72QmXRs)
 
 
-* **Invited Seminar/Talk**{:.bg-success .text-light} «¿Qué hace un matemático como yo en un sitio como este?» organised by University of Extremadura (Cáceres, Spain). **2022**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Mesa redonda: la divulgación en matemáticas» organised by RSME (Ciudad Real, Spain). **2022**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Mesa redonda: R e COVID» organised (online) by Usuarios de Software Libre da Terra de Melide (MeLiSA) (Galicia, Spain). **2021**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Ciencia de Datos y COVID-19» organised (online) by DASCI (Andalucía, Spain). Ciclo «Ada Lovelace» **2021**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Estadística en la guerra, tanto en Pearl Harbor como en el desembarco de Normandía» at XXII ENEM (Murcia, Spain), organised (online) by ANEM (Maths Students Spanish Association) **2021**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «A journey through Functional Data Analysis» organised by ICMAT (CSIC, Madrid, Spain) **2019**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Un paseo por las series temporales funcionales» organised by University of Oviedo (Oviedo, Spain) **2018**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Breve introducción a las series temporales aplicadas a los datos funcionales» organised by University of Santiago de Compostela (Santiago de Compostela, Spain) **2018**{:.bg-dark .text-light}
-* **Invited Seminar/Talk**{:.bg-success .text-light} «Machine Learning: supervised and non supervised learning» organised by IEMATH-GR (University of Granada, Spain) **2016**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «¿Qué hace un matemático como yo en un sitio como este?», organizado por la Universidad de Extremadura. **2022**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «Mesa redonda: la divulgación en matemáticas», organizado por la RSME (Ciudad Real). **2022**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «Mesa redonda: R e COVID», organizado por la asociación Usuarios de Software Libre da Terra de Melide (MeLiSA) (Galicia). **2021**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «Ciencia de Datos y COVID-19», organizado por DASCI (Andalucía). Ciclo «Ada Lovelace» **2021**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «Estadística en la guerra, tanto en Pearl Harbor como en el desembarco de Normandía» en el XXII ENEM (Murcia), organizado por la ANEM **2021**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «A journey through Functional Data Analysis», organizado por el ICMAT (CSIC, Madrid) **2019**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «Un paseo por las series temporales funcionales» organised by University of Oviedo (Oviedo, Spain) **2018**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «Breve introducción a las series temporales aplicadas a los datos funcionales», organizado por la Universidad de Santiago de Compostela **2018**{:.bg-dark .text-light}
+* **Seminario/charla**{:.bg-success .text-light} «Machine Learning: supervised and non supervised learning», organizado por IEMATH-GR (Universidad de Granada) **2016**{:.bg-dark .text-light}
 
 &nbsp;
 
-## <a name="media"></a>**Media (apariciones en medios)**
+## <a name="media"></a>**Apariciones en medios**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* <a href="List of mentions, colaborations and interviews" class="bg-primary text-light"><b>Notion</b></a> **List of mentions, colaborations and interviews** [<mark><b>LINK</b></mark>](https://dadosdelaplace.notion.site/e19a48b8f988404590a2a49e21dd7893?v=2a43e759ceb24c8bba12eb7613d8e680)
-
-
-* <a href="https://www.elconfidencial.com/tecnologia/2022-01-13/matematicas-wordle-juego-estadistica_3357239/" class="bg-success text-light"><b>Written Press</b></a> **«Las matemáticas detrás del fenómeno Wordle para ganar antes que nadie»**, artículo de Mario Escribano. El Confidencial **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elconfidencial.com/tecnologia/2022-01-13/matematicas-wordle-juego-estadistica_3357239/)
-* <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-success text-light"><b>Written Press</b></a> **«Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas»**. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
-* <a href="https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html" class="bg-success text-light"><b>Written Press</b></a> **«Ni gatos ni pasteles: el anestesista y el matemático que arrasan en redes porque ayudan a entender la pandemia»**, entrevista de Isabel Valdés. El País **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html)
-* <a href="https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html" class="bg-success text-light"><b>Written Press</b></a> **«El nuevo modelo para aplicar cierres busca anticiparse y evitar la saturación hospitalaria»**, artículo de Laura Mayordomo. El Comercio **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html)
-* <a href="https://www.eldiario.es/sociedad/cinco-indicadores-permiten-vislumbrar-cautela-final-pandemia-espana_1_7966297.html" class="bg-success text-light"><b>Written Press</b></a> **«Cinco indicadores que permiten vislumbrar (con cautela) el final de la pandemia en España»**, artículo de Mónica Zas. eldiario.es **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.eldiario.es/sociedad/cinco-indicadores-permiten-vislumbrar-cautela-final-pandemia-espana_1_7966297.html)
-* <a href="https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/" class="bg-success text-light"><b>Written Press</b></a> **«Enganchados al Excel: cómo su (mal) uso está alimentando el caos en los datos del covid»**, artículo de Guillermo Cid. El Confidencial **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/)
-* <a href="**https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/**" class="bg-success text-light"><b>Written Press</b></a> **«James Rhodes se convierte en el amigo invisible de un 'científico precario' madrileño»**, entrevista de Héctor Llanos. El País (Verne) **2019**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://verne.elpais.com/verne/2019/12/20/articulo/1576858095_240776.html)
+* <a href="https://www.elconfidencial.com/tecnologia/2022-01-13/matematicas-wordle-juego-estadistica_3357239/" class="bg-success text-light"><b>Prensa escrita</b></a> **«Las matemáticas detrás del fenómeno Wordle para ganar antes que nadie»**, artículo de Mario Escribano. El Confidencial **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elconfidencial.com/tecnologia/2022-01-13/matematicas-wordle-juego-estadistica_3357239/)
+* <a href="https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html" class="bg-success text-light"><b>Prensa escrita</b></a> **«Cómo el ataque de Pearl Harbor cambió la estadística de las pruebas diagnósticas»**. Café y Teoremas (El País) **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/ciencia/cafe-y-teoremas/2021-12-07/como-el-ataque-de-pearl-harbor-cambio-la-estadistica-de-las-pruebas-diagnosticas.html)
+* <a href="https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html" class="bg-success text-light"><b>Prensa escrita</b></a> **«Ni gatos ni pasteles: el anestesista y el matemático que arrasan en redes porque ayudan a entender la pandemia»**, entrevista de Isabel Valdés. El País **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html)
+* <a href="https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html" class="bg-success text-light"><b>Prensa escrita</b></a> **«El nuevo modelo para aplicar cierres busca anticiparse y evitar la saturación hospitalaria»**, artículo de Laura Mayordomo. El Comercio **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html)
+* <a href="https://www.eldiario.es/sociedad/cinco-indicadores-permiten-vislumbrar-cautela-final-pandemia-espana_1_7966297.html" class="bg-success text-light"><b>Prensa escrita</b></a> **«Cinco indicadores que permiten vislumbrar (con cautela) el final de la pandemia en España»**, artículo de Mónica Zas. eldiario.es **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.eldiario.es/sociedad/cinco-indicadores-permiten-vislumbrar-cautela-final-pandemia-espana_1_7966297.html)
+* <a href="https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/" class="bg-success text-light"><b>Prensa escrita</b></a> **«Enganchados al Excel: cómo su (mal) uso está alimentando el caos en los datos del covid»**, artículo de Guillermo Cid. El Confidencial **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/)
+* <a href="**https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/**" class="bg-success text-light"><b>Prensa escrita</b></a> **«James Rhodes se convierte en el amigo invisible de un 'científico precario' madrileño»**, entrevista de Héctor Llanos. El País (Verne) **2019**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://verne.elpais.com/verne/2019/12/20/articulo/1576858095_240776.html)
 
 
 * <a href="https://www.youtube.com/watch?v=LRC2PN2Wido" class="bg-info text-light"><b>TV</b></a> **«En Europa las alertas frente al COVID-19 son mucho más exigentes que en España»**. RTVE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=LRC2PN2Wido)
@@ -110,10 +105,10 @@ As a scicomm, I have created or participated in some **projects devoted to popul
 
 &nbsp;
 
-## <a name="CV"></a>**Research Merits (investigación)**
+## <a name="CV"></a>**Carrera investigadora**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-Some of my main **research contributions**{:.bg-dark .text-light} are now detailed:
+Acreditaco como **Ayudante Doctor**{:.bg-dark .text-light} por la ANECA desde 2018. Pendiente de resolución de la acreditación de Contratado Doctor.
 
 * **Journal Paper**{:.bg-success .text-light} A goodness-of-fit test for the functional linear model with functional response. Authors: E. García-Portugués, J. Álvarez-Liébana, G. Álvarez-Pérez and W. González-Manteiga. Journal: Scandinavian Journal of Statistics (doi: 10.1111/sjos.12486) 48, 502– 528 **2021**{:.bg-dark .text-light}. [<mark><b>PDF</b></mark>](https://sci-hub.st/https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12486)
 * **Journal Paper**{:.bg-success .text-light} Prediction of air pollutants PM 10 by ARBX (1) processes. Authors: J. Álvarez-Liébana and M. D. Ruiz-Medina. Journal: Stochastic Environmental Research and Risk Assessment (doi: 10.1007/s00477-019-01712-z) 33, 1721-1736 **2019**{:.bg-dark .text-light} [<mark><b>PDF</b></mark>](https://sci-hub.st/https://link.springer.com/article/10.1007/s00477-019-01712-z)
@@ -145,41 +140,41 @@ Some of my main **research contributions**{:.bg-dark .text-light} are now detail
   
 &nbsp;
   
-## <a name="experience"></a>**Experience**
+## <a name="experience"></a>**Experiencia laboral**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* **Assistant Professor**{:.bg-dark .text-light} (October 2021 - Present) at Complutense University (Madrid, Spain). **Faculty of Statistics, Department of Statistics and Data Science**. I am a member of the **working group** «Data science and soft computing for social analytics and decision aid».
+* **Profesor Ayudante Doctor**{:.bg-dark .text-light} (Octubre 2021 - Actualidad) en la Universidad Complutense (Madrid). **Facultad de Estadística, Departamento de Estadística y Ciencia de Datos**. Miembro del **grupo de trabajo** «Data science and soft computing for social analytics and decision aid».
 
-* **Biostatistician and adviser**{:.bg-dark .text-light} (October 2020 - September 2021) at Regional Ministry of Health of Asturias (Spain). I was worked as **biostatistician and data analyst during the COVID-19 pandemic**. My work was the design of a predictive regional model for COVID-19 data, and their on-stream visualization developed with R and Shiny.
+* **Bioestadístico y asesor**{:.bg-dark .text-light} (Octubre 2020 - Septiembre 2021) de la Consejería de Salud del Principado de Asturias. Trabajé como asesor durante la **pandemia de COVID-19**, elaborando modelos predictivos así como una [plataforma de visualización](https://dgspasturias.shinyapps.io/panel_de_indicadores_asturias/) con Shiny.
 
-* **Assistant Professor**{:.bg-dark .text-light} (September 2020 - September 2021) at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
+* **Profesor Ayudante Doctor**{:.bg-dark .text-light} (Septiembre 2020 - Septiembre 2021) en el **Departamento de Estadística, I.O. y Didáctica de las Matemáticas de la Universidad de Oviedo**.
 
-* **Contract Teacher**{:.bg-dark .text-light} (October 2018 - August 2020) at University of Oviedo (Asturias, Spain). **Faculty of Sciences, Department of Statistics, Operations Research and Didactics of Maths**. I was lectured in many degrees (chemical engineering, software engineering, mathematics, etc).
+* **Profesor Sustituto Interino**{:.bg-dark .text-light} (Octubre 2018 - Agosto 2020) en el **Departamento de Estadística, I.O. y Didáctica de las Matemáticas de la Universidad de Oviedo**.
 
-* **PhD Student in Statistics**{:.bg-dark .text-light} (September 2014 - July 2018) at University of Granada (Andalucía, Spain). **Faculty of Sciences, Department of Statistics and O.R.**. I presented my dissertation on 24th July 2018. I stayed at Universitè Pierre et Marie Curie (Paris) under the supervision of D. Bosq.
 
-* **Línea Directa**{:.bg-dark .text-light} (March 2014 - August 2014). I was working in the insurance company Línea Directa, at the Department of Big Data and Pricing, as developer with R, Hadoop, SQL and PIG.
-* **ShowLeap**{:.bg-dark .text-light} (January 2014 - August 2014). I was working at start-up ShowLeap, as developer with Python, working in the development of a LSE app translator.
-* **Collaboration Grant**{:.bg-dark .text-light} (November 2012 - July 2012). I was working at Department of Astronomy and Geodesy.
-* **Everis**{:.bg-dark .text-light} (October 2012 - November 2012). I was working at the Department of Software.
+* **Estudiante de doctorado**{:.bg-dark .text-light} (Septiembre 2014 - Julio 2018) en el **Departamento de Estadística e I.O. de la Universidad de Granada**, defendiendo la tesis el 24 de julio de 2018. Realicé dos estancias de 3 meses cada una en la universidad Pierre et Marie Curie (París), bajo la supervisión de D. Bosq.
+
+* **Línea Directa**{:.bg-dark .text-light} (Marzo 2014 - Agosto 2014) en el Departamento de Big Data y Tarificación, como desarrollador de R, Hadoop, SQL y PIG.
+* **ShowLeap**{:.bg-dark .text-light} (Enero 2014 - Agosto 2014) como desarrollador en Python de un traductor de castellano a LSE.
+* **Beca de colaboración**{:.bg-dark .text-light} (Noviembre 2012 - Julio 2012) en el Departamento de Astronomía y Geodesia.
+* **Everis**{:.bg-dark .text-light} (Octubre 2012 - Noviembre 2012) en el departamento de Desarrollo de Software.
 
 &nbsp;
 
-## <a name="education"></a>**Education**
+## <a name="education"></a>**Educación**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* **PhD Thesis**{:.bg-dark .text-light} (2014 - 2018) at University of Granada (Granada, Spain). Cum Laude and International Mention. PhD Thesis dissertation entitled «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» under the supervision of M. D. Ruiz-Medina. [<mark><b>LINK</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
+* **PhD Tesis**{:.bg-dark .text-light} (2014 - 2018) por la Universidad de Granada (Granada). Cum Laude y Mención Internacional. Tesis titulada «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» bajo la dirección de M. D. Ruiz-Medina. [<mark><b>LINK</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
 
-* **MSc Maths Engineering**{:.bg-dark .text-light} (2013 - 2014) at Complutense University (Madrid, Spain). 8.75 out of 10. Main subjects: predictive models, scientific programming, stochastic simulation, finance, differential equations, parallel computing, data mining and Machine Learning
+* **Máster en Ingeniería Matemática**{:.bg-dark .text-light} (2013 - 2014) por la Universidad Complutense (Madrid).
 
-* **BSc Mathematics**{:.bg-dark .text-light} (2007 - 2013) at Complutense University (Madrid, Spain). 7.15 out of 10, with the speciality of **Astronomy and Geodesy**{:.bg-dark .text-light}. I was studied in Bologna (Italy) as an Erasmus student.
-
+* **Licenciatura en Matemáticas**{:.bg-dark .text-light} (2007 - 2013) por la Universidad Complutense (Madrid), especializado en **Astronomía y Geodesia**{:.bg-dark .text-light}. Cursé además un año de Erasmus en Bologna (Italia).
 &nbsp;
 
-## <a name="awards"></a>**Awards (premios)**
+## <a name="awards"></a>**Premios**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* Grant **Juan de la Cierva - Formación**{:.bg-dark .text-light}, granted by Science Ministery of Spain (Ministerio de Ciencia e Innovación).
-* **Awarded by the Spanish Statistics and O.R. Society (SEIO)**{:.bg-dark .text-light} in 2019 as participant for the «21th European Young Statisticians Meetings» (Belgrade, Serbia).
-* **PhD Thesis with honors (Cum Laude)**{:.bg-dark .text-light} and International Mention in 2018.
-* **Awarded by the Spanish Statistics and O.R. Society (SEIO)**{:.bg-dark .text-light} in 2018 as participant for the «Regional workshop European Young Researchs» (París).
+* Contrato **Juan de la Cierva - Formación**{:.bg-dark .text-light} del Ministerio de Ciencia e Innovación.
+* **Seleccionado por la Sociedad Española de Estadística e I.O. (SEIO)**{:.bg-dark .text-light} en 2019 para participar en «21th European Young Statisticians Meetings» (Belgrado, Serbia).
+* **PhD Tesis con honores (Cum Laude)**{:.bg-dark .text-light} y Mención Internacional en 2018.
+* **Seleccionado por la Sociedad Española de Estadística e I.O. (SEIO)**{:.bg-dark .text-light} en 2019 para participar en «Regional workshop European Young Researchs» (París).
