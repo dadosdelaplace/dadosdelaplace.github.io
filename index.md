@@ -22,8 +22,10 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 <div class="row justify-content-between" markdown="1">
   <div class="col-xs-12 col-sm-4 col-md-3 no-print">
     <span class="profile-img" style="background-image: url(/assets/img/site/me_photo.webp)"></span>
-    [<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
+    
   </div> 
+  [<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
+  
   <div class="col-xs-12 col-sm-7 col-md-8 col-print-12" markdown="1">
   
 **Javi(er) Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace)), nacido en Carabanchel (Madrid) en 1989, matemático y **doctor en Estadística** (UGR), y actualmente trabajo como <mark><b>investigador y docente (ayudante doctor)</b></mark> en la **Universidad Complutense** (Madrid). Mis campos de investigación son la **ciencia de datos**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **series temporales**{:.bg-dark .text-light}. Imparto además **cursos** de **análisis y visualización de datos en R**{:.bg-dark .text-light}. Puedes encontrar parte de mi investigación en [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es).
