@@ -9,17 +9,17 @@ show_breadcrumb   : true
 
 # Cursos
 
-#### **Curso de dataviz** Analizando datos, visualizando información, contando historias
+#### **Curso de dataviz**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-[<mark><b>MATERIAL al curso gratuito</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
+[<mark><b>MATERIAL del curso «Analizando datos, visualizando información, contando historias»</b> (Escuela de Invierno UCM - 2022)</mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
 
-![image](https://user-images.githubusercontent.com/26646492/149635159-5d800b13-feaa-4a1e-90c4-c79e2694a7cd.png)
+<img src="https://user-images.githubusercontent.com/26646492/149635159-5d800b13-feaa-4a1e-90c4-c79e2694a7cd.png" alt="curso-dataviz" width="100"/>
 
 
-#### **Introducción a R**: aprendiendo R sin morir en el intento
+#### **Introducción a R**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-[<mark><b>LINK al manual gratuito</b></mark>](https://dadosdelaplace.github.io/courses-intro-R/)
+[<mark><b>LINK al manual gratuito «Aprendiendo R sin morir en el intento»</b></mark>](https://dadosdelaplace.github.io/courses-intro-R/)
 
 ![image](https://user-images.githubusercontent.com/26646492/146846850-846ce11f-2dbe-46a9-92bf-74278f94a5ee.png)
