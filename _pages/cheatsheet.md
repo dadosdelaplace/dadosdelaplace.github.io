@@ -3,7 +3,7 @@ layout: indexcategory
 title: "Divulgación escrita en medios"
 subtitle: "Colaboraciones en «☕️ Café y Teoremas» de El País, Unidad de Cultura Científica de la UCM y The Conversation"
 include_collection: cheatsheet
-permalink: /cafe-teoremas-ucc
+permalink: /divulgacion-escrita
 index_sort: date
 excerpt: Project portfolio
 header_type: hero
