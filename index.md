@@ -28,7 +28,7 @@ https://getbootstrap.com/docs/4.5/utilities/colors/
 **Javi(er) Álvarez Liébana** ([<mark><b>@dadosdelaplace</b></mark>](https://twitter.com/dadosdelaplace)), nacido en Carabanchel (Madrid) en 1989, matemático y **doctor en Estadística**, y actualmente soy <mark><b>investigador y docente (ayudante doctor)</b></mark> en la **Universidad Complutense** (Madrid). Mis campos de investigación son **ciencia de datos**{:.bg-dark .text-light}, **Functional Data Analysis**{:.bg-dark .text-light}, **Goodness-of-Fit**{:.bg-dark .text-light} y **series temporales**{:.bg-dark .text-light}. Imparto además **cursos de análisis y dataviz en R**{:.bg-dark .text-light}. Mi investigación: [<mark><b>Google Scholar</b></mark>](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es).
 
 [<i class="fas fa-download"></i> CV abreviado](assets/docs/CV_abreviado.pdf){: .btn .btn-primary}
-[<i class="fa-solid fa-browser"></i> Web/blog personal](https://dadosdelaplace.com/){: .btn .btn-primary}
+[<i class="fas fa-browser"></i> Web/blog personal](https://dadosdelaplace.com/){: .btn .btn-primary}
 
   </div>
 </div>
@@ -40,13 +40,13 @@ Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO
 ## <a name="courses-teaching"></a>**Cursos, tutoriales y materiales docentes**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-* **Curso de R**{:.bg-warning} «Analizando datos, visualizando información, contando historias». Escuela de Invierno UCM **2022**{:.bg-dark .text-light} [<mark><b>MATERIALS</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
-* **Online R course**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>MATERIALS</b></mark>](https://aprendiendo-r-intro.netlify.app/)
-* **Online R course**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
+* **Curso de R**{:.bg-warning} «Analizando datos, visualizando información, contando historias» (curso de visualización de datos). Escuela de Invierno UCM **2022**{:.bg-dark .text-light} [<mark><b>MATERIALES</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
+* **Manual de R**{:.bg-warning} «Aprendiendo R sin morir en el intento» **2021**{:.bg-dark .text-light} [<mark><b>MANUAL</b></mark>](https://dadosdelaplace.github.io/courses-intro-R/)
+* **Curso online de R**{:.bg-warning} «Introducción a la programación en R y visualización de datos» organised by University of Extremadura (online) **2021**{:.bg-dark .text-light}
 * **Curso de Latex**{:.bg-warning} «Taller de Latex» organised by University of Granada (Granada, Spain) **2017**{:.bg-dark .text-light}
 
-* **R Tutorial**{:.bg-info .text-light} «WORDLE: el juego de moda. ¿Cómo crear una estrategia para encontrar la palabra?» **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/202201_wordle/)
-* **R Tutorial**{:.bg-info .text-light} «Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
+* **Tutorial de R**{:.bg-info .text-light} «WORDLE: el juego de moda. ¿Cómo crear una estrategia para encontrar la palabra?» **2022**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://dadosdelaplace.github.io/202201_wordle/)
+* **Tutorial de R**{:.bg-info .text-light} «Tutorial para la visualización de datos electorales en mapas en R» **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.dadosdelaplace.com/post/tutorial-mapas-r-cartas-laplace-3/)
 
 &nbsp;  
 
@@ -70,10 +70,6 @@ Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> Sesgo del superviviente **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CGz1O7DFP8Q/)
 * <a href="https://instagram.com/javieralvarezliebana" class="bg-info text-light"><b>Instagram</b></a> Ley de Benford **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.instagram.com/p/CHF5SW3lwpl/)
 
-* <a href="https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s" class="bg-secondary text-light"><b>Youtube/charlas</b></a> Contando taxis, ganando guerras **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=1N-gM3m9yUI&t=749s)
-* <a href="https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s" class="bg-secondary text-light"><b>Youtube/charlas</b></a> Matemáticos, científicos, os necesitamos. Matemáticas contra el coronavirus **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=zfAp4BqJ670&t=15s)
-* <a href="https://www.youtube.com/watch?v=0IMB72QmXRs" class="bg-secondary text-light"><b>Youtube/charlas</b></a> Todas las matemáticas detrás del COVID-19, con Javier Álvarez Liébana **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=0IMB72QmXRs)
-
 
 * **Seminario/charla**{:.bg-success .text-light} «¿Qué hace un matemático como yo en un sitio como este?», organizado por la Universidad de Extremadura. **2022**{:.bg-dark .text-light}
 * **Seminario/charla**{:.bg-success .text-light} «Mesa redonda: la divulgación en matemáticas», organizado por la RSME (Ciudad Real). **2022**{:.bg-dark .text-light}
@@ -85,27 +81,10 @@ Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO
 
 &nbsp;
 
-## <a name="media"></a>**Apariciones en medios**
-{:.display-5 .mb-5 .bg-danger .text-light}
-
-
-* <a href="https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html" class="bg-success text-light"><b>Prensa escrita</b></a> **«Ni gatos ni pasteles: el anestesista y el matemático que arrasan en redes porque ayudan a entender la pandemia»**, entrevista de Isabel Valdés. El País **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://elpais.com/espana/madrid/2021-08-09/ni-gatos-ni-pasteles-el-anestesista-y-el-matematico-que-arrasan-en-redes-porque-ayudan-a-entender-la-pandemia.html)
-* <a href="https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html" class="bg-success text-light"><b>Prensa escrita</b></a> **«El nuevo modelo para aplicar cierres busca anticiparse y evitar la saturación hospitalaria»**, artículo de Laura Mayordomo. El Comercio **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elcomercio.es/asturias/nuevo-modelo-aplicar-cierres-anticiparse-evitar-saturacion-hospitalaria-20210121000636-ntvo.html)
-* <a href="https://www.eldiario.es/sociedad/cinco-indicadores-permiten-vislumbrar-cautela-final-pandemia-espana_1_7966297.html" class="bg-success text-light"><b>Prensa escrita</b></a> **«Cinco indicadores que permiten vislumbrar (con cautela) el final de la pandemia en España»**, artículo de Mónica Zas. eldiario.es **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.eldiario.es/sociedad/cinco-indicadores-permiten-vislumbrar-cautela-final-pandemia-espana_1_7966297.html)
-* <a href="https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/" class="bg-success text-light"><b>Prensa escrita</b></a> **«Enganchados al Excel: cómo su (mal) uso está alimentando el caos en los datos del covid»**, artículo de Guillermo Cid. El Confidencial **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/)
-* <a href="**https://www.elconfidencial.com/tecnologia/2020-10-28/excel-coronavirus-covid-datos-caos-programa_2808600/**" class="bg-success text-light"><b>Prensa escrita</b></a> **«James Rhodes se convierte en el amigo invisible de un 'científico precario' madrileño»**, entrevista de Héctor Llanos. El País (Verne) **2019**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://verne.elpais.com/verne/2019/12/20/articulo/1576858095_240776.html)
-
-
-* <a href="https://www.youtube.com/watch?v=LRC2PN2Wido" class="bg-info text-light"><b>TV</b></a> **«En Europa las alertas frente al COVID-19 son mucho más exigentes que en España»**. RTVE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.youtube.com/watch?v=LRC2PN2Wido)
-* <a href="https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/" class="bg-info text-light"><b>Radio</b></a> **«Modelos matemáticos sobre el coronavirus»**. RNE **2020**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://www.rtve.es/play/audios/raiz-de-5/raiz-5-modelos-matematicos-sobre-coronavirus-javier-alvarez-liebana-30-03-20/5548324/)
-
-
-&nbsp;
-
 ## <a name="CV"></a>**Carrera investigadora**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
-Acreditaco como **Ayudante Doctor**{:.bg-dark .text-light} por la ANECA desde 2018. Pendiente de resolución de la acreditación de Contratado Doctor.
+Acreditado como **Ayudante Doctor**{:.bg-dark .text-light} por la ANECA desde 2018. Pendiente de resolución de la acreditación de Contratado Doctor.
 
 * **Journal Paper**{:.bg-success .text-light} A goodness-of-fit test for the functional linear model with functional response. Authors: E. García-Portugués, J. Álvarez-Liébana, G. Álvarez-Pérez and W. González-Manteiga. Journal: Scandinavian Journal of Statistics (doi: 10.1111/sjos.12486) 48, 502– 528 **2021**{:.bg-dark .text-light}. [<mark><b>PDF</b></mark>](https://sci-hub.st/https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12486)
 * **Journal Paper**{:.bg-success .text-light} Prediction of air pollutants PM 10 by ARBX (1) processes. Authors: J. Álvarez-Liébana and M. D. Ruiz-Medina. Journal: Stochastic Environmental Research and Risk Assessment (doi: 10.1007/s00477-019-01712-z) 33, 1721-1736 **2019**{:.bg-dark .text-light} [<mark><b>PDF</b></mark>](https://sci-hub.st/https://link.springer.com/article/10.1007/s00477-019-01712-z)
