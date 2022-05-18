@@ -36,7 +36,7 @@ Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO
 
 &nbsp;  
 
-## <a name="courses-teaching"></a>**Cursos, tutoriales y materiales docentes**
+## <a name="cursos-docencia"></a>**Cursos, tutoriales y materiales docentes**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
 * **Curso de R**{:.bg-warning} «Analizando datos, visualizando información, contando historias» (curso de visualización de datos). Escuela de Invierno UCM **2022**{:.bg-dark .text-light} [<mark><b>MATERIALES</b></mark>](https://dadosdelaplace.github.io/curso-dataviz-ECI-2022)
@@ -49,7 +49,7 @@ Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO
 
 &nbsp;  
 
-## <a name="scicomm"></a>**Divulgación**
+## <a name="divulgacion"></a>**Divulgación**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
 * <a href="https://cartasdelaplace.substack.com" class="bg-success text-light"><b>Newsletter</b></a> Correlación no implica causalidad…pero sí un Nobel **2021**{:.bg-dark .text-light} [<mark><b>LINK</b></mark>](https://cartasdelaplace.substack.com/p/carta-4)
@@ -80,7 +80,7 @@ Soy miembro de [<mark><b>R Hispano</b></mark>](http://r-es.org/), [<mark><b>SEIO
 
 &nbsp;
 
-## <a name="CV"></a>**Carrera investigadora**
+## <a name="investigacion"></a>**Carrera investigadora**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
 Acreditado como **Ayudante Doctor**{:.bg-dark .text-light} por la ANECA desde 2018. Pendiente de resolución de la acreditación de Contratado Doctor.
@@ -116,7 +116,7 @@ Acreditado como **Ayudante Doctor**{:.bg-dark .text-light} por la ANECA desde 20
   
 &nbsp;
   
-## <a name="experience"></a>**Experiencia laboral**
+## <a name="experiencia"></a>**Experiencia laboral**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
 * **Profesor Ayudante Doctor**{:.bg-dark .text-light} (Octubre 2021 - Actualidad) en la Universidad Complutense (Madrid). **Facultad de Estadística, Departamento de Estadística y Ciencia de Datos**. Miembro del **grupo de trabajo** «Data science and soft computing for social analytics and decision aid».
@@ -137,7 +137,7 @@ Acreditado como **Ayudante Doctor**{:.bg-dark .text-light} por la ANECA desde 20
 
 &nbsp;
 
-## <a name="education"></a>**Educación**
+## <a name="educacion"></a>**Educación**
 {:.display-5 .mb-5 .bg-danger .text-light}
 
 * **PhD Tesis**{:.bg-dark .text-light} (2014 - 2018) por la Universidad de Granada (Granada). Cum Laude y Mención Internacional. Tesis titulada «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» bajo la dirección de M. D. Ruiz-Medina. [<mark><b>LINK</b></mark>](https://digibug.ugr.es/handle/10481/52557) 
