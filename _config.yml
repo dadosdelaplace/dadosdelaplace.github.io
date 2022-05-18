@@ -148,7 +148,7 @@ navbar:
       - title : Tags
         url   : /tags
       - title : Categorías
-        url   : /categorias
+        url   : /categories
   - title   : Redes
     child   :		
      - title   : '<i class="fab fa-telegram" aria-hidden="true"></i> Telegram'
