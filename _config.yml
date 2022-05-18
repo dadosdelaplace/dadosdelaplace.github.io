@@ -110,19 +110,17 @@ navbar:
       - title   : Bio
         url     : https://dadosdelaplace.github.io/#about
       - title   : Cursos y docencia
-        url     : https://dadosdelaplace.github.io/#courses-teaching
+        url     : https://dadosdelaplace.github.io/#cursos-docencia
       - title   : Divulgación
-        url     : https://dadosdelaplace.github.io/#scicomm-projects-divulgaci%C3%B3n
-      - title   : Medios
-        url     : https://dadosdelaplace.github.io/#media-apariciones-en-medios
+        url     : https://dadosdelaplace.github.io/#divulgacion
       - title   : Investigación
-        url     : https://dadosdelaplace.github.io/#research-merits-investigaci%C3%B3n
+        url     : https://dadosdelaplace.github.io/#investigacion
       - title   : Experiencia
-        url     : https://dadosdelaplace.github.io/#experience
+        url     : https://dadosdelaplace.github.io/#experiencia
       - title   : Formación
-        url     : https://dadosdelaplace.github.io/#education
+        url     : https://dadosdelaplace.github.io/#educacion
       - title   : Premios
-        url     : https://dadosdelaplace.github.io/#awards-premios
+        url     : https://dadosdelaplace.github.io/#premios
         
   - title   : Blog
     child   :
@@ -131,7 +129,7 @@ navbar:
       - title : Estadistica
         url   : /blog-stats
       - title : 📰 Divulgación escrita
-        url   : /cafe-teoremas-ucc
+        url   : /divulgacion-escrita
   - title   : Cursos
     url     : "https://dadosdelaplace.github.io/courses"
     child   :
@@ -150,7 +148,7 @@ navbar:
       - title : Tags
         url   : /tags
       - title : Categorías
-        url   : /categories
+        url   : /categorias
   - title   : Redes
     child   :		
      - title   : '<i class="fab fa-telegram" aria-hidden="true"></i> Telegram'
