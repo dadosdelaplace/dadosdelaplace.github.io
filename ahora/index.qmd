@@ -1,0 +1,59 @@
+---
+title: ¿Qué hago ahora?
+date: 2023-03-19
+description-meta: Cosicas en las que anda Javier Álvarez Liébana
+published-title: Última actualización
+title-block-banner: "#7f738c"
+toc: true
+toc-location: left
+toc-title: "Índice"
+---
+
+Estas son algunas de las cosicas en las que ando y un poco mi bagaje del 2023.
+
+## Proyectos
+
+- Ahora mismo estoy **contratado hasta 2025 como Ayudante Doctor** en la UCM con esperanzas de que pronto pueda promocionar a Contratado Doctor (con la acreditación de la ANECA ya en mis manos).
+- Más centrado en la investigación dado que no tengo docencia en este primer cuatrimestre, soy **codirector de la tesis de Eduardo Martínez Tena**. La tesis trata sobre un problema muy interesante como es el **node classification problem**: dado un grafo o un conjunto de relaciones entre observaciones, cómo ser capaces de incluir al dataset no solo la información «clásica» de los individuos sino también la que se deriva de las relaciones en el grafo.
+- También soy **codirector de la tesis de Melisa Remis Gónzalez**, de la Facultad de Óptica y Optometría. Mi aportación pretende proporcionar nuevas herramientas en el **análisis estadístico** de datos derivados de mediciones de la adaptación de los conos a un **estrés lumínico**.
+- Estoy en proceso de **finalizar un artículo teórico** (junto con otros investigadores como Wenceslao González Manteiga y Alejandra María López Pérez) en el que proponemos la distribución límite de un **contraste de bondad de ajuste para series temporales funcionales**.
+- También estoy en proceso de **finalizar un artículo práctico** (junto con Eduardo García Portugués) sobre las funcionalidades implementadas en el [paquete de R goffda](https://github.com/egarpor/goffda), dedicado a los **contrastes de bondad de ajuste de modelos lineales funcionales**
+- Me encuentro actualmente en el desarrollo de un **paquete de R** para la carga, preprocesamiento, análisis, visualización y estimación de **datos electorales**.
+- Durante el curso 2022-2023 soy **coordinador del ciclo de conferencias divulgativas** de la Facultad de Estadística y **miembro de las comisión de divulgación/difusión** tanto de la [SEIO](https://www.seio.es/) como de la [RSME](https://www.rsme.es/).
+- No tengo docencia pero soy **director de 8 TFM**: 3 relacionados con la bioestadística y 5 relacionados con la ciencia de datos.
+- Ahora mismo estoy preparando un **curso de R** que imparto a finales de marzo para **periodistas en RTVE**.
+- En mayo de 2023 participaré con una charla en **Pint of Science** de Madrid.
+- Formo parte del comité organizador del próximo [SYSORM (2024)](https://sysorm.umh.es/) y del [IWFDANP (2023)](https://iwfdanp.webnode.es/).
+
+
+## Libros, películas, series y viajes de 2023
+
+### Libros
+
+- **El librero** de Roald Dahl. En la ciudad de Londres, un librero llamado William Buggage y su asistente, la señorita Tottle, engañan a viudas de hombres influyentes. El desenlace de la historia, al estilo de Roald Dahl, es inesperado y sorprendente.
+- **Trifuca a la vista** de Nancy Mitford. Libro muy gracioso (y desconocido para mí), publicado en plena época de ascenso del fascismo en Europa. Es una novela muy satírica que ridiculiza a los fervientes seguidores del fascismo británico de la época (entre los que se incluyen miembros de la propia familia de la autora, que durante 75 años prohibió su reedición para no molestarles).
+
+Actualmente me encuentro leyendo **«Una habitación propia»** de Virginia Woolf.
+
+
+### Películas y series
+
+- **Serie: Machos alfa (2022)**. Vista en Netflix (6 de 10 en FilmAffinity)
+- **Película: As bestas (2022)**.  Vista en el [Cine Embajadores](https://cinesembajadores.es/) (9 de 10 en FilmAffinity)
+- **Corto: Chaval (2021)**. Visto en el [Cine Embajadores](https://cinesembajadores.es/) (9 de 10 en FilmAffinity)
+- **Corto: La Entrega (2022)**. Visto en el [Cine Embajadores](https://cinesembajadores.es/) (9 de 10 en FilmAffinity)
+- **Corto: Sorda (2021)**. Visto en el [Cine Embajadores](https://cinesembajadores.es/) (6 de 10 en FilmAffinity)
+- **Película: La Ballena (2022)**. Vista en el [Cine Embajadores](https://cinesembajadores.es/) (9 de 10 en FilmAffinity)
+- **Serie: Hasta el cielo (2023)**. Vista en Netflix (5 de 10 en FilmAffinity)
+- **Película: El Reino (2018)**. Vista en Netflix (7 de 10 en FilmAffinity)
+
+### Viajes
+
+- **Enero de 2023**. Me toco sufrir una mudanza (la última grande espero) de Asturias a Madrid y pude despedirme de la tierrina.
+- **Febrero de 2023**. Siempre me cuesta mucho salir de los periodos de alta carga docente y reubicarme, así que no pude viajar mucho.
+- **Marzo de 2023**. Volví a París para reencontrarnos algunos buenos amigos de la estancia predoctoral que hice allí en 2017. Tuvimos la «gran suerte» de que nos solapó con una huelga general así que tuvimos cancelaciones diversas para al final tener que ir un día más tarde desde Barcelona (pero aproveché para ver una antigua amiga de Hospitalet).
+- **Julio de 2023**. Los estudiantes de matemáticas de la ANEM me han invitado a dar una charla en el ENEM de este año que se celebra en Extremadura (dicen que hará fresquito).
+- **Octubre de 2023**. Me han invitado a una mesa redonda en la [SGAPEIO](http://xvicongreso.sgapeio.es/) de A Coruña de este año así que toca volver a Galicia.
+- **Noviembre de 2023**. Si todo sale bien, volveremos a vernos toda la comunidad estadística española en el [congreso de la SEIO](https://seio2023.com/es/) en Elche.
+
+

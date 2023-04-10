@@ -1,0 +1,42 @@
+---
+title: Curriculum
+description-meta: "{{< meta website.description >}}"
+date: 2022-12-31
+title-block-banner: "#FFE64A"
+title-block-banner-color: "#000000"
+published-title: Curriculum Vitae (última actualización)
+engine: knitr 
+cv:
+  pdf: "CV_abreviado_2022.pdf"
+  pdfabbrev: "CV_abreviado_2022.pdf"
+---
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Descargar CV breve en PDF
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdfabbrev`" style="border: 0.5px"></iframe>
+</div>
+```
