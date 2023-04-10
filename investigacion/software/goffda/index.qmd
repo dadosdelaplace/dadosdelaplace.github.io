@@ -58,7 +58,7 @@ Hay dos archivos de datos incluidos en el repositorio:
 ```bibtex
 @Manual{AlvarezLiebana2018,
   author = {E. García-Portugués and J. Álvarez-Liébana},
-  title = {{goffda}: Goodness-of-Fit Tests for Functional Data},
+  title = {goffda: Goodness-of-Fit Tests for Functional Data},
   school = {University of Granada},
   year = {2022},
   note = {R package version 0.1.1},
