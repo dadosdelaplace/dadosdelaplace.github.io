@@ -1,0 +1,43 @@
+[
+  {
+    "listing": "/cursos/index.html",
+    "items": []
+  },
+  {
+    "listing": "/docencia/index.html",
+    "items": []
+  },
+  {
+    "listing": "/investigacion/index.html",
+    "items": [
+      "/investigacion/articulos/2021-gof-fda-scandinavian/index.html",
+      "/investigacion/articulos/2019-PM10-ARBX-SERRA/index.html",
+      "/investigacion/articulos/2019-Bayesian-ARH-Revstat/index.html",
+      "/investigacion/articulos/2018-ARB-predictor-JMVA/index.html",
+      "/investigacion/articulos/2019-note-ARH-prediction-SP/index.html",
+      "/investigacion/articulos/2017-fanova-StatsInterface/index.html",
+      "/investigacion/articulos/2017-arh1-jmva/index.html",
+      "/investigacion/articulos/2016-OU-ARH1-sp/index.html",
+      "/investigacion/articulos/2015-functional-class-intjournal/index.html",
+      "/investigacion/tesis/tesis-2018/index.html",
+      "/investigacion/software/goffda/index.html",
+      "/investigacion/capitulos/2020-gof-fda/index.html",
+      "/investigacion/capitulos/2017-IWFOS/index.html",
+      "/investigacion/capitulos/20215-ou-kiev/index.html"
+    ]
+  },
+  {
+    "listing": "/paquetes-conocer/index.html",
+    "items": []
+  },
+  {
+    "listing": "/paquetes-propios/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2022/01/14/wordle/index.html"
+    ]
+  }
+]
