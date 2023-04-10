@@ -1,0 +1,71 @@
+---
+title: "Deja tus excels en la puerta y bienvenido/a"
+pagetitle: "{{< meta website.title >}}"
+description-meta: "{{< meta website.description >}}"
+main-photo: /files/profile-hex-sticker.png
+main-photo-square: /files/profile-hex-sticker.png
+title-block-banner: "#ffe64acf"
+title-block-banner-color: "#000000"
+lang: es
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
+page-layout: full
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-3}
+
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(max-width: 580px)" srcset="{{< meta main-photo-square >}}">
+      <source media="(min-width: 580px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
+```
+
+:::
+
+::: {.g-col-12 .g-col-sm-9}
+
+```{r eval = FALSE}
+javi |> View()
+```
+
+Soy [**Javier Álvarez Liébana**]{.hl-yellow} ([**@dadosdelaplace**](https://twitter.com/DadosdeLaplace)), nacido en Carabanchel (Madrid). Licenciado en Matemáticas (UCM), Máster en Ing. Matemática (UCM) y doctor en Estadística (UGR), actualmente soy **investigador y docente en la Facultad de Estudios Estadísticos** de la UCM.
+
+```{r eval = FALSE}
+javi |> filter(r_instructor)
+```
+
+**Divulgo en redes** sobre estadística y matemáticas, y he impartido diversas [**cursos en el análisis y visualización de datos en R**]{.hl-yellow}
+
+* **Formación interna en R** para periodistas de RTVE (2023)
+* **Manual de R** «Aprendiendo R sin morir en el intento» (2023) 
+* **Curso presencial** de R «Analizando datos, visualizando información, contando historias» (Escuela de Invierno UCM, 2022)
+* **Curso online** «Introducción a la programación en R» para la Univ. de Extremadura (2021)
+
+```{r eval = FALSE}
+javi |> summarise(activity)
+```
+
+En los **últimos años he impartido [docencia]{.hl-yellow}** en el [**Grado de Estadística Aplicada**](https://estudiosestadisticos.ucm.es/grado-estadistica-aplicada) (Descripción y exploración), en el [**Máster de Bioestadística**](https://estudiosestadisticos.ucm.es/master-bioestadistica) (Software para gestión de bases de datos), en el [**Máster de Minería de Datos e Inteligencia de Negocios**](https://estudiosestadisticos.ucm.es/master-mineria) (Técnicas y metodología de minería de datos), en los [**Máster (títulos propios)**](https://www.nticmaster.es/masteres-ucm/) de Big Data y Business Analytics, y Data Science y Big Data. Mis [**campos de investigación**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es) son el análisis de **datos funcionales (FDA)**, contrastes de **bondad de ajuste** (goodness-of-fit), **series temporales**, **Machine Learning** aplicado a **grafos** y **bioestadística**.
+
+
+```{r eval = FALSE}
+javi |> select(membership)
+```
+
+Además [**soy miembro**]{.hl-yellow} de [**SEIO**](https://www.seio.es/), [**RSME**](https://www.rsme.es/), [**R Hispano**](http://r-es.org/), [**DVS**](https://www.datavisualizationsociety.org/) y de los grupos de trabajo [FDA](https://FDA.seio.es) y [NP](http://np.seio.es/) de la SEIO. También soy miembro del proyecto de investigación nacional [Dinámica compleja e inferencia no paramétrica (PID2020-116587GB-I0)](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) y del grupo de investigacióin [Data science and soft computing for social analytics and decision aid](https://edoctorado.ucm.es/grupos/grupo/509) de la UCM.
+
+:::
+
+:::

@@ -1,0 +1,102 @@
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!etc/"
+
+  resources:
+  - "files/**"
+  - "etc/**"
+  
+freeze: true
+
+# Metadata stuff
+pagetitle: "{{< meta title >}} | {{< meta website.title >}}"
+description-meta: "{{< meta description >}}"
+author-meta: "Javier Álvarez Liébana"
+
+website:
+  title: "Javier Álvarez Liébana"
+  description: "Web personal de Javier Álvarez Liébana"
+  site-url: "https://www.javieralvarezliebana.com"
+  repo-url: "https://github.com/dadosdelaplace/dadosdelaplace.github.io"
+  
+  open-graph: 
+    locale: es_ES
+    
+  navbar:
+    pinned: true
+    left:
+      - text: "Inicio"
+        href: "index.qmd"
+      - text: "Blog"
+        menu:
+          - text: "Divulgación"
+            href: "divulgación/index.qmd"
+          - text: "Blog de R y estadística"
+            href: "blog/index.qmd"
+      - text: "Aprender R"
+        menu:
+          - text: "60 paquetes que debes conocer"
+            href: "paquetes-conocer/index.qmd"
+          - text: "Paquetes propios"
+            href: "paquetes-propios/index.qmd"
+          - text: "Cursos de R"
+            href: "cursos/index.qmd"
+      - text: "Docencia"
+        href: "docencia/index.qmd"
+      - text: "Investigación"
+        href: "investigacion/index.qmd"
+      - text: "¿Qué hago?"
+        menu: 
+          - text: "¿En qué ando ahora?"
+            href: "ahora/index.qmd"
+          - text: "CV"
+            href: "cv/index.qmd"
+      - text: "¿Qué uso?"
+        href: "recursos/index.qmd"
+      
+    right:
+      - icon: envelope
+        aria-label: email
+        href: "mailto:javalv09@ucm.es"
+      - icon: twitter
+        aria-label: twitter
+        href: https://twitter.com/dadosdelaplace
+      - icon: camera
+        aria-label: instagram
+        href: https://instagram.com/javieralvarezliebana
+      - icon: github
+        aria-label: github
+        href: https://github.com/dadosdelaplace
+        
+  page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} 2022-2023 Javier Álvarez Liébana (@dadosdelaplace)</span>
+      <span class="faux-block">Contenidos bajo licencia <br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>      
+    center: |
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [0000-0003-0671-3856](https://orcid.org/0000-0003-0671-3856)</span>
+      <span class="faux-block">{{< fa brands orcid >}} <strong>SCHOLAR</strong> [Wb3lxFIAAAAJ&hl.](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es)</span>
+    right: |
+      <span class="faux-block">Web hecha con {{< fa brands r-project >}} y [Quarto](https://quarto.org/), con ayuda de [Chat-GPT](https://chat.openai.com/chat). <br> Tema basado en la web de [Andrew Heiss](https://www.andrewheiss.com/)</span>
+      <span class="faux-block">Ver el código fuente en {{< fa brands github >}} [GitHub](https://github.com/dadosdelaplace)</span>
+
+format:
+  html:
+    theme:
+      - css/style.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
