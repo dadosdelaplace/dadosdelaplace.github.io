@@ -1,0 +1,68 @@
+---
+title: "Asymptotic properties of a component-wise ARH(1) plug-in predictor"
+date: 2017-03-01
+author:
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: Denis Bosq
+    affiliation: Universitè Pierre et Marie Curie
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+categories: 
+  - Consistency
+  - Dimension reduction
+  - Functional data
+  - Functional time series
+pub-info:
+  reference: >-
+    <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, Denis Bosq, <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, «Asymptotic properties of a component-wise ARH(1) plug-in predictor», <em>J. Multivariate Anal.</em> 155, 12–34 (2017), doi: <a href="https://doi.org/10.1016/j.jmva.2016.11.009"><code>10.1016/j.jmva.2016.11.009</code></a>
+  links:
+    - name: Preprint
+      url: 1706.06498.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Versión final
+      url: https://www.sciencedirect.com/science/article/pii/S0047259X16301737
+      icon: fa-solid fa-scroll
+  extra: >-
+    Artículo derivado de mi estancia en París con Denis Bosq
+doi: 10.1016/j.jmva.2016.11.009
+haiku:
+  - ARH(1) plug-in,
+  - Asymptotic properties,
+  - Predictor's prowess.
+---
+
+## Materiales
+
+- [Preprint (borrador)](1706.06498.pdf)
+- [Artículo (desde sci-hub)](10.1016@j.jmva.2016.11.009.pdf)
+- [Material suplementario](1-s2.0-S0047259X16301737-mmc1.pdf)
+
+
+## Abstract
+
+This paper presents new results on the prediction of linear processes in function spaces. The autoregressive Hilbertian process framework of order one (ARH(1) framework) is adopted. A component-wise estimator of the autocorrelation operator is derived from the moment-based estimation of its diagonal coefficients with respect to the orthogonal eigenvectors of the autocovariance operator, which are assumed to be known. Mean-square convergence to the theoretical autocorrelation operator is proved in the space of Hilbert–Schmidt operators. Consistency then follows in that space. Mean absolute convergence, in the underlying Hilbert space, of the ARH(1) plug-in predictor to the conditional expectation is obtained as well. A simulation study is undertaken to illustrate the large-sample behavior of the formulated component-wise estimator and predictor. Additionally, alternative component-wise (with known and unknown eigenvectors), regularized, wavelet-based penalized, and nonparametric kernel estimators of the autocorrelation operator are compared with the one presented here, in terms of prediction.
+
+## Código R y datos
+
+El código no fue documentado no está libremente disponible, solo bajo petición
+
+## Cita BibTeX
+
+```bibtex
+@article{AlvarezLiebanaetal17,
+  author = {J. Álvarez-Liébana and D. Bosq and M. D. Ruiz-Medina},
+  title = {Asymptotic properties of a component-wise ARH(1) plug-in predictor},
+  journal = {J. Multivariate Anal.},
+  volume = {155},
+  pages = {12-34},
+  keywords = {ARH(1) processes, consistency, functional prediction, mean absolute and quadratic convergence},
+  url = {https://www.sciencedirect.com/science/article/pii/S0047259X16301737},
+  year = {2017}
+}
+```

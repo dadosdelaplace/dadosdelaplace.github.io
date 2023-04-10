@@ -1,0 +1,60 @@
+---
+title: "Functional statistical classification of non-linear dynamics and random surfaces roughness in control systems"
+date: 2015-02-01
+author:
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+categories: 
+  - Functional classification
+  - Random surfaces
+pub-info:
+  reference: >-
+    <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, «Functional statistical classification of non-linear dynamics and random surfaces roughness in control systems», <em>Int. J. Math. Models and Methods in Appl. Sciences</em> 9, 1–20 (2015).
+  links:
+    - name: Preprint
+      url: a022001-354.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Versión final
+      url: https://www.researchgate.net/profile/Javier-Alvarez-Liebana/publication/282053030_Functional_statistical_classification_of_non-linear_dynamics_and_random_surfaces_roughness_in_control_systems/links/57d7cffc08ae601b39ae8dd4/Functional-statistical-classification-of-non-linear-dynamics-and-random-surfaces-roughness-in-control-systems.pdf
+      icon: fa-solid fa-scroll
+haiku:
+  - Model must align true,
+  - Goodness-of-fit shows the way
+  - Functional beauty
+---
+
+## Materiales
+
+- [Preprint (borrador)](a022001-354.pdf)
+- [Artículo (desde sci-hub)](a022001-354.pdf)
+
+## Abstract
+
+This paper addresses, in a nonparametric functional statistical framework, the problem of classification of nonlinear features of curve and surface data in control systems. Specifically, on the one hand, in the detection of nonlinear dynamic features, wavelength absorbance curve data are analyzed for different meat pieces to discriminate between two categories of meat in quality control in food industry. On the other hand, in the nonparametric functional classification of deterministic and random surface roughness and irregularities, in the field of railway engineering, train deterministic and random vibrations are analyzed to discriminate between different nonlinear features characterizing roughness and irregularities of railway.
+
+## Código R y datos
+
+El código no fue documentado no está libremente disponible, solo bajo petición
+
+
+## Cita BibTeX
+
+```bibtex
+@article{AlvarezLiebanaRuizMedina2015,
+  author = {J. Álvarez-Liébana and M. D. Ruiz-Medina},
+  title = {Functional statistical classification of non-linear dynamics and random surfaces roughness in control systems},
+  journal = {Int. J. Math. Models and Methods in Appl. Sciences},
+  volume = {9},
+  pages = {1-20},
+  keywords = {bootstrap, Cramér–von Mises statistic, functional data, goodness-of-fit, regularization},
+  url = {https://www.researchgate.net/profile/Javier-Alvarez-Liebana/publication/282053030_Functional_statistical_classification_of_non-linear_dynamics_and_random_surfaces_roughness_in_control_systems/links/57d7cffc08ae601b39ae8dd4/Functional-statistical-classification-of-non-linear-dynamics-and-random-surfaces-roughness-in-control-systems.pdf},
+  year = {2015}
+}
+```

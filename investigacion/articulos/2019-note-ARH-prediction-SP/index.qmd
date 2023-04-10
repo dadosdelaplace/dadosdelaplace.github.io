@@ -1,0 +1,65 @@
+---
+title: "A note on strong-consistency of componentwise ARH(1) predictors"
+date: 2019-02-01
+author:
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+categories: 
+  - Consistency
+  - Dimension reduction
+  - Functional data
+  - Functional time series
+pub-info:
+  reference: >-
+    <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, «A note on strong-consistency of componentwise ARH(1) predictors», <em>Stat. Prob. Letters</em> 145, 224-228 (2019), doi: <a href="https://doi.org/10.1016/j.spl.2018.09.004"><code>10.1016/j.spl.2018.09.004</code></a>
+  links:
+    - name: Preprint
+      url: 1709.04938.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Versión final
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0167715218303031
+      icon: fa-solid fa-scroll
+doi: 10.1016/j.spl.2018.09.004
+haiku:
+  - Through time, functions trend,
+  - Forecasting yields insights blend,
+  - Predictions extend.
+---
+
+## Materiales
+
+- [Preprint (borrador)](1709.04938.pdf)
+- [Artículo (desde sci-hub)](ec7b83fe82baa7a9f98c86f06cd0261f.pdf)
+
+
+## Abstract
+
+New results on strong-consistency in the trace operator norm are obtained, in the parameter estimation of an autoregressive Hilbertian process of order one (ARH(1) process). Additionally, a strongly-consistent diagonal componentwise estimator of the autocorrelation operator is derived, based on its empirical singular value decomposition.
+
+## Código R y datos
+
+El código no fue documentado no está libremente disponible, solo bajo petición
+
+
+## Cita BibTeX
+
+```bibtex
+@article{RuizMedinaAlvarezLiebana19,
+  author = {M. D. Ruiz-Medina and J. Álvarez-Liébana},
+  title = {A note on strong-consistency of componentwise ARH(1) predictors},
+  journal = {Stat. Prob. Letters},
+  volume = {145},
+  pages = {224-228},
+  keywords = {dimension reduction techniques, empirical orthogonal bases, functional prediction, strong-consistency, trace norm},
+  doi = {10.1016/j.spl.2018.09.004},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S0167715218303031},
+  year = {2019}
+}
+```

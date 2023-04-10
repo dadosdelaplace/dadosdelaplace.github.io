@@ -1,0 +1,62 @@
+---
+title: "Prediction of air pollutants PM10 by ARBX(1) processes"
+date: 2019-08-05
+author:
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+categories: 
+  - Air pollutants
+  - Banach spaces
+  - Consistency
+  - Functional data
+  - Functional time series
+  - Weather data
+pub-info:
+  reference: >-
+    <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, «Prediction of air pollutants PM10 by ARBX(1) processes», <em>Stoch. Environ. Res. Risk Assess.</em> 33, 1721-1736 (2019), doi: <a href="https://doi.org/10.1007/s00477-019-01712-z"><code>10.1007/s00477-019-01712-z</code></a>
+  links:
+    - name: Versión final
+      url: https://link.springer.com/article/10.1007/s00477-019-01712-z
+      icon: fa-solid fa-scroll
+doi: 10.1007/s00477-019-01712-z
+haiku:
+  - ARBX(1) waves,
+  - Forecasting PM10 haze,
+  - Air pollution craze.
+---
+
+## Materiales
+
+- [Artículo (desde sci-hub)](10.1007@s00477-019-01712-z.pdf)
+
+
+## Abstract
+
+This work adopts a Banach-valued time series framework for component-wise estimation and prediction, from temporal correlated functional data, in presence of exogenous variables. The strong-consistency of the proposed functional estimator and associated plug-in predictor is formulated. The simulation study undertaken illustrates their large-sample size properties. Air pollutants PM10 curve forecasting, in the Haute-Normandie region (France), is addressed by implementation of the functional time series approach presented.
+
+## Código R y datos
+
+El código no fue documentado no está libremente disponible, solo bajo petición
+
+
+## Cita BibTeX
+
+```bibtex
+@article{AlvarezLiebanaRuizMedina19,
+  author = {J. Álvarez-Liébana and M. D. Ruiz-Medina},
+  title = {Prediction of air pollutants PM10 by ARBX(1) processes},
+  journal = {Stochastic Environmental Research and Risk Assessment},
+  volume = {33},
+  pages = {1721-1736},
+  keywords = {air pollutants forecasting, Banach spaces, functional time series, meteorological variables, strong consistency},
+  doi = {10.1007/s00477-019-01712-z},
+  url = {https://link.springer.com/article/10.1007/s00477-019-01712-z},
+  year = {2019}
+}
+```

@@ -1,0 +1,67 @@
+---
+title: "R package goffda: goodness-of-fit tests for functional data (version 0.1.1)"
+date: 2022-08-26
+author:
+  - name: Eduardo García Portugués
+    url: https://egarpor.github.io/
+    orcid: 0000-0002-9224-4111
+    affiliation: Universidad Carlos III
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+categories: 
+  - Bootstrap
+  - Elastic net regularization
+  - Functional data
+  - Functional linear models
+  - Goodness-of-fit
+  - R package
+pub-info:
+  reference: >-
+    <a href="https://egarpor.github.io/">Eduardo García Portugués</a>, <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, «goffda: goodness-of-fit tests for functional data», <em>R package</em> (2022), doi: <a href="https://doi.org/10.1111/sjos.12486"><code>10.1111/sjos.12486</code></a>
+  links:
+    - name: Código
+      url: https://github.com/egarpor/goffda
+      icon: fa-brands fa-github
+    - name: Datos
+      url: "#c%C3%B3digo-r-y-datos"
+      icon: fa-solid fa-table
+haiku:
+  - Functional data,
+  - Goffda R package so neat,
+  - Goodness fit complete.
+---
+
+## Materiales
+
+- [Repositorio GitHub](	https://github.com/egarpor/goffda)
+- [Documentación paquete R](https://cran.r-project.org/web/packages/goffda/index.html)
+
+
+## Abstract
+
+Paquete de R en el que se implementan diversos contrastes de bondad de ajuste (goodness-of-fit tests) para modelos lineales funcionales, tanto para predictores escalares como funcionales (así como para respuesta escalar y/o funcional). El paquete en concreto implementa el software desarrollado en [García-Portugués, Álvarez-Liébana, Álvarez-Pérez y González-Manteiga (2021)](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12486)
+
+http://localhost:3325/investigacion/software/goffda/investigacion/articulos/2021-gof-fda-scandinavian/
+## Código R y datos
+
+El paquete de R está documentado y libremente disponible en el [repositorio GitHub](https://github.com/egarpor/goffda) así como su [documentación oficial](https://cran.r-project.org/web/packages/goffda/index.html).
+
+Hay dos archivos de datos incluidos en el repositorio:
+
+- [**`data/aemet_temp.rda`**](https://github.com/dadosdelaplace/goffda/blob/master/data/aemet_temp.rda): fichero de curvas de temperatura del AEMET de 1974 a 2013.
+- [**`data/ontario.rda`**](https://github.com/dadosdelaplace/goffda/blob/master/data/ontario.rda): fichero de curvas de demanda eléctrica
+
+## Cita BibTeX
+
+```bibtex
+@Manual{AlvarezLiebana2018,
+  author = {E. García-Portugués and J. Álvarez-Liébana},
+  title = {{goffda}: Goodness-of-Fit Tests for Functional Data},
+  school = {University of Granada},
+  year = {2022},
+  note = {R package version 0.1.1},
+  url = {https://CRAN.R-project.org/package=goffda}
+}
+```

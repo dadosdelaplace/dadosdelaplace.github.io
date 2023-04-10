@@ -1,0 +1,64 @@
+---
+title: "Classical and Bayesian componentwise predictors for non-compact correlated ARH(1) processes"
+date: 2019-07-01
+author:
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+categories: 
+  - Bayesian estimation
+  - Consistency
+  - Functional data
+  - Functional time series
+pub-info:
+  reference: >-
+    <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, «Classical and Bayesian componentwise predictors for non-compact correlated ARH(1) processes», <em>REVSTAT</em> 17 (3), 265-296 (2019), doi: <a href="https://www.ine.pt/revstat/pdf/REVSTAT_v17-n3-1.pdf"><code>https://www.ine.pt/revstat/pdf/REVSTAT_v17-n3-1.pdf</code></a>
+  links:
+    - name: Preprint
+      url: 1704.05630.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Versión final
+      url: https://www.ine.pt/revstat/pdf/REVSTAT_v17-n3-1.pdf
+      icon: fa-solid fa-scroll
+  extra: >-
+    Gracias al profesor Denis Bosq por sus comentarios
+haiku:
+  - Bayesian time flows,
+  - ARH(1) forecasts disclose,
+  - Functional time glows.
+---
+
+## Materiales
+
+- [Preprint (borrador)](1704.05630.pdf)
+- [Artículo (desde sci-hub)](REVSTAT_v17-n3-1.pdf)
+
+## Abstract
+
+A special class of standard Gaussian Autoregressive Hilbertian processes of order one (Gaussian ARH(1) processes), with bounded linear autocorrelation operator, which does not satisfy the usual Hilbert–Schmidt assumption, is considered. To compensate the slow decay of the diagonal coefficients of the autocorrelation operator, a faster decay velocity of the eigenvalues of the trace autocovariance operator of the innovation process is assumed. As usual, the eigenvectors of the autocovariance operator of the ARH(1) process are considered for projection, since, here, they are assumed to be known. Diagonal componentwise classical and bayesian estimation of the autocorrelation operator is studied for prediction. The asymptotic efficiency and equivalence of both estimators is proved, as well as of their associated componentwise ARH(1) plugin predictors. A simulation study is undertaken to illustrate the theoretical results derived.
+
+## Código R y datos
+
+El código no fue documentado no está libremente disponible, solo bajo petición
+
+## Cita BibTeX
+
+```bibtex
+@article{RuizMedinaAlvarezLiebana19,
+  author = {M. D. Ruiz-Medina and J. Álvarez-Liébana},
+  title = {Classical and Bayesian componentwise predictors for non-compact correlated ARH(1) processes},
+  journal = {REVSTAT},
+  volume = {17},
+  number = {3},
+  pages = {265-296},
+  keywords = {asymptotic efficiency, autoregressive Hilbertian processes, Bayesian estimation, classical moment-based estimation, functional prediction, non-compact bounded autocorrelation operators},
+  url = {https://www.ine.pt/revstat/pdf/REVSTAT_v17-n3-1.pdf},
+  year = {2019}
+}
+```

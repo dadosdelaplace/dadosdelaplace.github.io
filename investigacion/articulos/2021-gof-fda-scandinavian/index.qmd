@@ -1,0 +1,94 @@
+---
+title: "A goodness-of-fit test for the functional linear model with functional response"
+date: 2021-06-10
+author:
+  - name: Eduardo García Portugués
+    url: https://egarpor.github.io/
+    orcid: 0000-0002-9224-4111
+    affiliation: Universidad Carlos III
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: Gonzalo Álvarez Pérez
+    url: https://scholar.google.es/citations?user=_2dQ9wYAAAAJ&hl=es
+    orcid: 0000-0002-4633-1898
+    affiliation: Universidad de Oviedo
+  - name: Wenceslao González Manteiga
+    url: http://eio.usc.es/pub/wences/index.php/es/inicio-es
+    orcid: 0000-0002-3555-4623
+    affiliation: Universidad de Santiago de Compostela
+categories: 
+  - Bootstrap
+  - Dimension reduction
+  - Functional data
+  - Functional linear models
+  - Goodness-of-fit
+  - R package
+  - Elastic net regularization
+  - Weather data
+pub-info:
+  reference: >-
+    <a href="https://egarpor.github.io/">Eduardo García Portugués</a>, <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, <a href="https://scholar.google.es/citations?user=_2dQ9wYAAAAJ&hl=es">Gonzalo Álvarez Pérez</a> and <a href="http://eio.usc.es/pub/wences/index.php/es/inicio-es">Wenceslao González Manteiga</a>, «A goodness-of-fit test for the functional linear model with functional response», <em>Scand. J. Statist.</em> 48 (2), 502–528 (2021), doi: <a href="https://doi.org/10.1111/sjos.12486"><code>10.1111/sjos.12486</code></a>
+  links:
+    - name: Preprint
+      url: 1909.07686.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Versión final
+      url: https://onlinelibrary.wiley.com/doi/10.1111/sjos.12486
+      icon: fa-solid fa-scroll
+    - name: Código
+      url: https://github.com/egarpor/goffda
+      icon: fa-brands fa-github
+    - name: Datos
+      url: "#c%C3%B3digo-r-y-datos"
+      icon: fa-solid fa-table
+  extra: >-
+    Incluido como parte del Special Issue asociado al 4th Workshop on Goodness-of-Fit, Change-Point and Related Problems» celebrado en Trento en 2019
+doi: 10.1111/sjos.12486
+haiku:
+  - Model must align true,
+  - Goodness-of-fit shows the way
+  - Functional beauty
+---
+
+## Materiales
+
+- [Preprint (borrador)](1909.07686.pdf)
+- [Artículo (desde sci-hub)](10.1111@sjos.12486.pdf)
+- [Material suplementario](sjos12486-sup-0001-suppinfo.pdf)
+- [Repositorio GitHub](https://github.com/egarpor/goffda)
+- [Paquete R](https://cran.r-project.org/web/packages/goffda/index.html)
+
+
+## Abstract
+
+The functional linear model with functional response (FLMFR) is one of the most fundamental models to assess the relation between two functional random variables. In this article, we propose a novel goodness-of-fit test for the FLMFR against a general, unspecified, alternative. The test statistic is formulated in terms of a Cramér–von Mises norm over a doubly projected empirical process which, using geometrical arguments, yields an easy-to-compute weighted quadratic norm. A resampling procedure calibrates the test through a wild bootstrap on the residuals and the use of convenient computational procedures. As a sideways contribution, and since the statistic requires a reliable estimator of the FLMFR, we discuss and compare several regularized estimators, providing a new one specifically convenient for our test. The finite sample behavior of the test is illustrated via a simulation study. Also, the new proposal is compared with previous significance tests. Two novel real data sets illustrate the application of the new test.
+
+## Código R y datos
+
+El código está documentado y libremente disponible en el [repositorio GitHub](https://github.com/egarpor/goffda). Además dicho software fue subido como [paquete de R](https://cran.r-project.org/web/packages/goffda/index.html).
+
+Hay dos archivos de datos incluidos en el repositorio:
+
+- [**`data/aemet_temp.rda`**](https://github.com/dadosdelaplace/goffda/blob/master/data/aemet_temp.rda): fichero de curvas de temperatura del AEMET de 1974 a 2013.
+- [**`data/ontario.rda`**](https://github.com/dadosdelaplace/goffda/blob/master/data/ontario.rda): fichero de curvas de demanda eléctrica
+
+
+## Cita BibTeX
+
+```bibtex
+@article{GarciaPortuguesetal2021,
+  author = {E. García-Portugués and J. Álvarez-Liébana and G. Álvarez-Pérez and W. González-Manteiga},
+  title = {A goodness-of-fit test for the functional linear model with functional response},
+  journal = {Scandinavian Journal of Statistics},
+  volume = {48},
+  number = {2},
+  pages = {502-528},
+  keywords = {bootstrap, Cramér–von Mises statistic, functional data, goodness-of-fit, regularization},
+  doi = {10.1111/sjos.12486},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12486},
+  year = {2021}
+}
+```

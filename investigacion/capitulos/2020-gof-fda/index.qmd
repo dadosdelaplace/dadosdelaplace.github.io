@@ -1,0 +1,88 @@
+---
+title: "Goodness-of-fit test for functional linear models based on integrated projections"
+date: 2020-06-20
+author:
+  - name: Eduardo García Portugués
+    url: https://egarpor.github.io/
+    orcid: 0000-0002-9224-4111
+    affiliation: Universidad Carlos III
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: Gonzalo Álvarez Pérez
+    url: https://scholar.google.es/citations?user=_2dQ9wYAAAAJ&hl=es
+    orcid: 0000-0002-4633-1898
+    affiliation: Universidad de Oviedo
+  - name: Wenceslao González Manteiga
+    url: http://eio.usc.es/pub/wences/index.php/es/inicio-es
+    orcid: 0000-0002-3555-4623
+    affiliation: Universidad de Santiago de Compostela
+categories: 
+  - Bootstrap
+  - Dimension reduction
+  - Functional data
+  - Functional linear models
+  - Goodness-of-fit
+  - R package
+  - Elastic net regularization
+  - Weather data
+pub-info:
+  reference: >-
+    <a href="https://egarpor.github.io/">Eduardo García Portugués</a>, <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, <a href="https://scholar.google.es/citations?user=_2dQ9wYAAAAJ&hl=es">Gonzalo Álvarez Pérez</a> and <a href="http://eio.usc.es/pub/wences/index.php/es/inicio-es">Wenceslao González Manteiga</a>, «Goodness-of-fit test for functional linear models based on integrated projections», <em>IWFOS 2020: Functional and High-Dimensional Statistics and Related Fields</em> 107-114 (2020), doi: <a href="https://doi.org/10.1007/978-3-030-47756-1_15"><code>10.1007/978-3-030-47756-1_15</code></a>
+  links:
+    - name: Preprint
+      url: 978-3-030-47756-1_15.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Versión final
+      url: https://link.springer.com/chapter/10.1007/978-3-030-47756-1_15
+      icon: fa-solid fa-scroll
+    - name: Código
+      url: https://github.com/egarpor/goffda
+      icon: fa-brands fa-github
+    - name: Datos
+      url: "#c%C3%B3digo-r-y-datos"
+      icon: fa-solid fa-table
+  extra: >-
+    Incluido como parte del Special Issue asociado al 4th Workshop on Goodness-of-Fit, Change-Point and Related Problems» celebrado en Trento en 2019
+doi: 10.1007/978-3-030-47756-1_15
+haiku:
+  - Model must align true,
+  - Goodness-of-fit shows the way
+  - Functional beauty
+---
+
+## Materiales
+
+- [Capítulo de libro](978-3-030-47756-1_15.pdf)
+- [Repositorio GitHub](https://github.com/egarpor/goffda)
+- [Paquete R](https://cran.r-project.org/web/packages/goffda/index.html)
+
+
+## Abstract
+
+Functional linear models are one of the most fundamental tools to assess the relation between two random variables of a functional or scalar nature. This contribution proposes a goodness-of-fit test for the functional linear model with functional response that neatly adapts to functional/scalar responses/predictors. In particular, the new goodness-of-fit test extends a previous proposal for scalar response. The test statistic is based on a convenient regularized estimator, is easy to compute, and is calibrated through an efficient bootstrap resampling. A graphical diagnostic tool, useful to visualize the deviations from the model, is introduced and illustrated with a novel data application. The R package goffda implements the proposed methods and allows for the reproducibility of the data application.
+
+## Código R y datos
+
+El código está documentado y libremente disponible en el [repositorio GitHub](https://github.com/egarpor/goffda). Además dicho software fue subido como [paquete de R](https://cran.r-project.org/web/packages/goffda/index.html).
+
+Hay dos archivos de datos incluidos en el repositorio:
+
+- [**`data/aemet_temp.rda`**](https://github.com/dadosdelaplace/goffda/blob/master/data/aemet_temp.rda): fichero de curvas de temperatura del AEMET de 1974 a 2013.
+- [**`data/ontario.rda`**](https://github.com/dadosdelaplace/goffda/blob/master/data/ontario.rda): fichero de curvas de demanda eléctrica
+
+
+## Cita BibTeX
+
+```bibtex
+@book{GarciaPortuguesetal2020,
+  author = {E. García-Portugués and J. Álvarez-Liébana and G. Álvarez-Pérez and W. González-Manteiga},
+  title = {Goodness-of-fit Tests for Functional Linear Models Based on Integrated Projections},
+  publisher = {In: Aneiros, G., Horová, I., Hušková, M., Vieu, P. (eds) Functional and High-Dimensional Statistics and Related Fields. IWFOS 2020. Contributions to Statistics. Springer, Cham},
+  doi = {10.1007/978-3-030-47756-1_15},
+  url = {https://link.springer.com/chapter/10.1007/978-3-030-47756-1_15},
+  year = {2020}
+}
+```

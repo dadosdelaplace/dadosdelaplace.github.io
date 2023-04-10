@@ -1,0 +1,32 @@
+---
+title: "Conference Proceedings (TAAC 2015): Consistency of the plug-in functional ARH(1) predictor of the Ornstein-Uhlenbeck process"
+date: 2015-11-23
+author:
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: Denis Bosq
+    affiliation: Universitè Pierre et Marie Curie
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+categories: 
+  - Consistency
+  - Dimension reduction
+  - Functional data
+  - Functional time series
+  - Ornstein-Uhlenbeck process
+pub-info:
+  reference: >-
+    <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, Denis Bosq, <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, «Consistency of the plug-in functional ARH(1) predictor of the Ornstein-Uhlenbeck process», <em>Conference Proceedings (TAAC 2015)</em> (2015).
+  links:
+    - name: Congreso
+      url: http://taac.org.ua/uk/a2015
+      icon: fa-solid fa-scroll
+haiku:
+  - Predicting the past,
+  - Ornstein-Uhlenbeck's path,
+  - Consistency holds.
+---

@@ -1,0 +1,46 @@
+- title: Descripción y exploración de datos
+  description: "Asignatura de introducción a la estadística descriptiva y visualización de datos en el grado de Estadística Aplicada"
+  university: Universidad Complutense
+  number: Grado en Estadística Aplicada
+  url: https://github.com
+  logo: logos/logo-UCM.png
+  semester:
+  - name: 1º curso (sep 2022 - ene 2023)
+    url: https://github.com
+- title: Software para Gestión de Bases de Datos
+  description: "Asignatura de R y Stata para el preprocesamiento y visualización de datos"
+  university: Universidad Complutense
+  number: Máster en Bioestadística
+  url: https://github.com
+  logo: logos/logo-UCM.png
+  semester:
+  - name: Curso único (sep 2022 - ene 2023)
+    url: https://github.com
+- title: Técnicas y metodología de Minería de Datos (SEMMA)
+  description: "Asignatura de modelización en R (tidymodels) y SAS: árboles, random forest, knn, regresión lineal, logística, glm"
+  university: Universidad Complutense
+  number: Máster en Minería de Datos e Inteligencia de Negocio
+  url: https://github.com
+  logo: logos/logo-UCM.png
+  semester:
+  - name: Curso único (sep 2022 - ene 2023)
+    url: https://github.com
+- title: Técnicas de análisis multivariante (PCA y clustering)
+  description: "Técnicas de PCA y clustering"
+  university: Universidad Complutense
+  number: Máster (títulos propios) de Big Data y Business Analytics
+  url: https://github.com
+  logo: logos/logo-UCM.png
+  semester:
+  - name: Septiembre (2022)
+    url: https://github.com
+  - name: Febrero presencial (2023)
+    url: https://github.com
+  - name: Febrero online (2023)
+    url: https://github.com
+  - name: Mayo presencial (2023)
+    url: https://github.com
+  - name: Mayo online (2023)
+    url: https://github.com
+    
+    

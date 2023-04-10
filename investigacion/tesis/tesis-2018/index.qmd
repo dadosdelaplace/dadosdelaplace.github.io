@@ -1,0 +1,56 @@
+---
+title: "Inference on linear processes in Hilbert and Banach spaces. Statistical analysis of high-dimensional data"
+date: 2018-07-24
+author:
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+categories: 
+  - Banach spaces
+  - Consistency
+  - Functional data
+  - Functional time series
+  - Hilbert spaces
+  - Weather data
+pub-info:
+  reference: >-
+    <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, «Inference on linear processes in Hilbert and Banach spaces. Statistical analysis of high-dimensional data», <em>Universidad de Granada</em> (20218), dialnet: <a href="https://dialnet.unirioja.es/servlet/tesis?codigo=150992"><code>DIGIBUG</code></a>
+  links:
+    - name: Versión final
+      url: thesis_vf.pdf
+      icon: fa-solid fa-scroll
+  extra: >-
+    Tribunal de tesis: José Miguel Angulo Ibáñez (presidente), Ana María Aguilera del Pino (secretaria), María Dolores Ugarte Martínez (vocal externo), Wenceslao González Manteiga (vocal externo) y Florence Merlevède (vocal externo internacional)
+haiku:
+  - Hilbert, Banach land,
+  - Functional time at command,
+  - High-dimensions stand.
+---
+
+## Materiales
+
+- [Tesis final](thesis_vf.pdf)
+
+## Abstract
+
+Esta tesis proporciona nuevos resultados en el contexto de la estimación y predicción funcional, a partir de modelos autorregresivos Hilbertianos, o bien, con valores en espacios de Banach separables. El objetivo fundamental es proporcionar herramientas adecuadas para modelizar relaciones lineales entre variables aleatorias funcionales, que dependen de un índice temporal. Se ha adoptado un enfoque paramétrico, en la estimación funcional, basado en proyectar sobre bases ortonormales adecuadas. Los resultados derivados, sobre propiedades asintóticas de los estimadores considerados, se aplican al contexto de la regresión lineal funcional, con errores correlados en el tiempo, y con valores funcionales en espacios de Hilbert separables. En particular, se considera un análisis funcional de la varianza, para dichos modelos. Se introduce asimismo un enfoque Bayesiano en la derivación de la aproximación considerada, componente a componente, para el operador de autocorrelación, bajo condiciones menos restrictivas. Adicionalmente, se contempla un enfoque no paramétrico en la clasificación de datos funcionales con soporte espacial. 
+
+## Código R y datos
+
+El código no fue documentado no está libremente disponible, solo bajo petición
+
+## Cita BibTeX
+
+```bibtex
+@phdthesis{AlvarezLiebana2018,
+  author = {J. Álvarez-Liébana},
+  title = {Inference on linear processes in Hilbert and Banach spaces. Statistical analysis of high-dimensional data},
+  school = {University of Granada},
+  year = {2018}
+}
+```

@@ -1,0 +1,69 @@
+---
+title: "Consistency of the plug-in functional predictor of the Ornstein–Uhlenbeck process in Hilbert and Banach spaces"
+date: 2016-10-01
+author:
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: Denis Bosq
+    affiliation: Universitè Pierre et Marie Curie
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+categories: 
+  - Consistency
+  - Dimension reduction
+  - Functional data
+  - Functional time series
+  - Ornstein-Uhlenbeck process
+pub-info:
+  reference: >-
+    <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, Denis Bosq, <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, «Consistency of the plug-in functional predictor of the Ornstein–Uhlenbeck process in Hilbert and Banach spaces», <em>Stat. Prob. Letters</em> 117, 12–22 (2017), doi: <a href="https://doi.org/10.1016/j.spl.2016.04.023"><code>10.1016/j.spl.2016.04.023</code></a>
+  links:
+    - name: Preprint
+      url: 1706.06354.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Versión final
+      url: https://www.sciencedirect.com/science/article/abs/pii/S016771521630044X
+      icon: fa-solid fa-scroll
+  extra: >-
+    Artículo derivado de mi estancia en París con Denis Bosq
+doi: 10.1016/j.spl.2016.04.023
+haiku:
+  - Predicting the past,
+  - Ornstein-Uhlenbeck's path,
+  - Consistency holds.
+---
+
+## Materiales
+
+- [Preprint (borrador)](1706.06354.pdf)
+- [Artículo (desde sci-hub)](10.1016@j.spl.2016.04.023.pdf)
+
+
+## Abstract
+
+New results on functional prediction of the Ornstein-Uhlenbeck process in an autoregressive Hilbert-valued and Banach-valued frameworks are derived. Specifically, consistency of the maximum likelihood estimator of the autocorrelation operator, and of the associated plug-in predictor is obtained in both frameworks.
+
+## Código R y datos
+
+El código no fue documentado no está libremente disponible, solo bajo petición
+
+
+## Cita BibTeX
+
+```bibtex
+@article{AlvarezLiebanaetal16,
+  author = {J. Álvarez-Liébana and D. Bosq and M. D. Ruiz-Medina},
+  title = {Consistency of the plug-in functional predictor of the Ornstein–Uhlenbeck process in Hilbert and Banach spaces},
+  journal = {Stat. Prob. Letters},
+  volume = {117},
+  pages = {12-22},
+  keywords = {Autoregressive Hilbertian processes, Banach-valued autoregressive processes, consistency, maximum likelihood parameter estimator, ornstein–Uhlenbeck process},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S016771521630044X},
+  year = {2016}
+}
+```

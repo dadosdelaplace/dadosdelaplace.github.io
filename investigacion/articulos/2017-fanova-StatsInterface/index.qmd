@@ -1,0 +1,65 @@
+---
+title: "The effect of the spatial domain in FANOVA models with ARH(1) error term"
+date: 2017-06-01
+author:
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+categories: 
+  - ANOVA
+  - Biostatistic
+  - Functional data
+  - Functional linear models
+  - Functional time series
+  - Goodness-of-fit
+pub-info:
+  reference: >-
+    <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, «The effect of the spatial domain in FANOVA models with ARH(1) error term», <em>Statistics and its Interface</em> 10, 607–628 (2017), doi: <a href="https://www.intlpress.com/site/pub/files/_fulltext/journals/sii/2017/0010/0004/SII-2017-0010-0004-a007.pdf"><code>link</code></a>
+  links:
+    - name: Preprint
+      url: 1706.06976.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Versión final
+      url: https://www.intlpress.com/site/pub/files/_fulltext/journals/sii/2017/0010/0004/SII-2017-0010-0004-a007.pdf
+      icon: fa-solid fa-scroll
+haiku:
+  - Spatial domain explored,
+  - FANOVA with ARH(1),
+  - Error term revealed.
+---
+
+## Materiales
+
+- [Preprint (borrador)](1706.06976.pdf)
+- [Artículo (desde sci-hub)](SII-2017-0010-0004-a007.pdf)
+
+
+## Abstract
+
+Functional Analysis of Variance (FANOVA) from Hilbert-valued correlated data with spatial rectangular or circular supports is analyzed, when Dirichlet conditions are assumed on the boundary. Specifically, a Hilbert-valued fixed effect model with error term defined from an Autoregressive Hilbertian process of order one (ARH(1) process) is considered. A new statistical test is also derived to contrast the significance of the functional fixed effect parameters. The Dirichlet conditions established at the boundary affect the dependence range of the correlated error term. While the rate of convergence to zero of the eigenvalues of the covariance kernels, characterizing the Gaussian functional error components, directly affects the stability of the generalized least-squares parameter estimation problem. A simulation study and a real-data application related to fMRI analysis are undertaken to illustrate the performance of the parameter estimator and statistical test derived.
+
+## Código R y datos
+
+El código no fue documentado no está libremente disponible, solo bajo petición
+
+## Cita BibTeX
+
+```bibtex
+@article{AlvarezLiebanaRuizMedina17,
+  author = {J. Álvarez-Liébana and M. D. Ruiz-Medina},
+  title = {The effect of the spatial domain in FANOVA models with ARH(1) error term},
+  journal = {Statistics and its Interface},
+  volume = {10},
+  pages = {607-628},
+  keywords = {ARH(1) error term, boundary value problems, Cramer-Wold theorem, functional analysis
+of variance, linear functional tests, FMRI data},
+  url = {https://www.intlpress.com/site/pub/files/_fulltext/journals/sii/2017/0010/0004/SII-2017-0010-0004-a007.pdf},
+  year = {2017}
+}
+```

@@ -1,0 +1,47 @@
+---
+title: "A diagonal componentwise approach for ARB(1) prediction"
+date: 2017-04-28
+author:
+  - name: Javier Álvarez Liébana
+    url: https://javieralvarezliebana.github.io/
+    orcid: 0000-0003-0671-3856
+    affiliation: Universidad Complutense de Madrid
+  - name: María Dolores Ruiz Medina
+    url: https://www.researchgate.net/profile/Maria-Ruiz-Medina
+    orcid: 0000-0001-7445-7060
+    affiliation: Universidad de Granada
+categories: 
+  - Consistency
+  - Functional data
+  - Functional time series
+pub-info:
+  reference: >-
+    <a href="https://javieralvarezliebana.github.io/">Javier Álvarez Liébana</a>, <a href="https://www.researchgate.net/profile/Maria-Ruiz-Medina">María Dolores Ruiz Medina</a>, «A diagonal componentwise approach for ARB(1) prediction», <em>In: Aneiros, G., G. Bongiorno, E., Cao, R., Vieu, P. (eds) Functional Statistics and Related Fields. Contributions to Statistics. Springer, Cham</em> (2017), doi: <a href="https://doi.org/10.1007/978-3-319-55846-2_4"><code>10.1007/978-3-319-55846-2_4</code></a>
+  links:
+    - name: Capítulo de libro
+      url: 978-3-319-55846-2_4.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+doi: 10.1007/978-3-319-55846-2_4
+---
+
+## Materiales
+
+- [Capítulo de libro](978-3-319-55846-2_4.pdf)
+
+## Abstract
+
+This paper extends to the Banach-valued framework previous strong-consistency results derived, in the context of diagonal componentwise estimation of the autocorrelation operator of autoregressive Hilbertian processes, and the associated plug-in prediction. The Banach space B considered here is B = C ([0,1]), the space of continuous functions on [0,1] with the supremum norm.
+
+## Cita BibTeX
+
+```bibtex
+@book{AlvarezLiebanaRuizMedina17,
+  author = {J. Álvarez-Liébana and M. D. Ruiz-Medina},
+  title = {A diagonal componentwise approach for ARB(1) prediction},
+  publisher = {In: Aneiros, G., G. Bongiorno, E., Cao, R., Vieu, P. (eds) Functional Statistics and Related Fields. Contributions to Statistics. Springer, Cham},
+  doi = {10.1007/978-3-319-55846-2_4},
+  url = {https://link.springer.com/chapter/10.1007/978-3-319-55846-2_4},
+  year = {2017}
+}
+```
