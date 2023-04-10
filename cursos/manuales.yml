@@ -1,0 +1,16 @@
+- title: Aprendiendo R sin morir en el intento
+  description: "Manual de introducción a R para personas que nunca han programado. Material hecho con rmarkdown"
+  university: Manual online
+  number: Actualizado a marzo de 2023
+  url: https://dadosdelaplace.github.io/curso-intro-R/
+  logo: logos/logo-rstudio.png
+  semester:
+  - name: Manual (enlace Github)
+    url: https://dadosdelaplace.github.io/curso-intro-R/
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://github.com/dadosdelaplace/curso-intro-R
+    icon: fa-brands fa-github
+  - name: Manual (enlace netlify)
+    url: https://aprendiendo-r-intro.netlify.app/
+    icon: fa-solid fa-link

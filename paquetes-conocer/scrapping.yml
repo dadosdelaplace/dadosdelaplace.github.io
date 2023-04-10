@@ -1,0 +1,53 @@
+- title: rvest
+  description: "Web scrapping de webs sencillas"
+  university: Entorno tidyverse
+  number: Actualizado a 5 de abril de 2023
+  url: https://rvest.tidyverse.org/
+  logo: logos/logo-rvest.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/rvest/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://rvest.tidyverse.org/
+    icon: fa-brands fa-github
+  - name: scrapping
+    icon: fa-solid fa-tag
+  - name: datos
+    icon: fa-solid fa-tag 
+    
+- title: RSelenium
+  description: "Web scrapping más complejo con navegación inteligente"
+  university: John Harrison y Ju Yeong Kim
+  number: Actualizado a 5 de abril de 2023
+  url: https://docs.ropensci.org/RSelenium/
+  logo: logos/logo-ropensci.jpeg
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/RSelenium/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url:  https://docs.ropensci.org/RSelenium/
+    icon: fa-brands fa-github
+  - name: scrapping
+    icon: fa-solid fa-tag
+  - name: datos
+    icon: fa-solid fa-tag 
+ 
+- title: Rcrawler
+  description: "Web scrapping más complejo para extraer relaciones en la web"
+  university: Salim Khalil
+  number: Actualizado a 5 de abril de 2023
+  url: http://www.sciencedirect.com/science/article/pii/S2352711017300110
+  logo: logos/logo-Rcrawler.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/Rcrawler/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url:  https://github.com/salimk/Rcrawler/
+    icon: fa-brands fa-github
+  - name: scrapping
+    icon: fa-solid fa-tag
+  - name: datos
+    icon: fa-solid fa-tag 

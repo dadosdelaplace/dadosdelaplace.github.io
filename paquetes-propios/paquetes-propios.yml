@@ -1,0 +1,13 @@
+- title: goffda (versión 0.1.1)
+  description: "Goodness-of-Fit tests for functional data (contrastes de bondad de ajuste para datos funcionales)"
+  university: Eduardo García Portugués y Javier Álvarez Liébana
+  number: Actualizado a 26 de agosto de 2022
+  url: https://cran.r-project.org/web/packages/goffda/index.html
+  logo: logos/logo-goffda.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cran.r-project.org/web/packages/goffda/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://github.com/egarpor/goffda
+    icon: fa-brands fa-github

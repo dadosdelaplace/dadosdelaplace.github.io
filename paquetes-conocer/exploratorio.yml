@@ -1,0 +1,57 @@
+- title: skimr
+  description: "Generación de resúmenes estadísticos"
+  university: Entorno ropensci
+  number: Actualizado a 5 de abril de 2023
+  url: https://docs.ropensci.org/skimr/
+  logo: logos/logo-skimr.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/skimr/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://github.com/ropensci/skimr/
+    icon: fa-brands fa-github
+  - name: descriptiva
+    icon: fa-solid fa-tag
+  - name: resúmenes
+    icon: fa-solid fa-tag 
+    
+- title: corrr
+  description: "Análisis y visualización de correlaciones"
+  university: Entorno tidymodels
+  number: Actualizado a 5 de abril de 2023
+  url: https://corrr.tidymodels.org/
+  logo: logos/logo-corrr.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/corrr/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url:  https://corrr.tidymodels.org/
+    icon: fa-brands fa-github
+  - name: descriptiva
+    icon: fa-solid fa-tag
+  - name: correlación
+    icon: fa-solid fa-tag 
+  - name: dataviz
+    icon: fa-solid fa-tag 
+ 
+- title: DataExplorer
+  description: "Análisis exploratorio automatizado"
+  university: Boxuan Cui
+  number: Actualizado a 5 de abril de 2023
+  url: https://boxuancui.github.io/DataExplorer/
+  logo: logos/logo-DataExplorer.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/DataExplorer/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url:  https://boxuancui.github.io/DataExplorer/
+    icon: fa-brands fa-github
+  - name: descriptiva
+    icon: fa-solid fa-tag
+  - name: resúmenes
+    icon: fa-solid fa-tag 
+    
+

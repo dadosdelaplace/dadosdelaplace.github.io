@@ -1,0 +1,25 @@
+---
+title: "Paquetes propios"
+description-meta: "{{< meta website.description >}}"
+title-block-banner: "#ffe64acf"
+title-block-banner-color: "#000000"
+listing:
+  - id: paquetes_propios
+    contents: paquetes-propios.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Listado de paquetes
+---
+
+## Paquetes en CRAN
+
+:::{#paquetes_propios}
+:::
+
+
+
+
+

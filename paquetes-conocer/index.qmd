@@ -1,0 +1,229 @@
+---
+title: "60 paquetes a conocer"
+description-meta: "{{< meta website.description >}}"
+title-block-banner: "#ff9672b3"
+title-block-banner-color: "#000000"
+listing:
+  - id: modelizacion
+    contents: modelizacion.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+  - id: preproc
+    contents: preproc.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+  - id: textos
+    contents: textos.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+  - id: importar
+    contents: importar.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+  - id: scrapping
+    contents: scrapping.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+  - id: exploratorio
+    contents: exploratorio.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Listado de paquetes
+---
+
+
+## [**Preprocesamiento**]{.hl-yellow}
+
+:::{#preproc}
+:::
+
+* [**Curso (diapositivas) de introducción a tidyverse**]{.hl-green} de Javier Álvarez Liébana. Disponible en <https://dadosdelaplace.github.io/curso-R-RTVE/index.html>
+
+
+## [**Dataviz**]{.hl-yellow}
+
+Pendiente
+
+<!-- ggpattern: rellenos con patrones geométricos en ggplot2. De coolbutuseless y Trevor L. Davis. https://github.com/coolbutuseless/ggpattern -->
+
+
+## [**Mapas y geoestadística**]{.hl-purple}
+
+Pendiente
+
+* [**Manual de estadística espacial y geoestadística**]{.hl-green} de Robin Lovelace. Disponible en <https://geocompr.robinlovelace.net/>
+
+* [**Visualización de datos geográficos**]{.hl-green} de Dominic Royé. Disponible en <https://dominicroye.github.io/en/>
+
+* [**Manual de inferencia espacial bayesiana**]{.hl-green} de Virgilio Gómez Rubio. Disponible en <https://becarioprecario.bitbucket.io/inla-gitbook/>
+
+<!-- mapSpain: visualización de datos en mapas de España en R. De Diego Hernangómez. https://dieghernan.github.io/rpubs/mapSpain_RMadrid/#1 -->
+
+<!-- rasterpic: visualización de mapas con imágenes rasterizados de fondo. De Diego Hernangómez. https://dieghernan.github.io/rasterpic/ -->
+
+<!-- layer: paquete para crear capas de mapas. De Marco Sciaini y Cédric Scherer https://github.com/marcosci/layer -->
+
+<!-- https://cran.r-project.org/web/packages/mapSpain/index.html -->
+
+<!-- https://cran.r-project.org/web/packages/giscoR/index.html -->
+
+
+## [**Manejo de textos**]{.hl-yellow}
+
+:::{#textos}
+:::
+
+
+* [**Manual de text mining**]{.hl-green} de Julia Silge y David Robinson. Disponible en <https://tidytextmining.com>
+
+* [**Análisis de sentimientos en Twitter**]{.hl-green} de Harshvardhan. Disponible en <https://www.harsh17.in/twitter-sentiments/>
+
+## [**Importar/exportar datos**]{.hl-yellow}
+
+:::{#importar}
+:::
+
+
+### [**Scrapping**]{.hl-purple}
+
+:::{#scrapping}
+:::
+
+* [**Web scrapping en Python**]{.hl-green}. Disponible en <https://www.crummy.com/software/BeautifulSoup/>
+
+
+### [**Acceso a API**]{.hl-purple}
+
+Pendiente
+
+<!-- httr: comunicación webs http y API. De Hadley Wickham, Chief Scientist en RStudio. https://github.com/r-lib/httr -->
+
+
+<!-- rtweet: datos de Twitter. De Michael W. Kearney https://docs.ropensci.org/rtweet/ -->
+
+<!-- owidR: datos de Our World in Data. De OWiD. https://github.com/piersyork/owidR -->
+
+<!-- spotify -->
+
+<!-- eurostat: datos de Eurostat. https://ropengov.github.io/eurostat/articles/articles/eurostat_tutorial.html -->
+
+<!-- climaemet: datos del AEMET. https://ropenspain.github.io/climaemet/ -->
+
+
+
+### [**Otras fuentes de datos**]{.hl-purple}
+
+* [**Canciones de Taylor Swift**]{.hl-green} de W. Jake Thompson. Disponible en <https://taylor.wjakethompson.com/>
+
+* [**Textos completos de los 7 primeros libros de Harry Potter**]{.hl-green} de Bradley Boehmke. Disponible en <https://github.com/bradleyboehmke/harrypotter>
+
+* [**Datos de partidas de ajedrez**]{.hl-green} de Jason Zivkovic. Disponible en <https://github.com/JaseZiv/chessR>
+
+* [**Acceso a datos de fishbase.org**]{.hl-green} de Carl Boettiger. Disponible en <https://github.com/ropensci/rfishbase>
+
+
+## [**Análisis exploratorio**]{.hl-yellow}
+
+:::{#exploratorio}
+:::
+
+
+## [**Modelización e inferencia**]{.hl-yellow}
+
+:::{#modelizacion}
+:::
+
+* [**Manual de inferencia estadística en ciencia de datos**]{.hl-green} de Chester Ismay y Albert Y. Kim. Disponible en <https://moderndive.com/>
+
+* [**Manual de tidymodels**]{.hl-green} de Emil Hvitfeldt. Disponible en <https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html>
+
+* [**Manual de modelos lineales y GLM**]{.hl-green} de Paul Roback y Julie Legler. Disponible en <https://bookdown.org/roback/bookdown-BeyondMLR/>
+
+### [**Muestreo**]{.hl-purple}
+
+Pendiente
+
+<!-- https://rsample.tidymodels.org/ -->
+
+<!-- https://spatialsample.tidymodels.org/ -->
+
+
+### [**Análisis de supervivencia y modelos con censura**]{.hl-purple}
+
+Pendiente
+
+<!-- https://censored.tidymodels.org/ -->
+
+<!-- survival package -->
+
+### [**Estadística Bayesiana**]{.hl-purple}
+
+Pendiente
+
+* [**Manual de inferencia espacial bayesiana**]{.hl-green} de Virgilio Gómez Rubio. Disponible en <https://becarioprecario.bitbucket.io/inla-gitbook/>
+
+<!-- tidybayes: estadística bayesiana y visualización. De Matthew Kay. http://mjskay.github.io/tidybayes/ -->
+
+<!-- tidyposterior: estadística bayesiana. Paquete del entorno tidymodels. https://tidyposterior.tidymodels.org/index.html -->
+
+<!-- https://github.com/comodin19/BayesVarSel -->
+
+## [**Diapositivas, libros e informes**]{.hl-yellow}
+
+Pendiente
+
+<!-- rmarkdown: creación de informes en R. De Yihui Xie, J. J. Allaire y Garrett Grolemund https://bookdown.org/yihui/rmarkdown/ -->
+
+<!-- bookdown: creación de libros y manuales en R. De Yihui Xie. https://bookdown.org/yihui/bookdown/ -->
+
+<!-- blogdown: creación de webs en R. De Yihui Xie, Amber Thomas y Alison Presmanes Hill. https://bookdown.org/yihui/blogdown/ -->
+
+<!-- shiny: webs interactivas con R. https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/ -->
+
+<!-- quarto -->
+
+### [**Tablas**]{.hl-purple}
+
+Pendiente
+
+<!-- gt: tablas en R. De RStudio https://gt.rstudio.com/ -->
+
+<!-- gtExtras: visualización de datos en tablas. De Thomas Mock. https://jthomasmock.github.io/gtExtras/index.html -->
+
+<!-- tablas visualmente atractivas en R con gt y gtextras. De Benjamin Nowak https://bjnnowak.netlify.app/2021/10/04/r-beautiful-tables-with-gt-and-gtextras/ -->
+
+## [**Desarrollar paquetes**]{.hl-yellow}
+
+Pendiente
+
+<!-- devtools started off as a lean-and-mean package to facilitate local package development, but over the years it accumulated more and more functionality. devtools has undergone a conscious uncoupling to split out functionality into smaller, more tightly focussed packages. This includes: -->
+
+<!-- testthat: Writing and running tests (i.e. test()). -->
+
+<!-- roxygen2: Function and package documentation (i.e. document()). -->
+
+<!-- usethis: Automating package setup (i.e. use_test()). -->
+
+## [**Otros recursos**]{.hl-yellow}
+
+* [**Paquetes para acceder a datos abiertos**]{.hl-green}. Disponible en <https://ropensci.org/packages/data-access/>
+
+* [**Visualizar el ciclo día/noche en el mundo**]{.hl-green} de Dominic Royé. Disponible en  <https://dominicroye.github.io/en/2021/visualize-the-day-night-cycle-on-a-world-map/>
+
+* [**Visualizar de la cuenca hídrica de Francia**]{.hl-green} de Etienne Bacher Disponible en  <https://www.etiennebacher.com/posts/2021-12-27-mapping-french-rivers-network/>
+
+* [**Recreando en R la famosa espiral del NYT**]{.hl-green} de Ansgar Wolsing. Disponible en <https://bydata.github.io/nyt-corona-spiral-chart/>
+
+* [**{swirl}: paquete para crear cursos de R**]{.hl-green}. Web oficial <https://swirlstats.com/>
+
+* [**{lenght}: paquete para evitar la dislexia con lenght**]{.hl-green}. Web oficial <https://cran.r-project.org/web/packages/lenght/index.html>
+
+* [**{microbenchmark}: simulando tiempos de ejecución**]{.hl-green}. Web oficial <https://cran.r-project.org/web/packages/microbenchmark/index.html>
+
+* [**Estadística y probabilidad para científicos de datos**]{.hl-green} de Raúl Vaquerizo. Disponible en <https://analisisydecision.es/estadistica-data-scientist/index.html>
+
+* [**Hashtag #TidyTuesday en Twiter**]{.hl-green}: todos los martes un reto de dataviz. Disponible en <https://twitter.com/search?q=%23tidytuesday&src=hashtag_click>. Repositorio oficial con los datos y retos en <https://github.com/rfordatascience/tidytuesday>
+

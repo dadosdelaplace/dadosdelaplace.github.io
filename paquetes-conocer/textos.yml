@@ -1,0 +1,77 @@
+- title: stringr
+  description: "Manipulación de textos"
+  university: Entorno tidyverse
+  number: Actualizado a 4 de abril de 2023
+  url: https://stringr.tidyverse.org/
+  logo: logos/logo-stringr.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/stringr/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://stringr.tidyverse.org/
+    icon: fa-brands fa-github
+  - name: textos
+    icon: fa-solid fa-tag
+  - name: depuración
+    icon: fa-solid fa-tag
+  - name: expresiones regulares
+    icon: fa-solid fa-tag 
+    
+- title: textrecipes
+  description: "Preprocesamiento de textos y textmining"
+  university: Entorno tidymodels
+  number: Actualizado a 4 de abril de 2023
+  url: https://textrecipes.tidymodels.org/
+  logo: logos/logo-textrecipes.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/textrecipes/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://textrecipes.tidymodels.org/
+    icon: fa-brands fa-github
+  - name: textos
+    icon: fa-solid fa-tag
+  - name: modelos
+    icon: fa-solid fa-tag 
+  - name: text mining
+    icon: fa-solid fa-tag 
+    
+- title: glue
+  description: "Pegado sencillo de cadenas de texto"
+  university: Entorno tidyverse
+  number: Actualizado a 4 de abril de 2023
+  url: https://glue.tidyverse.org/
+  logo: logos/logo-glue.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/glue/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://glue.tidyverse.org/
+    icon: fa-brands fa-github
+  - name: textos
+    icon: fa-solid fa-tag
+  - name: depuración
+    icon: fa-solid fa-tag
+
+- title: gutenbergr
+  description: "Textos libres para uso en text mining"
+  university: David Robinson (entorno ropensci)
+  number: Actualizado a 4 de abril de 2023
+  url: https://docs.ropensci.org/gutenbergr/
+  logo: logos/logo-ropensci.jpeg
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/gutenbergr/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://github.com/ropensci/gutenbergr
+    icon: fa-brands fa-github
+  - name: textos
+    icon: fa-solid fa-tag
+  - name: datos
+    icon: fa-solid fa-tag
+    
+

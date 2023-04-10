@@ -1,0 +1,86 @@
+- title: readr
+  description: "Importar/exportar archivos rectangulares (.csv, .txt)"
+  university: Entorno tidyverse
+  number: Actualizado a 4 de abril de 2023
+  url: https://readr.tidyverse.org/
+  logo: logos/logo-readr.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/readr/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://readr.tidyverse.org/
+    icon: fa-brands fa-github
+  - name: importar
+    icon: fa-solid fa-tag
+  - name: exportar
+    icon: fa-solid fa-tag
+  - name: datos
+    icon: fa-solid fa-tag 
+    
+- title: readxl
+  description: "Importar/exportar excels"
+  university: Entorno tidyverse
+  number: Actualizado a 4 de abril de 2023
+  url: https://readxl.tidyverse.org/
+  logo: logos/logo-readxl.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/readxl/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://readxl.tidyverse.org/
+    icon: fa-brands fa-github
+  - name: importar
+    icon: fa-solid fa-tag
+  - name: exportar
+    icon: fa-solid fa-tag 
+  - name: excel
+    icon: fa-solid fa-tag 
+  - name: datos
+    icon: fa-solid fa-tag 
+    
+- title: haven
+  description: "Importar/exportar ficheros de SPSS, Stata y SAS"
+  university: Entorno tidyverse
+  number: Actualizado a 4 de abril de 2023
+  url: https://haven.tidyverse.org/
+  logo: logos/logo-haven.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/haven/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://haven.tidyverse.org/
+    icon: fa-brands fa-github
+  - name: importar
+    icon: fa-solid fa-tag
+  - name: exportar
+    icon: fa-solid fa-tag
+  - name: SPSS
+    icon: fa-solid fa-tag 
+  - name: datos
+    icon: fa-solid fa-tag 
+
+- title: googledrive
+  description: "Importar/exportar desde hoja de cálculo de Google Drive"
+  university: Entorno tidyverse
+  number: Actualizado a 4 de abril de 2023
+  url: https://googledrive.tidyverse.org/
+  logo: logos/logo-googledrive.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/googledrive/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://googledrive.tidyverse.org/
+    icon: fa-brands fa-github
+  - name: importar
+    icon: fa-solid fa-tag
+  - name: exportar
+    icon: fa-solid fa-tag
+  - name: datos
+    icon: fa-solid fa-tag
+  - name: google drive
+    icon: fa-solid fa-tag
+

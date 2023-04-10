@@ -1,0 +1,111 @@
+- title: goffda
+  description: "Contrastes de bondad de ajuste para datos funcionales"
+  university: Eduardo García Portugués y Javier Álvarez Liébana
+  number: Actualizado a 26 de agosto de 2022
+  url: https://cran.r-project.org/web/packages/goffda/index.html
+  logo: logos/logo-goffda.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cran.r-project.org/web/packages/goffda/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://github.com/egarpor/goffda
+    icon: fa-brands fa-github
+  - name: goodness-of-fit
+    icon: fa-solid fa-tag
+  - name: datos funcionales (FDA)
+    icon: fa-solid fa-tag
+
+- title: performance
+  description: "Evaluación de hipótesis de modelos lineales"
+  university: Daniel Lüdecke
+  number: Actualizado a 12 de enero de 2023
+  url: https://cran.r-project.org/web/packages/goffda/index.html
+  logo: logos/logo-performance.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/performance/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://easystats.github.io/performance/
+    icon: fa-brands fa-github
+  - name: evaluación
+    icon: fa-solid fa-tag
+  - name: modelos
+    icon: fa-solid fa-tag 
+  - name: regresión
+    icon: fa-solid fa-tag 
+    
+- title: tidymodels
+  description: "Entorno de paquetes para la modelización (Machine Learning) en semejanza a tidyverse"
+  university: RStudio
+  number: Actualizado a 4 de abril de 2023
+  url: https://www.tidymodels.org/
+  logo: logos/logo-tidymodels.png
+  semester:
+  - name: rsample
+    url: https://rsample.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: parsnip
+    url: https://parsnip.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: recipes
+    url: https://recipes.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: workflows
+    url: https://workflows.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: tune
+    url: https://tune.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: infer
+    url: https://infer.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: yardstick
+    url: https://yardstick.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: broom
+    url: https://broom.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: dials
+    url: https://dials.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: discrim
+    url: https://discrim.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: textrecipes
+    url: https://textrecipes.tidymodels.org/
+    icon: fa-solid fa-chalkboard-user  
+  - name: Web oficial
+    url: https://www.tidymodels.org/
+    icon: fa-brands fa-github
+  - name: modelos
+    icon: fa-solid fa-tag
+  - name: tidyverse
+    icon: fa-solid fa-tag 
+  - name: machine learning
+    icon: fa-solid fa-tag 
+
+- title: vip
+  description: "Evaluar la importancia de las variables"
+  university: Brandon M. Greenwell and Bradley C. Boehmke
+  number: Actualizado a 17 de diciembre de 2020
+  url: https://cran.r-project.org/web/packages/vip/index.html
+  logo: logos/logo-vip.png
+  semester:
+  - name: Paquete en CRAN
+    url: https://cran.r-project.org/web/packages/vip/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://github.com/koalaverse/vip/
+    icon: fa-brands fa-github
+  - name: R journal
+    url: https://journal.r-project.org/archive/2020/RJ-2020-013/index.html
+    icon: fa-brands fa-r
+  - name: evaluación
+    icon: fa-solid fa-tag
+  - name: selección de variables
+    icon: fa-solid fa-tag 
+
+
+

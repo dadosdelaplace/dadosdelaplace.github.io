@@ -1,0 +1,35 @@
+---
+title: "Cursos y tutoriales"
+description-meta: "{{< meta website.description >}}"
+title-block-banner: "#ffe64acf"
+title-block-banner-color: "#000000"
+listing:
+  - id: cursos_presenciales
+    contents: cursos_presenciales.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+  - id: manuales
+    contents: manuales.yml
+    sort: "date desc"
+    template: ../css/cursos/listing.ejs
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Listado de cursos y tutoriales
+---
+
+## Manuales
+
+:::{#manuales}
+:::
+
+## Cursos presenciales
+
+:::{#cursos_presenciales}
+:::
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+- title: Manejo de datos en R para periodistas de RTVE
+  description: "Curso de introducción al análisis y visualización de datos en R para periodistas (junto con Borja Andrino). Material hecho con Quarto"
+  university: RTVE
+  number: marzo-abril de 2023
+  url: https://dadosdelaplace.github.io/curso-R-RTVE/index.html
+  logo: logos/logo-curso-RTVE.png
+  semester:
+  - name: Diapositivas
+    url: https://dadosdelaplace.github.io/curso-R-RTVE/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://github.com/dadosdelaplace/curso-R-RTVE
+    icon: fa-brands fa-github
+  - name: Código diapositivas
+    url: https://github.com/dadosdelaplace/curso-R-RTVE/tree/main/index.qmd
+    icon: fa-solid fa-link
+- title: Analizando datos, visualizando información, contando historias
+  description: "Curso de introducción al análisis y visualización de datos en R (junto con Gabriel Valverde, Borja Andrino, Victòria Oliveres y Dominic Royé). Material hecho con rmarkdown"
+  university: Escuela de Invierno de la UCM
+  number: enero-febrero de 2022
+  url: https://dadosdelaplace.github.io/curso-slides-dataviz-ECI-2022/index.html
+  logo: logos/logo-ggplot2.png
+  semester:
+  - name: Diapositivas
+    url: https://dadosdelaplace.github.io/curso-slides-dataviz-ECI-2022/index.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Github
+    url: https://github.com/dadosdelaplace/curso-slides-dataviz-ECI-2022
+    icon: fa-brands fa-github
+  - name: Código diapositivas
+    url: https://github.com/dadosdelaplace/curso-slides-dataviz-ECI-2022/tree/main/index.Rmd
+    icon: fa-solid fa-link
+  - name: Manual del curso
+    url: https://dadosdelaplace.github.io/curso-manual-dataviz-ECI-2022/
+    icon: fa-solid fa-book
+
+    

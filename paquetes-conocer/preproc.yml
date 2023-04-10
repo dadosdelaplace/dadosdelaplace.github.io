@@ -1,0 +1,160 @@
+- title: tibble
+  description: "Simplificando data.frames y haciéndolos más eficientes"
+  university: Entorno tidymodels
+  number: Actualizado a 4 de abril de 2023
+  url: https://tibble.tidyverse.org/
+  logo: logos/logo-tibble.svg
+  semester:
+  - name: Web oficial
+    url: https://tibble.tidyverse.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/tibble/index.html
+    icon: fa-brands fa-R
+  - name: Github
+    url: https://github.com/tidyverse/tibble/
+    icon: fa-brands fa-github
+  - name: datos
+    icon: fa-solid fa-tag
+  - name: tidyverse
+    icon: fa-solid fa-tag
+    
+- title: tidyr
+  description: "Ordenando y formateando datos"
+  university: Entorno tidymodels
+  number: Actualizado a 4 de abril de 2023
+  url: https://tidyr.tidyverse.org/
+  logo: logos/logo-tidyr.png
+  semester:
+  - name: Web oficial
+    url: https://tidyr.tidyverse.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/tidyr/index.html
+    icon: fa-brands fa-R
+  - name: Github
+    url: https://github.com/tidyverse/tidyr/
+    icon: fa-brands fa-github
+  - name: tidydata
+    icon: fa-solid fa-tag
+  - name: depuración
+    icon: fa-solid fa-tag
+  - name: tidyverse
+    icon: fa-solid fa-tag
+    
+- title: dplyr
+  description: "Preprocesamiento y depuración de datos"
+  university: Entorno tidymodels
+  number: Actualizado a 4 de abril de 2023
+  url: https://dplyr.tidyverse.org/
+  logo: logos/logo-dplyr.png
+  semester:
+  - name: Web oficial
+    url: https://dplyr.tidyverse.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/dplyr/index.html
+    icon: fa-brands fa-R
+  - name: Github
+    url: https://github.com/tidyverse/dplyr/
+    icon: fa-brands fa-github
+  - name: depuración
+    icon: fa-solid fa-tag
+  - name: tidyverse
+    icon: fa-solid fa-tag
+
+- title: purrr
+  description: "Programación funcional (sin bucles)"
+  university: Entorno tidymodels
+  number: Actualizado a 4 de abril de 2023
+  url: https://purrr.tidyverse.org/
+  logo: logos/logo-purrr.png
+  semester:
+  - name: Web oficial
+    url: https://purrr.tidyverse.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/purrr/index.html
+    icon: fa-brands fa-R
+  - name: Github
+    url: https://github.com/tidyverse/purrr/
+    icon: fa-brands fa-github
+  - name: depuración
+    icon: fa-solid fa-tag
+  - name: tidyverse
+    icon: fa-solid fa-tag
+  - name: listas
+    icon: fa-solid fa-tag
+  - name: abolición de bucles
+    icon: fa-solid fa-tag
+    
+- title: forcats
+  description: "Manejo de variables cualitativas (factores)"
+  university: Entorno tidymodels
+  number: Actualizado a 4 de abril de 2023
+  url: https://forcats.tidyverse.org/
+  logo: logos/logo-forcats.png
+  semester:
+  - name: Web oficial
+    url: https://forcats.tidyverse.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/forcats/index.html
+    icon: fa-brands fa-R
+  - name: Github
+    url: https://github.com/tidyverse/forcats/
+    icon: fa-brands fa-github
+  - name: depuración
+    icon: fa-solid fa-tag
+  - name: tidyverse
+    icon: fa-solid fa-tag
+  - name: cualitativas
+    icon: fa-solid fa-tag
+    
+- title: lubridate
+  description: "Manejo de fechas"
+  university: Entorno tidymodels
+  number: Actualizado a 4 de abril de 2023
+  url: https://lubridate.tidyverse.org/
+  logo: logos/logo-lubridate.png
+  semester:
+  - name: Web oficial
+    url: https://lubridate.tidyverse.org/
+    icon: fa-solid fa-chalkboard-user
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/lubridate/index.html
+    icon: fa-brands fa-R
+  - name: Github
+    url: https://github.com/tidyverse/lubridate/
+    icon: fa-brands fa-github
+  - name: depuración
+    icon: fa-solid fa-tag
+  - name: tidyverse
+    icon: fa-solid fa-tag
+  - name: fechas
+    icon: fa-solid fa-tag
+    
+- title: arrow
+  description: "Manejo de big data"
+  university: Nic Crane
+  number: Actualizado a 8 de marzo de 2023
+  url: https://arrow.apache.org/docs/r/articles/data_wrangling.html
+  logo: logos/logo-arrow.png
+  semester:
+  - name: Web oficial
+    url: https://arrow.apache.org/docs/r/articles/data_wrangling.html
+    icon: fa-solid fa-chalkboard-user
+  - name: Paquete en CRAN
+    url: https://cloud.r-project.org/web/packages/arrow/index.html
+    icon: fa-brands fa-R
+  - name: Github
+    url: https://github.com/apache/arrow/
+    icon: fa-brands fa-github
+  - name: depuración
+    icon: fa-solid fa-tag
+  - name: tidyverse
+    icon: fa-solid fa-tag
+  - name: big data
+    icon: fa-solid fa-tag
+
+
