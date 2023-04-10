@@ -1,0 +1,38 @@
+# Date format
+date-format: "dddd, MMMM D, YYYY"
+
+# Enable banner style title blocks
+title-block-banner: "#ffe64acf"
+title-block-banner-color: "#000000"
+
+# Add blog-post class to the banner header area
+format: 
+  html:
+    code-tools: true
+    comments:
+      giscus: 
+        repo: dadosdelaplace/dadosdelaplace.github.io
+        category: Comentarios del blog
+        category-id: DIC_kwDOIg6EJc4CSz92
+        mapping: pathname
+    quarto-template-params:
+      banner-header-class: "blog-post"
+
+# índice
+toc: true
+toc-title: Índice
+toc-location: left
+
+freeze: true
+
+# chunks
+execute:
+  echo: true
+  message: true
+  warning: true
+
+# Autor
+author:
+  - name: Javier Álvarez Liébana
+    url: https://www.javieralvarezliebana.com/
+    orcid: 0000-0003-0671-3856

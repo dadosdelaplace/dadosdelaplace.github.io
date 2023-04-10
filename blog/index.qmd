@@ -1,0 +1,34 @@
+---
+title: Blog
+author: "Javier Ávarez Liébana"
+description-meta: Análisis y aprendizaje de R
+listing:
+  - id: posts_2023
+    contents: "2023/**/index.qmd"
+    sort: "date desc"
+    template: ../css/blog/listing.ejs
+    categories: true
+  - id: posts_2022
+    contents: "2022/**/index.qmd"
+    sort: "date desc"
+    template: ../css/blog/listing.ejs
+    categories: true
+title-block-banner: "#ff9672b3"
+title-block-banner-color: "#000000"
+lang: es
+page-layout: full
+toc: true
+toc-location: right
+toc-title: "Fecha"
+date-format: "MMMM D, YYYY"
+---
+
+
+## 2023
+
+En construcción
+
+## 2022
+
+:::{#posts_2022}
+:::
