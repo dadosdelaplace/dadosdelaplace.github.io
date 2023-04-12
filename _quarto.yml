@@ -57,12 +57,13 @@ website:
         href: "investigacion/index.qmd"
       - text: "¿Qué hago?"
         menu: 
+          - text: "¿Qué uso?"
+            href: "recursos/index.qmd"
           - text: "¿En qué ando ahora?"
             href: "ahora/index.qmd"
           - text: "CV"
             href: "cv/index.qmd"
-      - text: "¿Qué uso?"
-        href: "recursos/index.qmd"
+      
       
     right:
       - icon: envelope

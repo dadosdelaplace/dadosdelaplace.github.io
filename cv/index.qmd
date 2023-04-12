@@ -1,9 +1,10 @@
 ---
 title: Curriculum
 description-meta: "{{< meta website.description >}}"
-date: 2022-12-31
+date: "`r lubridate::today()`"
 title-block-banner: "#FFE64A"
 title-block-banner-color: "#000000"
+lang: es
 published-title: Curriculum Vitae (última actualización)
 engine: knitr 
 cv:

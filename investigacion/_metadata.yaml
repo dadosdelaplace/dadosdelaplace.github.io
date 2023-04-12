@@ -4,7 +4,7 @@ description-meta: "{{< meta website.description >}}"
 date-format: "MMMM YYYY"
   
 # Enable banner style title blocks
-title-block-banner: "#cf4446"
+title-block-banner: "#7f738c"
 listing-page-field-categories: Categorías
   
 # Default for table of contents

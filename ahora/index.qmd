@@ -1,9 +1,10 @@
 ---
 title: ¿Qué hago ahora?
-date: 2023-03-19
+date: "`r lubridate::today()`"
 description-meta: Cosicas en las que anda Javier Álvarez Liébana
 published-title: Última actualización
 title-block-banner: "#7f738c"
+lang: es
 toc: true
 toc-location: left
 toc-title: "Índice"

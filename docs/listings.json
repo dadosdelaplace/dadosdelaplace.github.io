@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2022/01/14/wordle/index.html"
+    ]
+  },
+  {
     "listing": "/cursos/index.html",
     "items": []
   },
@@ -33,11 +39,5 @@
   {
     "listing": "/paquetes-propios/index.html",
     "items": []
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/2022/01/14/wordle/index.html"
-    ]
   }
 ]

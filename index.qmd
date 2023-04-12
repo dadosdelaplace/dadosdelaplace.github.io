@@ -57,14 +57,14 @@ javi |> filter(r_instructor)
 javi |> summarise(activity)
 ```
 
-En los **últimos años he impartido [docencia]{.hl-yellow}** en el [**Grado de Estadística Aplicada**](https://estudiosestadisticos.ucm.es/grado-estadistica-aplicada) (Descripción y exploración), en el [**Máster de Bioestadística**](https://estudiosestadisticos.ucm.es/master-bioestadistica) (Software para gestión de bases de datos), en el [**Máster de Minería de Datos e Inteligencia de Negocios**](https://estudiosestadisticos.ucm.es/master-mineria) (Técnicas y metodología de minería de datos), en los [**Máster (títulos propios)**](https://www.nticmaster.es/masteres-ucm/) de Big Data y Business Analytics, y Data Science y Big Data. Mis [**campos de investigación**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es) son el análisis de **datos funcionales (FDA)**, contrastes de **bondad de ajuste** (goodness-of-fit), **series temporales**, **Machine Learning** aplicado a **grafos** y **bioestadística**.
+En los **últimos años he impartido [docencia]{.hl-yellow}** en el [**Grado de Estadística Aplicada**](https://estudiosestadisticos.ucm.es/grado-estadistica-aplicada) (Descripción y exploración), en el [**Máster de Bioestadística**](https://estudiosestadisticos.ucm.es/master-bioestadistica) (Software para gestión de bases de datos), en el [**Máster de Minería de Datos e Inteligencia de Negocios**](https://estudiosestadisticos.ucm.es/master-mineria) (Técnicas y metodología de minería de datos), en los [**Máster (títulos propios)**](https://www.nticmaster.es/masteres-ucm/) de Big Data y Business Analytics, y Data Science y Big Data. Mis campos de investigación son el análisis de **datos funcionales (FDA)**, contrastes de **bondad de ajuste** (goodness-of-fit), **series temporales**, **Machine Learning** aplicado a **grafos** y **bioestadística**.
 
 
 ```{r eval = FALSE}
 javi |> select(membership)
 ```
 
-Además [**soy miembro**]{.hl-yellow} de [**SEIO**](https://www.seio.es/), [**RSME**](https://www.rsme.es/), [**R Hispano**](http://r-es.org/), [**DVS**](https://www.datavisualizationsociety.org/) y de los grupos de trabajo [FDA](https://FDA.seio.es) y [NP](http://np.seio.es/) de la SEIO. También soy miembro del proyecto de investigación nacional [Dinámica compleja e inferencia no paramétrica (PID2020-116587GB-I0)](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) y del grupo de investigacióin [Data science and soft computing for social analytics and decision aid](https://edoctorado.ucm.es/grupos/grupo/509) de la UCM.
+Además [**soy miembro**]{.hl-yellow} de [SEIO](https://www.seio.es/), [RSME](https://www.rsme.es/), [R Hispano](http://r-es.org/), [DVS](https://www.datavisualizationsociety.org/) y de los grupos de trabajo [FDA](https://FDA.seio.es) y [NP](http://np.seio.es/) de la SEIO. También soy miembro del proyecto de investigación nacional [Dinámica compleja e inferencia no paramétrica (PID2020-116587GB-I0)](http://eamo.usc.es/pub/gi1914/index.php?option=com_content&view=article&id=29&lang=es&idproy=353) y del grupo de investigacióin [Data science and soft computing for social analytics and decision aid](https://edoctorado.ucm.es/grupos/grupo/509) de la UCM.
 
 :::
 

@@ -1,7 +1,7 @@
 ---
 title: "Investigación"
 description-meta: "{{< meta website.description >}}"
-title-block-banner: "#9E393B"
+title-block-banner: "#7f738c"
 listing:
   - id: articulos
     contents: "articulos/*/index.qmd"
@@ -33,57 +33,56 @@ include-back-link: false
 toc-location: right
 ---
 
-En mi corta carrera como investigador desde 2014, mis [**campos de investigación**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es) son o han sido el análisis de [**datos funcionales (FDA)**]{.hl-purple}, metodologías de contraste de bondad de ajuste (goodness-of-fit), predicción de series temporales, implementación de [**Machine Learning aplicado a grafos**]{.hl-purple} y, recientemente, el campo de la bioestadística. Estoy acreditado como [**Contratado Doctor (ANECA)**]{.hl-purple} desde junio de 2022, y acumulo un total de **2 trienios (2014-2020)** y pendiente de solicitar quinquenio de docencia (2014-2019) y sexenio de investigación (hasta 2023 la UCM no lo permitía).
+En mi corta carrera como investigador desde 2014, mis [**campos de investigación**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=es) son o han sido el análisis de [**datos funcionales (FDA)**]{.hl-yellow}, metodologías de contraste de bondad de ajuste (goodness-of-fit), predicción de series temporales, implementación de [**Machine Learning aplicado a grafos**]{.hl-yellow} y, recientemente, el campo de la bioestadística. Estoy acreditado como [**Contratado Doctor (ANECA)**]{.hl-yellow} desde junio de 2022, y acumulo un total de **2 trienios (2014-2020)** y pendiente de solicitar quinquenio de docencia (2014-2019) y sexenio de investigación (hasta 2023 la UCM no lo permitía).
 
-## [Artículos científicos]{.hl-yellow}
+## **Artículos científicos**
 
 :::{#articulos}
 :::
 
 
-## [Software]{.hl-yellow}
+## **Software**
 
 :::{#software}
 :::
 
 
-## [Capítulos de libro]{.hl-yellow}
+## **Capítulos de libro**
 
 :::{#capitulos}
 :::
 
-## [Tesis]{.hl-yellow}
+## **Tesis**
 
 :::{#tesis}
 :::
 
-## [Posiciones académicas]{.hl-yellow}
+## **Posiciones académicas**
 
-* [**Profesor/investigador Ayudante Doctor en la UCM**]{.hl-purple} en la UCM desde octubre de 2021 hasta la actualidad.
+* [**Profesor/investigador Ayudante Doctor en la UCM**]{.hl-yellow} en la UCM desde octubre de 2021 hasta la actualidad.
 
-* [**Profesor/investigador Ayudante Doctor en UNIOVI**]{.hl-purple} desde septiembre de 2020 hasta septiembre de 2021.
+* [**Profesor/investigador Ayudante Doctor en UNIOVI**]{.hl-yellow} desde septiembre de 2020 hasta septiembre de 2021.
 
-* [**Profesor/investigador sustituto interio en UNIOVI**]{.hl-purple} desde septiembre de 2018 hasta agosto de 2020.
+* [**Profesor/investigador sustituto interio en UNIOVI**]{.hl-yellow} desde septiembre de 2018 hasta agosto de 2020.
 
-* [**Investigador contratado FPI en UGR**]{.hl-purple} desde septiembre de 2014 hasta julio de 2018.
+* [**Investigador contratado FPI en UGR**]{.hl-yellow} desde septiembre de 2014 hasta julio de 2018.
 
-## [Estancias]{.hl-yellow}
+## **Estancias**
+
+* [**Estancia postdoctoral**]{.hl-yellow} en la Universidad de Santiago de Compostela en enero de 2020 (menos de un mes) con el investigador Wenceslao González Manteiga.
+
+* [**Estancia postdoctoral**]{.hl-yellow} en la Universidad de Santiago de Compostela en junio de 2019 (menos de un mes) con el investigador Wenceslao González Manteiga.
+
+* [**Estancia postdoctoral**]{.hl-yellow} en el grupo Nanomedicina IDIVAL- UC desde mayo hasta junio de 2019 (1 mes) con el investigador Carlos Renero Lecuna.
+
+* [**Estancia postdoctoral**]{.hl-yellow} en la Universidad de Santiago de Compostela desde septiembre hasta octubre de 2018 (1 mes) con el investigador Wenceslao González Manteiga.
+
+* [**Estancia predoctoral**]{.hl-yellow} en la Universitè Pierre et Marie Curie (París) desde septiembre de 2017 hasta diciembre de 2017 (3 meses).
+
+* [**Estancia predoctoral**]{.hl-yellow} en la Universitè Pierre et Marie Curie (París) desde marzo de 2015 hasta junio de 2015 (3 meses).
 
 
-* [**Estancia postdoctoral**]{.hl-purple} en la Universidad de Santiago de Compostela en enero de 2020 (menos de un mes) con el investigador Wenceslao González Manteiga.
-
-* [**Estancia postdoctoral**]{.hl-purple} en la Universidad de Santiago de Compostela en junio de 2019 (menos de un mes) con el investigador Wenceslao González Manteiga.
-
-* [**Estancia postdoctoral**]{.hl-purple} en el grupo Nanomedicina IDIVAL- UC desde mayo hasta junio de 2019 (1 mes) con el investigador Carlos Renero Lecuna.
-
-* [**Estancia postdoctoral**]{.hl-purple} en la Universidad de Santiago de Compostela desde septiembre hasta octubre de 2018 (1 mes) con el investigador Wenceslao González Manteiga.
-
-* [**Estancia predoctoral**]{.hl-purple} en la Universitè Pierre et Marie Curie (París) desde septiembre de 2017 hasta diciembre de 2017 (3 meses).
-
-* [**Estancia predoctoral**]{.hl-purple} en la Universitè Pierre et Marie Curie (París) desde marzo de 2015 hasta junio de 2015 (3 meses).
-
-
-## [Transferencia]{.hl-yellow}
+## **Transferencia**
 
 * [**Curso de análisis de datos con R en RTVE**]{.hl-purple} para periodistas de marzo a abril de 2023.
 
@@ -112,9 +111,9 @@ En mi corta carrera como investigador desde 2014, mis [**campos de investigació
 * [**Seminario/charla**]{.hl-purple}: «Machine Learning: supervised and non supervised learning», organizado por IEMATH-GR (Universidad de Granada) en 2016
 
 
-## [Premios, cargos de gestión y formación]{.hl-yellow}
+## **Premios, cargos de gestión y formación**
 
-### [Cargos de gestión]{.hl-purple}
+### [Cargos de gestión]{.hl-yellow}
 
 * [**Coordinador del primer semestre de 1º del Grado de Estadística Aplicada**]{.hl-green} de la Facultad de Estudios Estadísticos de la UCM durante el curso académico 2022-2023.
 
@@ -124,7 +123,7 @@ En mi corta carrera como investigador desde 2014, mis [**campos de investigació
 * [**Delegado como enlace con R Hispano**]{.hl-green} (nodo Madrid) por la Facultad de Estudios Estadísticos de la UCM durante los cursos académicos 2021-2022 y 2022-2023.
 
 
-### [Premios]{.hl-purple}
+### [Premios]{.hl-yellow}
 
 * [**Contrato Juan de la Cierva**]{.hl-green} - Formación del Ministerio de Ciencia e Innovación.
 
@@ -134,7 +133,7 @@ En mi corta carrera como investigador desde 2014, mis [**campos de investigació
 
 * [**Seleccionado por la Sociedad Española de Estadística e IO (SEIO)**]{.hl-green}  para representarla en «Regional workshop European Young Researchs» (París) en 2018.
 
-### [Educación]{.hl-purple}
+### [Educación]{.hl-yellow}
 
 * [**PhD Tesis (2014 - 2018)**]{.hl-green} por la Universidad de Granada (Granada). Cum Laude y Mención Internacional. Tesis titulada «Inference on linear processes in Hilbert and Banach spaces: statistical analysis of high-dimensional data» bajo la dirección de M. D. Ruiz-Medina. 
 
@@ -143,7 +142,7 @@ En mi corta carrera como investigador desde 2014, mis [**campos de investigació
 * [**Licenciatura en Matemáticas (2007 - 2013)**]{.hl-green} por la Universidad Complutense (Madrid), especializado en Astronomía y Geodesia. Cursé además un año de Erasmus en Bologna (Italia).  
 
 
-## [Congresos]{.hl-yellow}
+## **Congresos**
 
 * [**Comité organizador**]{.hl-green}: «4th Spanish Young Statisticians and Operational Researchers Meeting» 2023. Universidad de Santiago de Compostela.
 

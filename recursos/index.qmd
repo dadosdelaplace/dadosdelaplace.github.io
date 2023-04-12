@@ -1,10 +1,11 @@
 ---
 title: ¿Qué uso?
-date: 2023-03-19
+date: "`r lubridate::today()`"
 description-meta: Herramientas que usa actualmente Javier Álvarez Liébana
 title-block-banner: "#ffe64acf"
 title-block-banner-color: "#000000"
 published-title: Última actualización
+lang: es
 toc: true
 toc-location: left
 toc-title: "Índice"
@@ -16,19 +17,19 @@ Me gusta mucho cuando las personas cuyo trabajo sigo recomiendan las [**herramie
 
 ## [Software]{.hl-yellow}
 
-### [R]{.hl-purple}
+### R
 
-- Es bien conocida mi pasión por [**R**](https://www.r-project.org/), y siempre programo en [**RStudio**](https://www.rstudio.com/) (ahora conocido como postit).
-- Intento [**mejorar la legibilidad**]{.hl-yellow} de mi código al máximo así que abogo por la [**abolición de los bucles**]{.hl-red}. Para ello hago un uso intenso de todo el entorno de paquetes de [**{tidyverse}**](http://tidyverse.org/), en especial [**{ggplot2}**](https://ggplot2.tidyverse.org/), [R Markdown](https://rmarkdown.rstudio.com/) y [{purrr}](https://purrr.tidyverse.org/).
+- Es bien conocida mi pasión por [R](https://www.r-project.org/), y siempre programo en [RStudio](https://www.rstudio.com/) (ahora conocido como postit).
+- Intento [**mejorar la legibilidad**]{.hl-yellow} de mi código al máximo así que abogo por la [**abolición de los bucles**]{.hl-red}. Para ello hago un uso intenso de todo el entorno de paquetes de [{tidyverse}](http://tidyverse.org/), en especial [{ggplot2}](https://ggplot2.tidyverse.org/), [R Markdown](https://rmarkdown.rstudio.com/) y [{purrr}](https://purrr.tidyverse.org/).
 - Para la [**elaboración de apuntes**]{.hl-yellow} para el alumnado uso [R Markdown](https://rmarkdown.rstudio.com/) y para las [**diapositivas**]{.hl-yellow} uso [{xaringan}](https://github.com/yihui/xaringan), [{xaringaExtra}](https://github.com/gadenbuie/xaringanExtra) y, más recientemente, [Quarto](https://quarto.org/), paquete con el que he realizado esta web (antes usaba [{blogdown}](https://bookdown.org/yihui/blogdown/)).
 - Para el [**desarrollo de paquetes**]{.hl-yellow} uso principalmente los paquetes [{devtools}](https://devtools.r-lib.org/), [{usethis}](https://usethis.r-lib.org/), [{testthat}](https://testthat.r-lib.org/), [{roxygen2}](https://roxygen2.r-lib.org/) y [{pkgdown}](https://pkgdown.r-lib.org/).
 - Para [**grabar**]{.hl-yellow} el paso-a-paso de cómo construir un gráfico uso el paquete [{camcorder}](https://github.com/thebioengineer/camcorder).
-- Intento [**mantener todo documentado**]{.hl-yellow} en [**GitHub**](https://github.com/dadosdelaplace) para tener una trazabilidad de versiones.
+- Intento [**mantener todo documentado**]{.hl-yellow} en [GitHub](https://github.com/dadosdelaplace) para tener una trazabilidad de versiones.
 
 
-### [Visualización de datos]{.hl-purple}
+### Visualización de datos
 
-- La mayor parte de mi trabajo de [**visualización lo realizo en R**]{.hl-yellow} con los paquetes [**{ggplot2}**](https://ggplot2.tidyverse.org/), [{plotly}](https://plotly.com/r/) y [{shiny}](https://shiny.rstudio.com/).
+- La mayor parte de mi trabajo de [**visualización lo realizo en R**]{.hl-yellow} con los paquetes [{ggplot2}](https://ggplot2.tidyverse.org/), [{plotly}](https://plotly.com/r/) y [{shiny}](https://shiny.rstudio.com/).
 - A veces hago uso de [Illustrator CC](https://www.adobe.com/products/illustrator.html), y [Figma](https://www.figma.com/) para editar algunas gráficas.
 - Me gusta mucho la estética y sencillez de [DataWrapper](https://www.datawrapper.de/) y el paquete [{DatawRappr}](https://github.com/munichrocker/DatawRappr) hace muy sencilla su conexión desde R.
 - Tengo pendiente ponerme al día con [Observable](https://observablehq.com/) [D3.js](https://d3js.org/) para la [**visualización de datos interactiva**]{.hl-yellow}.
@@ -37,7 +38,7 @@ Me gusta mucho cuando las personas cuyo trabajo sigo recomiendan las [**herramie
 
 - La web está hecha entera con [Quarto](https://quarto.org/) y [R Markdown](https://rmarkdown.rstudio.com/) desde [R](https://www.r-project.org/) y [RStudio](https://www.rstudio.com/) (ahora conocido como post-it). Antes usaba [{blogdown}](https://bookdown.org/yihui/blogdown/) pero no hay color en cuanto a la sencillez.
 - El [**tema y organización**]{.hl-yellow} de la web está adaptado de la [web de Andrew Heiss](https://www.andrewheiss.com/talks/)
-- La web está alojada como repositorio en [**Github**](https://github.com/dadosdelaplace) y el deploy es realizado con [Netlify](https://www.netlify.com/) que me permite asignar dominios ya comprados de manera muy sencilla y sin necesidad de tener conocimientos sobre programación web.
+- La web está alojada como repositorio en [Github](https://github.com/dadosdelaplace) y el deploy es realizado con [Netlify](https://www.netlify.com/) que me permite asignar dominios ya comprados de manera muy sencilla y sin necesidad de tener conocimientos sobre programación web.
 - Para [**optimizar**]{.hl-yellow} la velocidad de la web uso [Page Speed](https://pagespeed.web.dev/).
 
 
@@ -50,19 +51,17 @@ Me gusta mucho cuando las personas cuyo trabajo sigo recomiendan las [**herramie
 
 ## [Productividad]{.hl-yellow}
 
-### [Organización]{.hl-purple}
+### Organización
 
-
-- Todavía no lo manejo tanto como me gustaría pero he [**abrazado con devoción las funcionalidades en productividad**]{.hl-yellow} que ofrece [**Notion**](https://www.notion.so/es-es). Para la planificación de proyectos y tareas en equipo he usado durante muchos años [Trello](https://trello.com/es).
-- Respecto al código, odio con toda mi alma trabajar en consola (matadme) así que uso [**GitKraken**](https://www.gitkraken.com/) para [**organizar los repositorios en Github**]{.hl-yellow}.
+- Todavía no lo manejo tanto como me gustaría pero he [**abrazado con devoción las funcionalidades en productividad**]{.hl-yellow} que ofrece [Notion](https://www.notion.so/es-es). Para la planificación de proyectos y tareas en equipo he usado durante muchos años [Trello](https://trello.com/es).
+- Respecto al código, odio con toda mi alma trabajar en consola (matadme) así que uso [GitKraken](https://www.gitkraken.com/) para [**organizar los repositorios en Github**]{.hl-yellow}.
 - Con los/as compañeros/as del grupo de Madrid de [DVS](https://www.datavisualizationsociety.org/) he empezado a usar [Slack](https://slack.com/intl/es-es).
-- Para no olvidarme de nada soy un clásico y uso de manera diaria [**Google Calendar**](https://calendar.google.com/calendar/).
-- Para leer noticias, guardar tweets y newsletters en un solo sitio uso [**Readwise**](https://readwise.io/) en combinación con [**Notion**](https://www.notion.so/es-es).
-- Gracias a una recomendación acabo de empezar a usar [Freedom](https://freedom.to/) y me parece una fantasía: una app que te permite crearte listas de "sitios bloqueados" para no entrar en franjas horarias (por ejemplo, no distraerte con Twitter).
+- Para no olvidarme de nada soy un clásico y uso de manera diaria [Google Calendar](https://calendar.google.com/calendar/).
+- Para leer noticias, guardar tweets y newsletters en un solo sitio uso [Readwise](https://readwise.io/) en combinación con [Notion](https://www.notion.so/es-es).
 - Si te lo puedes permitir y te distraes fácil es muy recomendable usar [Bartender](https://www.macbartender.com/) (yo he dejado de pagarlo porque tampoco necesito tanta concentración en mi vida pero me gustó mucho su versión gratuita de prueba), una app que te ayuda a no tener distracciones en las barras de herramientas.
-- Uso más de lo que me gustaría [**Telegram**](https://web.telegram.org/) para guardar notas, ideas e imágenes.
+- Uso más de lo que me gustaría [Telegram](https://web.telegram.org/) para guardar notas, ideas e imágenes.
 
-### [Reuniones y correos]{.hl-purple}
+### Reuniones y correos}
 
 - Si depende de mí, sin duda prefiero [Google Meet](https://meet.google.com/) por encima de cualquier otra.
 - Es habitual tener que usar [Teams](https://teams.microsoft.com/) para reuniones con otros investigadores de otras universidades (cuya docencia la tienen virtualizada en dicha aplicación).
@@ -76,15 +75,15 @@ Me gusta mucho cuando las personas cuyo trabajo sigo recomiendan las [**herramie
 
 Amén del software estadístico mencionado hago uso de las siguientes herramientas
 
-- Como todo investigador hago un uso casi diario de [**Sci-Hub**](https://www.sci-hub.se/) para acceder a los artículos que están bajo suscripción.
-- Para visualizar los artículos uso [**Adobe Acrobat**](https://acrobat.adobe.com/es/es/) y realizo anotaciones con [**iAnnotate**](http://www.iannotate.com/), ya que permite exportarlas de manera muy cómoda.
+- Como todo investigador hago un uso casi diario de [Sci-Hub](https://www.sci-hub.se/) para acceder a los artículos que están bajo suscripción.
+- Para visualizar los artículos uso [Adobe Acrobat](https://acrobat.adobe.com/es/es/) y realizo anotaciones con [iAnnotate](http://www.iannotate.com/), ya que permite exportarlas de manera muy cómoda.
 - Aunque se considere herejía, acabé una tesis sin usar nada para la gestión de bibliografía (ni Zotero ni Mendeley ni similares). Para la bibliografía uso un [**archivo .bib**]{.hl-yellow} en el que voy almacenando las referencias usadas.
 - Para la [**producción de artículos científicos**]{.hl-yellow} hago uso del lenguaje [LaTeX](https://www.latex-project.org/) cuya edición la llevo a acabo en [Overleaf](https://es.overleaf.com/project). Antes usaba [TexMaker](https://www.xm1math.net/texmaker/) como editor.
 - Recientemente he empezado a usar [Chat-GPT](https://chat.openai.com/) como complemento para la redacción de correos electrónicos, así como para la redacción de resúmenes, introducciones de artículos y reescritura de párrafos junto con [Paperpal](http://paperpal.com). Soy gran defensor de no inflaccionar las autorías de manera innecesaria, tampoco con la IA, en la línea de [Nature](https://www.nature.com/articles/d41586-023-00107-z).
 - Hago uso de [DeepL](https://www.deepl.com/es/translator) como traductor.
 - Como todo usuario de Mac a veces me toca lidiar con [Homebrew](http://brew.sh/) para la instalación de algunos programas.
 
-### [Almacenamiento]{.hl-purple}
+### Almacenamiento
 
 - Hago uso de la cuenta de 100GB de [Google Drive](https://www.google.com/intl/es_es/drive/) que nos facilita la UCM al colectivo investigador.
 
@@ -97,7 +96,7 @@ Amén del software estadístico mencionado hago uso de las siguientes herramient
 - Para la elaboración de documentos sencillos, hojas de ejercicios y diapositivas sin código intento simplificar al máximo, y aunque antes hacía un uso intenso de [LaTeX](https://www.latex-project.org/), ahora he abrazado el minimalismo con las herramientas de [Google Drive](https://www.google.com/intl/es_es/drive/).
 
 
-## Divulgación
+## [Divulgación]{.hl-yellow}
 
 ### Redes
 
@@ -123,6 +122,7 @@ Amén del software estadístico mencionado hago uso de las siguientes herramient
 
 ## Pendientes de probar (recomendadas por terceros)
 
+- [Freedom](https://freedom.to/): una app que te permite crearte listas de "sitios bloqueados" para no entrar en franjas horarias (por ejemplo, no distraerte con Twitter).
 - [Ulysses](http://ulyssesapp.com/) (dicen que es muy útil para la escritura de documentos Markdown, por ejemplo para documentar repositorios en Github).
 - [Mountain Duck](https://mountainduck.io/) para gestionar en un solo sitio las diferentes nubes de archivos y [Backblaze](https://www.backblaze.com/) para copias de seguridad.
 - [Observable](https://observablehq.com/)

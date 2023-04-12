@@ -201,6 +201,10 @@ background: #ffe64acf;
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-qué-hago">
 <li>
+    <a class="dropdown-item" href="../../../../../recursos/index.html">
+ <span class="dropdown-text">¿Qué uso?</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../../../../../ahora/index.html">
  <span class="dropdown-text">¿En qué ando ahora?</span></a>
   </li>  
@@ -210,10 +214,6 @@ background: #ffe64acf;
   </li>  
     </ul>
 </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../../../../../recursos/index.html">
- <span class="menu-text">¿Qué uso?</span></a>
-  </li>  
 </ul>
 <ul class="navbar-nav navbar-nav-scroll ms-auto">
 <li class="nav-item compact">
@@ -4757,7 +4757,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-92"><a href="#cb51-92" aria-hidden="true" tabindex="-1"></a>  <span class="fu">read_delim</span>(<span class="at">file =</span> <span class="st">"./datos/CREA_bruto.txt"</span>, <span class="at">delim =</span> <span class="st">"</span><span class="sc">\t</span><span class="st">"</span>)</span>
 <span id="cb51-93"><a href="#cb51-93" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 <span id="cb51-94"><a href="#cb51-94" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-95"><a href="#cb51-95" aria-hidden="true" tabindex="-1"></a><span class="fu">### Preprocesado corpus</span></span>
+<span id="cb51-95"><a href="#cb51-95" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Preprocesado corpus]{.hl-green}</span></span>
 <span id="cb51-96"><a href="#cb51-96" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-97"><a href="#cb51-97" aria-hidden="true" tabindex="-1"></a>Dicho fichero lo he <span class="co">[</span><span class="ot">**preprocesado**</span><span class="co">]</span>{.hl-yellow} para hacer más fácil su lectura. El archivo preprocesado lo tienes disponible en <span class="co">[</span><span class="ot">CREA_procesado.csv</span><span class="co">](https://raw.githubusercontent.com/dadosdelaplace/blog-R-repo/main/wordle/CREA_procesado.csv)</span> y el código que he ejecutado lo tienes debajo. Entre otras cosas, dado que en el juego en castellano no se admiten tildes, pero si la letra <span class="in">`ñ`</span>, he decidido <span class="co">[</span><span class="ot">**eliminar todas las tildes, acentos y diéresis del CREA**</span><span class="co">]</span>{.hl-yellow} y he **eliminado duplicados** (por ejemplo, <span class="in">`mi`</span> y <span class="in">`mí`</span> tras quitar tildes).</span>
 <span id="cb51-98"><a href="#cb51-98" aria-hidden="true" tabindex="-1"></a></span>
@@ -4832,7 +4832,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-167"><a href="#cb51-167" aria-hidden="true" tabindex="-1"></a>datos_CREA</span>
 <span id="cb51-168"><a href="#cb51-168" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 <span id="cb51-169"><a href="#cb51-169" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-170"><a href="#cb51-170" aria-hidden="true" tabindex="-1"></a><span class="fu">### Cálculo de frecuencias</span></span>
+<span id="cb51-170"><a href="#cb51-170" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Cálculo de frecuencias]{.hl-green}</span></span>
 <span id="cb51-171"><a href="#cb51-171" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-172"><a href="#cb51-172" aria-hidden="true" tabindex="-1"></a>He <span class="co">[</span><span class="ot">**calculado además los siguientes parámetros**</span><span class="co">]</span>{.hl-yellow} de cada una de las palabras (tienes el código colapsado debajo) por si nos son de utilidad:</span>
 <span id="cb51-173"><a href="#cb51-173" aria-hidden="true" tabindex="-1"></a></span>
@@ -5016,7 +5016,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-369"><a href="#cb51-369" aria-hidden="true" tabindex="-1"></a>         <span class="fu">paste0</span>(<span class="st">"Javier Álvarez Liébana (@dadosdelaplace) | Datos: CREA"</span>))</span>
 <span id="cb51-370"><a href="#cb51-370" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 <span id="cb51-371"><a href="#cb51-371" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-372"><a href="#cb51-372" aria-hidden="true" tabindex="-1"></a><span class="fu">### Corpus WORDLE</span></span>
+<span id="cb51-372"><a href="#cb51-372" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Corpus WORDLE]{.hl-green}</span></span>
 <span id="cb51-373"><a href="#cb51-373" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-374"><a href="#cb51-374" aria-hidden="true" tabindex="-1"></a>En los datos anteriores se han incluido <span class="co">[</span><span class="ot">**todas las palabras del CREA**</span><span class="co">]</span>{.hl-yellow} que superan cierto número de repeticiones en los documentos (al menos aparecer en 1 de cada 1000 documentos). Sin embargo, hemos observado como de <span class="co">[</span><span class="ot">**5 letras tan solo contamos con casi 4000 palabras**</span><span class="co">]</span>{.hl-yellow} (daría para jugar 10 años seguidos aproximadamente), que representa aproximadamente el 9% de nuestro corpus. Dado que el juego se reduce a palabras de 5 letras parece lógico preguntarse: <span class="co">[</span><span class="ot">**¿cuáles son las palabras más repetidas en CREA de dicho tamaño?**</span><span class="co">]</span>{.hl-yellow}</span>
 <span id="cb51-375"><a href="#cb51-375" aria-hidden="true" tabindex="-1"></a></span>
@@ -5094,7 +5094,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-449"><a href="#cb51-449" aria-hidden="true" tabindex="-1"></a>Las <span class="co">[</span><span class="ot">**5 palabras del WORDLE con mayor frecuencia de repetición**</span><span class="co">]</span>{.hl-yellow} en el conjunto de textos que componen el corpus de la RAE son <span class="co">[</span><span class="ot">**entre, donde, menos, mundo, forma**</span><span class="co">]</span>{.hl-purple}</span>
 <span id="cb51-450"><a href="#cb51-450" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-451"><a href="#cb51-451" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-452"><a href="#cb51-452" aria-hidden="true" tabindex="-1"></a><span class="fu">### Posición de letras en palabras WORDLE</span></span>
+<span id="cb51-452"><a href="#cb51-452" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Posición de letras en palabras WORDLE]{.hl-green}</span></span>
 <span id="cb51-453"><a href="#cb51-453" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-454"><a href="#cb51-454" aria-hidden="true" tabindex="-1"></a>No solo será importante el <span class="co">[</span><span class="ot">**número de veces que se repite una palabra**</span><span class="co">]</span>{.hl-yellow} sino cómo se <span class="co">[</span><span class="ot">**distribuyen las letras dentro de esas palabras**</span><span class="co">]</span>{.hl-yellow}: no es lo mismo empezar el juego con una palabra con varias vocales (para obtener información de las mismas) que empezar con una palabra que tiene <span class="in">`z`</span>, <span class="in">`ñ`</span> o <span class="in">`k`</span> (ya que lo más seguro es que te quedes con la misma información que antes de jugar).</span>
 <span id="cb51-455"><a href="#cb51-455" aria-hidden="true" tabindex="-1"></a></span>
@@ -5319,7 +5319,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-692"><a href="#cb51-692" aria-hidden="true" tabindex="-1"></a>         <span class="fu">paste0</span>(<span class="st">"Autor: J. Álvarez Liébana (@dadosdelaplace).</span><span class="sc">\n</span><span class="st">Datos: CREA y Github danielfrg/wordle.es"</span>))</span>
 <span id="cb51-693"><a href="#cb51-693" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 <span id="cb51-694"><a href="#cb51-694" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-695"><a href="#cb51-695" aria-hidden="true" tabindex="-1"></a><span class="fu">### Letras iniciales/finales</span></span>
+<span id="cb51-695"><a href="#cb51-695" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Letras iniciales/finales]{.hl-green}</span></span>
 <span id="cb51-696"><a href="#cb51-696" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-697"><a href="#cb51-697" aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">Elena Álvarez Mellado</span><span class="co">](https://twitter.com/lirondos)</span>, experta en lingüística computacional, apuntaba que quizás una <span class="co">[</span><span class="ot">**pista o ayuda para adivinar las palabras**</span><span class="co">]</span>{.hl-yellow} sea analizar qué letras suelen encabezar y terminas las palabras en castellano.</span>
 <span id="cb51-698"><a href="#cb51-698" aria-hidden="true" tabindex="-1"></a></span>
@@ -5509,7 +5509,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-890"><a href="#cb51-890" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-891"><a href="#cb51-891" aria-hidden="true" tabindex="-1"></a><span class="fu">## Scoring de palabras</span></span>
 <span id="cb51-892"><a href="#cb51-892" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-893"><a href="#cb51-893" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Puntuando letras]{.hl-orange}</span></span>
+<span id="cb51-893"><a href="#cb51-893" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Puntuando letras]{.hl-green}</span></span>
 <span id="cb51-894"><a href="#cb51-894" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-895"><a href="#cb51-895" aria-hidden="true" tabindex="-1"></a>Hemos visto cuáles son las letras más frecuentes en las palabras, en general, y al inicio y final de las mismas, y su <span class="co">[</span><span class="ot">**probabilidad (empírica) de aparecer**</span><span class="co">]</span>{.hl-yellow}. Sin embargo, como bien apunta <span class="co">[</span><span class="ot">Gabriel Rodríguez Alberich</span><span class="co">](https://twitter.com/Vibragiel)</span>, hemos visto que <span class="co">[</span><span class="ot">**no todas las palabras aparecerán con la misma frecuencia**</span><span class="co">]</span>{.hl-yellow}, así que tendremos una bolsa de palabras donde hay letras más repetidas que otras, por lo que una opción es <span class="co">[</span><span class="ot">**ponderar cada letra por las opciones que tiene cada palabra que la contiene de aparecer**</span><span class="co">]</span>{.hl-yellow}: la letra <span class="in">`e`</span> en <span class="in">`kefir`</span> no debería puntuar lo mismo que en <span class="in">`sobre`</span>.</span>
 <span id="cb51-896"><a href="#cb51-896" aria-hidden="true" tabindex="-1"></a></span>
@@ -5611,7 +5611,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-1000"><a href="#cb51-1000" aria-hidden="true" tabindex="-1"></a><span class="in">```</span> </span>
 <span id="cb51-1001"><a href="#cb51-1001" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-1002"><a href="#cb51-1002" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-1003"><a href="#cb51-1003" aria-hidden="true" tabindex="-1"></a><span class="fu">### Puntuando palabras</span></span>
+<span id="cb51-1003"><a href="#cb51-1003" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Puntuando palabras]{.hl-green}</span></span>
 <span id="cb51-1004"><a href="#cb51-1004" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-1005"><a href="#cb51-1005" aria-hidden="true" tabindex="-1"></a>Una vez que tenemos puntuadas las letras que van a formar nuestas palabras vamos a tomar los dos conjuntos de palabras de 5 letras, el **conjunto extraído de CREA** tras eliminar palabras poco repetidas (casi 10 000 vocablos) y el **conjunto de candidatas a WORDLE** (620 palabras), y [**puntuaremos cada palabra**]{.hl-yellow} en función de [**cuatro criterios**]{.hl-purple}:</span>
 <span id="cb51-1006"><a href="#cb51-1006" aria-hidden="true" tabindex="-1"></a></span>
@@ -5959,7 +5959,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-1356"><a href="#cb51-1356" aria-hidden="true" tabindex="-1"></a>  }</span>
 <span id="cb51-1357"><a href="#cb51-1357" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 <span id="cb51-1358"><a href="#cb51-1358" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-1359"><a href="#cb51-1359" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Peor escenario]{.hl-orange}</span></span>
+<span id="cb51-1359"><a href="#cb51-1359" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Peor escenario]{.hl-green}</span></span>
 <span id="cb51-1360"><a href="#cb51-1360" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-1361"><a href="#cb51-1361" aria-hidden="true" tabindex="-1"></a>Empecemos por el <span class="co">[</span><span class="ot">**peor de los casos**</span><span class="co">]</span>{.hl-yellow}: la **palabra a adivinar puede ser cualquiera** de los `r nrow(datos_CREA_filtrado %&gt;% filter(nletras == 5))` **vocablos de CREA** de 5 letras.</span>
 <span id="cb51-1362"><a href="#cb51-1362" aria-hidden="true" tabindex="-1"></a></span>
@@ -6092,7 +6092,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-1497"><a href="#cb51-1497" aria-hidden="true" tabindex="-1"></a>         <span class="fu">paste0</span>(<span class="st">"Autor: J. Álvarez Liébana (@dadosdelaplace) | Datos: CREA"</span>))</span>
 <span id="cb51-1498"><a href="#cb51-1498" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 <span id="cb51-1499"><a href="#cb51-1499" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-1500"><a href="#cb51-1500" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Mejor escenario]{.hl-orange}</span></span>
+<span id="cb51-1500"><a href="#cb51-1500" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Mejor escenario]{.hl-green}</span></span>
 <span id="cb51-1501"><a href="#cb51-1501" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-1502"><a href="#cb51-1502" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-1503"><a href="#cb51-1503" aria-hidden="true" tabindex="-1"></a>El <span class="co">[</span><span class="ot">**mejor de los casos**</span><span class="co">]</span>{.hl-yellow} será aquel en el que el conjunto de palabras que el usuario podría pensar y el conjunto de palabras a adivinar es el mismo, y es el conjunto reducido de **palabras que el juego oficial de WORDLE** en castellano tiene programadas, con <span class="in">`r nrow(datos_palabras_wordle)`</span> vocablos.</span>
@@ -6222,7 +6222,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-1635"><a href="#cb51-1635" aria-hidden="true" tabindex="-1"></a>         <span class="fu">paste0</span>(<span class="st">"Autor: J. Álvarez Liébana (@dadosdelaplace).</span><span class="sc">\n</span><span class="st">Datos: CREA y Github danielfrg/wordle.es"</span>))</span>
 <span id="cb51-1636"><a href="#cb51-1636" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 <span id="cb51-1637"><a href="#cb51-1637" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-1638"><a href="#cb51-1638" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Escenario realista]{.hl-orange}</span></span>
+<span id="cb51-1638"><a href="#cb51-1638" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Escenario realista]{.hl-green}</span></span>
 <span id="cb51-1639"><a href="#cb51-1639" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-1640"><a href="#cb51-1640" aria-hidden="true" tabindex="-1"></a>Por último el <span class="co">[</span><span class="ot">**caso más realista**</span><span class="co">]</span>{.hl-yellow}: el conjunto de palabras que el usuario podría pensar será el **conjunto de vocablos de CREA** de 5 letras y con una frecuencia normalizada superior a 3 por cada 1000 documentos analizados (un total de `r nrow(datos_CREA_filtrado %&gt;% filter(frec_norm &gt;= 3))` vocablos, bastante más extenso de las palabras que una persona seguramente pueda considerar, de `r nrow(datos_CREA_filtrado %&gt;% filter(frec_norm &gt;= 3 &amp; nletras == 5))` palabras si lo reducimos a las palabras de 5 letras). Sin embargo, el [**conjunto de palabras a adivinar**]{.hl-yellow} será el conjunto reducido de palabras que el **juego oficial de WORDLE en castellano** tiene programadas, con <span class="in">`r nrow(datos_palabras_wordle)`</span> vocablos.</span>
 <span id="cb51-1641"><a href="#cb51-1641" aria-hidden="true" tabindex="-1"></a></span>
@@ -6378,7 +6378,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb51-1799"><a href="#cb51-1799" aria-hidden="true" tabindex="-1"></a>:::</span>
 <span id="cb51-1800"><a href="#cb51-1800" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-1801"><a href="#cb51-1801" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb51-1802"><a href="#cb51-1802" aria-hidden="true" tabindex="-1"></a><span class="fu">### Elección de la palabra inicial</span></span>
+<span id="cb51-1802"><a href="#cb51-1802" aria-hidden="true" tabindex="-1"></a><span class="fu">### [Elección de la palabra inicial]{.hl-green}</span></span>
 <span id="cb51-1803"><a href="#cb51-1803" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb51-1804"><a href="#cb51-1804" aria-hidden="true" tabindex="-1"></a>Por último vamos a realizar una busqueda de las <span class="co">[</span><span class="ot">**palabras que mejor funcionan como palabra inicial**</span><span class="co">]</span>{.hl-yellow}. Para ello vamos a considerar las **palabras del CREA más repetidas** (que aparezcan en más de 220 de cada 1000 documentos) amén de las palabras de WORDLE (filtrando las que se repitan en menos de 20 de cada 1000 documentos). Para cada una vamos a generar un [**número de simulaciones y contabilizar el número de éxitos o fracasos**]{.hl-yellow}.</span>
 <span id="cb51-1805"><a href="#cb51-1805" aria-hidden="true" tabindex="-1"></a></span>
