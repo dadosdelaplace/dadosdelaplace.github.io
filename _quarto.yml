@@ -29,6 +29,7 @@ website:
   site-url: "https://javieralvarezliebana.es"
   repo-url: "https://github.com/dadosdelaplace/dadosdelaplace.github.io"
   google-analytics: "G-LTS0WS8SKR"
+  favicon: /files/favicon32x32.png
   twitter-card:
     title: "Javier Álvarez Liébana (@dadosdelaplace)"
     description: "Web personal de Javier Álvarez Liébana"
