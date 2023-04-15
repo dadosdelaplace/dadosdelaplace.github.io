@@ -2,8 +2,8 @@
 title: "Deja tus excels en la puerta y bienvenido/a"
 pagetitle: "{{< meta website.title >}}"
 description-meta: "{{< meta website.description >}}"
-main-photo: /files/profile-hex-sticker.png
-main-photo-square: /files/profile-hex-sticker.png
+main-photo: /files/profile-hex-sticker.webp
+main-photo-square: /files/profile-hex-sticker.webp
 title-block-banner: "#ffe64acf"
 title-block-banner-color: "#000000"
 lang: es

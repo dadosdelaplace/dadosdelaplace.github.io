@@ -68,16 +68,12 @@ website:
       
     right:
       - icon: envelope
-        aria-label: email
         href: "mailto:javalv09@ucm.es"
       - icon: twitter
-        aria-label: twitter
         href: https://twitter.com/dadosdelaplace
       - icon: camera
-        aria-label: instagram
         href: https://instagram.com/javieralvarezliebana
       - icon: github
-        aria-label: github
         href: https://github.com/dadosdelaplace
         
   page-footer:
