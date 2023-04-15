@@ -26,8 +26,9 @@ author-meta: "Javier Álvarez Liébana"
 website:
   title: "Javier Álvarez Liébana"
   description: "Web personal de Javier Álvarez Liébana"
-  site-url: "https://www.javieralvarezliebana.com"
+  site-url: "https://javieralvarezliebana.es"
   repo-url: "https://github.com/dadosdelaplace/dadosdelaplace.github.io"
+  google-analytics: "G-LTS0WS8SKR"
   
   open-graph: 
     locale: es_ES
