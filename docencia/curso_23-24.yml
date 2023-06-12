@@ -1,0 +1,12 @@
+- title: Software para gestión de bases de datos
+  description: "Introducción al análisis de datos en R (y Stata)"
+  university: Universidad Complutense
+  number: Máster en Bioestadística
+  url: https://javieralvarezliebana.es/docencia-R-master-bio-2324/diapos
+  logo: logos/r-master-bio-23-24.png
+  semester:
+  - name: Diapositivas
+    url: https://javieralvarezliebana.es/docencia-R-master-bio-2324/diapos
+  - name: Github
+    url: https://github.com/dadosdelaplace/docencia-R-master-bio-2324/tree/main
+    

@@ -4,35 +4,24 @@ description-meta: "{{< meta website.description >}}"
 title-block-banner: "#ffe64acf"
 title-block-banner-color: "#000000"
 listing:
+  - id: curso_23-24
+    contents: curso_23-24.yml
+    sort: "date desc"
+    template: ../css/docencia/listing.ejs
   - id: curso_22-23
     contents: curso_22-23.yml
-    sort: "date desc"
-    template: ../css/docencia/listing.ejs
-  - id: curso_21-22
-    contents: curso_21-22.yml
-    sort: "date desc"
-    template: ../css/docencia/listing.ejs
-  - id: curso_20-21
-    contents: curso_20-21.yml
-    sort: "date desc"
-    template: ../css/docencia/listing.ejs
-  - id: curso_19-20
-    contents: curso_19-20.yml
-    sort: "date desc"
-    template: ../css/docencia/listing.ejs
-  - id: curso_18-19
-    contents: curso_18-19.yml
-    sort: "date desc"
-    template: ../css/docencia/listing.ejs
-  - id: cursos_14-18
-    contents: curso_14-18.yml
     sort: "date desc"
     template: ../css/docencia/listing.ejs
 page-layout: full
 toc: true
 toc-location: right
-toc-title: Curso académico
+toc-title: Cursos académicos
 ---
+
+## 2023–2024
+
+:::{#curso_23-24}
+:::
 
 ## 2022–2023
 
@@ -40,28 +29,7 @@ toc-title: Curso académico
 :::
 
 
-## 2021–2022
+## 2014–2022
 
-:::{#curso_21-22}
-:::
-
-## 2020–2021
-
-:::{#curso_20-21}
-:::
-
-## 2019–2020
-
-:::{#curso_19-20}
-:::
-
-## 2018–2019
-
-:::{#curso_18-19}
-:::
-
-## 2014–2018
-
-:::{#cursos_14-18}
-:::
+Sin material online disponible
 
